@@ -1,0 +1,5 @@
+url: rtt
+HTTP 1; http://www.youtube.com; 11.302963972091675
+HTTP 1 and 3; http://www.youtube.com; 12.31654167175293
+HTTP 1 and 2; http://www.youtube.com; 10.656278371810913
+HTTP 1, 2, and 3; http://www.youtube.com; 12.634887218475342

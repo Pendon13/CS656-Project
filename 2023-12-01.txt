@@ -1,0 +1,22 @@
+url: rtt
+HTTP 1, http://www.google.com, 1.94999098777771
+HTTP 1 and 3, http://www.google.com, 1.7155864238739014
+HTTP 1 and 2, http://www.google.com, 1.75370192527771
+HTTP 1,2, and 3, http://www.google.com, 1.5193812847137451
+HTTP 1, http://www.njit.edu, 4.619431018829346
+HTTP 1 and 3, http://www.njit.edu, 3.1075778007507324
+HTTP 1 and 2, http://www.njit.edu, 3.5306272506713867
+HTTP 1,2, and 3, http://www.njit.edu, 3.6173386573791504
+HTTP 1, http://www.facebook.com, 1.5642621517181396
+HTTP 1 and 3, http://www.facebook.com, 1.7211220264434814
+HTTP 1 and 2, http://www.facebook.com, 1.693915605545044
+HTTP 1,2, and 3, http://www.facebook.com, 1.6747493743896484
+HTTP 1, http://www.reddit.com, 2.3418631553649902
+HTTP 1 and 3, http://www.reddit.com, 1.6687390804290771
+HTTP 1 and 2, http://www.reddit.com, 2.7879858016967773
+HTTP 1,2, and 3, http://www.reddit.com, 2.0726029872894287
+HTTP 1, http://www.twitter.com, 2.420992612838745
+HTTP 1 and 3, http://www.twitter.com, 2.374722480773926
+HTTP 1 and 2, http://www.twitter.com, 2.2313122749328613
+HTTP 1,2, and 3, http://www.twitter.com, 2.1858227252960205
+##################################################

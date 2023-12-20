@@ -1,0 +1,6 @@
+url: rtt
+url: rtt
+HTTP 1, http://www.reddit.com, 1.325761079788208
+HTTP 1 and 3, http://www.reddit.com, 1.7500636577606201
+HTTP 1 and 2, http://www.reddit.com, 1.5028531551361084
+HTTP 1,2, and 3, http://www.reddit.com, 1.57944655418396

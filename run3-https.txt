@@ -1,0 +1,1998 @@
+protocol; url; rtt - Optimum Internet - Home Internet - Wifi - 2023-12-12 13:37:45.426185
+HTTP 1; https://google.com; 1.2686336040496826
+HTTP 1 and 3; https://google.com; 1.1629860401153564
+HTTP 1 and 2; https://google.com; 1.2229743003845215
+HTTP 1, 2, and 3; https://google.com; 1.1998775005340576
+HTTP 1; https://njit.edu; 2.9570493698120117
+HTTP 1 and 3; https://njit.edu; 3.153414487838745
+HTTP 1 and 2; https://njit.edu; 2.727367877960205
+HTTP 1, 2, and 3; https://njit.edu; 2.3387467861175537
+HTTP 1; https://facebook.com; 1.00760817527771
+HTTP 1 and 3; https://facebook.com; 1.1036396026611328
+HTTP 1 and 2; https://facebook.com; 0.9121742248535156
+HTTP 1, 2, and 3; https://facebook.com; 0.8204588890075684
+HTTP 1; https://reddit.com; 2.068572998046875
+HTTP 1 and 3; https://reddit.com; 2.7417850494384766
+HTTP 1 and 2; https://reddit.com; 3.1874442100524902
+HTTP 1, 2, and 3; https://reddit.com; 3.490475654602051
+HTTP 1; https://twitter.com; 1.830808401107788
+HTTP 1 and 3; https://twitter.com; 1.3166649341583252
+HTTP 1 and 2; https://twitter.com; 1.1473298072814941
+HTTP 1, 2, and 3; https://twitter.com; 1.7191803455352783
+HTTP 1; https://youtube.com; 4.888579845428467
+HTTP 1 and 3; https://youtube.com; 4.416619062423706
+HTTP 1 and 2; https://youtube.com; 4.240809679031372
+HTTP 1, 2, and 3; https://youtube.com; 4.707805156707764
+HTTP 1; https://amazon.com; 2.155503034591675
+HTTP 1 and 3; https://amazon.com; 0.7428381443023682
+HTTP 1 and 2; https://amazon.com; 1.834683895111084
+HTTP 1, 2, and 3; https://amazon.com; 1.635075330734253
+HTTP 1; https://wikipedia.org; 0.9873466491699219
+HTTP 1 and 3; https://wikipedia.org; 0.8147404193878174
+HTTP 1 and 2; https://wikipedia.org; 0.6586289405822754
+HTTP 1, 2, and 3; https://wikipedia.org; 0.6762170791625977
+HTTP 1; https://yahoo.com; 2.751739025115967
+HTTP 1 and 3; https://yahoo.com; 2.899707555770874
+HTTP 1 and 2; https://yahoo.com; 2.9955358505249023
+HTTP 1, 2, and 3; https://yahoo.com; 1.976524829864502
+HTTP 1; https://instagram.com; 1.284816026687622
+HTTP 1 and 3; https://instagram.com; 1.1742894649505615
+HTTP 1 and 2; https://instagram.com; 1.1814463138580322
+HTTP 1, 2, and 3; https://instagram.com; 1.1872169971466064
+HTTP 1; https://tiktok.com; 1.4497804641723633
+HTTP 1 and 3; https://tiktok.com; 3.1244983673095703
+HTTP 1 and 2; https://tiktok.com; 1.5980541706085205
+HTTP 1, 2, and 3; https://tiktok.com; 1.7011139392852783
+HTTP 1; https://linkedin.com; 1.4531362056732178
+HTTP 1 and 3; https://linkedin.com; 1.3969430923461914
+HTTP 1 and 2; https://linkedin.com; 1.3239548206329346
+HTTP 1, 2, and 3; https://linkedin.com; 1.1450262069702148
+HTTP 1; https://imgur.com; 3.610894203186035
+HTTP 1 and 3; https://imgur.com; 6.586674451828003
+HTTP 1 and 2; https://imgur.com; 2.9361109733581543
+HTTP 1, 2, and 3; https://imgur.com; 1.593207597732544
+HTTP 1; https://office.com; 3.416980028152466
+HTTP 1 and 3; https://office.com; 2.134544849395752
+HTTP 1 and 2; https://office.com; 3.657632827758789
+HTTP 1, 2, and 3; https://office.com; 3.3563292026519775
+HTTP 1; https://netflix.com; 1.4415924549102783
+HTTP 1 and 3; https://netflix.com; 1.573049545288086
+HTTP 1 and 2; https://netflix.com; 1.301391363143921
+HTTP 1, 2, and 3; https://netflix.com; 1.7460918426513672
+HTTP 1; https://bing.com; 0.5027217864990234
+HTTP 1 and 3; https://bing.com; 0.5261886119842529
+HTTP 1 and 2; https://bing.com; 0.3849143981933594
+HTTP 1, 2, and 3; https://bing.com; 0.3684873580932617
+HTTP 1; https://samsung.com; 4.411357641220093
+HTTP 1 and 3; https://samsung.com; 4.032619476318359
+HTTP 1 and 2; https://samsung.com; 2.875258684158325
+HTTP 1, 2, and 3; https://samsung.com; 2.9992897510528564
+HTTP 1; https://pinterest.com; 0.8939363956451416
+HTTP 1 and 3; https://pinterest.com; 1.030923843383789
+HTTP 1 and 2; https://pinterest.com; 0.8289566040039062
+HTTP 1, 2, and 3; https://pinterest.com; 0.7763733863830566
+HTTP 1; https://microsoft.com; 2.367262840270996
+HTTP 1 and 3; https://microsoft.com; 3.562110185623169
+HTTP 1 and 2; https://microsoft.com; 2.329084873199463
+HTTP 1, 2, and 3; https://microsoft.com; 2.798996925354004
+HTTP 1; https://discord.com; 1.7318346500396729
+HTTP 1 and 3; https://discord.com; 1.0235867500305176
+HTTP 1 and 2; https://discord.com; 1.467017650604248
+HTTP 1, 2, and 3; https://discord.com; 0.9376919269561768
+HTTP 1; https://weather.com; 1.287311315536499
+HTTP 1 and 3; https://weather.com; 1.31535005569458
+HTTP 1 and 2; https://weather.com; 1.1591126918792725
+HTTP 1, 2, and 3; https://weather.com; 1.129652738571167
+HTTP 1; https://twitch.tv; 3.7005062103271484
+HTTP 1 and 3; https://twitch.tv; 7.3386900424957275
+HTTP 1 and 2; https://twitch.tv; 3.2019121646881104
+HTTP 1, 2, and 3; https://twitch.tv; 3.1228928565979004
+HTTP 1; https://zoom.us; 2.6545233726501465
+HTTP 1 and 3; https://zoom.us; 2.699721336364746
+HTTP 1 and 2; https://zoom.us; 1.9522128105163574
+HTTP 1, 2, and 3; https://zoom.us; 11.800130128860474
+HTTP 1; https://duckduckgo.com; 4.314130067825317
+HTTP 1 and 3; https://duckduckgo.com; 3.6745638847351074
+HTTP 1 and 2; https://duckduckgo.com; 2.205871343612671
+HTTP 1, 2, and 3; https://duckduckgo.com; 2.484396457672119
+HTTP 1; https://quora.com; 5.307780504226685
+HTTP 1 and 3; https://quora.com; 8.370364427566528
+HTTP 1 and 2; https://quora.com; 3.4080557823181152
+HTTP 1, 2, and 3; https://quora.com; 3.5224950313568115
+HTTP 1; https://sharepoint.com; 4.118179798126221
+HTTP 1 and 3; https://sharepoint.com; 2.6834897994995117
+HTTP 1 and 2; https://sharepoint.com; 3.7988667488098145
+HTTP 1, 2, and 3; https://sharepoint.com; 3.4422712326049805
+HTTP 1; https://fandom.com; 1.9218754768371582
+HTTP 1 and 3; https://fandom.com; 2.0489375591278076
+HTTP 1 and 2; https://fandom.com; 1.8611485958099365
+HTTP 1, 2, and 3; https://fandom.com; 2.000495433807373
+HTTP 1; https://cnn.com; 4.684421062469482
+HTTP 1 and 3; https://cnn.com; 3.5806243419647217
+HTTP 1 and 2; https://cnn.com; 3.924363374710083
+HTTP 1, 2, and 3; https://cnn.com; 4.170058488845825
+HTTP 1; https://foxnews.com; 4.188655376434326
+HTTP 1 and 3; https://foxnews.com; 4.321636199951172
+HTTP 1 and 2; https://foxnews.com; 3.7602858543395996
+HTTP 1, 2, and 3; https://foxnews.com; 3.426121473312378
+HTTP 1; https://nytimes.com; 3.89372181892395
+HTTP 1 and 3; https://nytimes.com; 3.9716639518737793
+HTTP 1 and 2; https://nytimes.com; 3.299666166305542
+HTTP 1, 2, and 3; https://nytimes.com; 3.0251121520996094
+HTTP 1; https://ebay.com; 1.8191909790039062
+HTTP 1 and 3; https://ebay.com; 1.737431526184082
+HTTP 1 and 2; https://ebay.com; 1.6110758781433105
+HTTP 1, 2, and 3; https://ebay.com; 1.6753065586090088
+HTTP 1; https://imdb.com; 3.222923517227173
+HTTP 1 and 3; https://imdb.com; 3.1713483333587646
+HTTP 1 and 2; https://imdb.com; 23.659260511398315
+HTTP 1, 2, and 3; https://imdb.com; 3.231696128845215
+HTTP 1; https://walmart.com; 5.881108283996582
+HTTP 1 and 3; https://walmart.com; 3.3830108642578125
+HTTP 1 and 2; https://walmart.com; 3.4630582332611084
+HTTP 1, 2, and 3; https://walmart.com; 4.534548759460449
+HTTP 1; https://live.com; 4.477726936340332
+HTTP 1 and 3; https://live.com; 3.339655876159668
+HTTP 1 and 2; https://live.com; 1.6407034397125244
+HTTP 1, 2, and 3; https://live.com; 2.455085039138794
+HTTP 1; https://msn.com; 0.9294495582580566
+HTTP 1 and 3; https://msn.com; 0.9573636054992676
+HTTP 1 and 2; https://msn.com; 0.6789059638977051
+HTTP 1, 2, and 3; https://msn.com; 0.8643894195556641
+HTTP 1; https://instructure.com; 2.9247021675109863
+HTTP 1 and 3; https://instructure.com; 1.3400442600250244
+HTTP 1 and 2; https://instructure.com; 3.2686870098114014
+HTTP 1, 2, and 3; https://instructure.com; 1.0625078678131104
+HTTP 1; https://spotify.com; 3.2161638736724854
+HTTP 1 and 3; https://spotify.com; 3.0131168365478516
+HTTP 1 and 2; https://spotify.com; 3.2318990230560303
+HTTP 1, 2, and 3; https://spotify.com; 3.0813980102539062
+HTTP 1; https://usps.com; 2.74462890625
+HTTP 1 and 3; https://usps.com; 1.2141690254211426
+HTTP 1 and 2; https://usps.com; 2.4971702098846436
+HTTP 1, 2, and 3; https://usps.com; 2.891129732131958
+HTTP 1; https://accuweather.com; 2.8768606185913086
+HTTP 1 and 3; https://accuweather.com; 2.8787729740142822
+HTTP 1 and 2; https://accuweather.com; 3.2659339904785156
+HTTP 1, 2, and 3; https://accuweather.com; 2.7138140201568604
+HTTP 1; https://bbc.com; 0.9280385971069336
+HTTP 1 and 3; https://bbc.com; 0.8784844875335693
+HTTP 1 and 2; https://bbc.com; 0.9535486698150635
+HTTP 1, 2, and 3; https://bbc.com; 0.8329305648803711
+HTTP 1; https://indeed.com; 0.9667024612426758
+HTTP 1 and 3; https://indeed.com; 0.8471901416778564
+HTTP 1 and 2; https://indeed.com; 0.8776648044586182
+HTTP 1, 2, and 3; https://indeed.com; 0.7050058841705322
+HTTP 1; https://ziprecruiter.com; 1.517456293106079
+HTTP 1 and 3; https://ziprecruiter.com; 0.6627068519592285
+HTTP 1 and 2; https://ziprecruiter.com; 1.1928462982177734
+HTTP 1, 2, and 3; https://ziprecruiter.com; 1.0174133777618408
+HTTP 1; https://zillow.com; 6.674599647521973
+HTTP 1 and 3; https://zillow.com; 1.3680052757263184
+HTTP 1 and 2; https://zillow.com; 0.7497410774230957
+HTTP 1, 2, and 3; https://zillow.com; 0.7526187896728516
+HTTP 1; https://paypal.com; 1.4677197933197021
+HTTP 1 and 3; https://paypal.com; 1.5549812316894531
+HTTP 1 and 2; https://paypal.com; 1.8722193241119385
+HTTP 1, 2, and 3; https://paypal.com; 1.4897007942199707
+HTTP 1; https://etsy.com; 3.1729719638824463
+HTTP 1 and 3; https://etsy.com; 3.006654739379883
+HTTP 1 and 2; https://etsy.com; 2.3214340209960938
+HTTP 1, 2, and 3; https://etsy.com; 2.5435197353363037
+HTTP 1; https://nypost.com; 3.430657148361206
+HTTP 1 and 3; https://nypost.com; 3.7327237129211426
+HTTP 1 and 2; https://nypost.com; 5.3124165534973145
+HTTP 1, 2, and 3; https://nypost.com; 4.12530517578125
+HTTP 1; https://apple.com; 1.4419474601745605
+HTTP 1 and 3; https://apple.com; 1.8296000957489014
+HTTP 1 and 2; https://apple.com; 2.4532337188720703
+HTTP 1, 2, and 3; https://apple.com; 1.924088716506958
+HTTP 1; https://ign.com; 2.321132183074951
+HTTP 1 and 3; https://ign.com; 1.8323304653167725
+HTTP 1 and 2; https://ign.com; 1.4721746444702148
+HTTP 1, 2, and 3; https://ign.com; 1.3013200759887695
+HTTP 1; https://max.com; 2.256295919418335
+HTTP 1 and 3; https://max.com; 1.6795332431793213
+HTTP 1 and 2; https://max.com; 1.8770318031311035
+HTTP 1, 2, and 3; https://max.com; 2.049799680709839
+HTTP 1; https://usatoday.com; 3.3387699127197266
+HTTP 1 and 3; https://usatoday.com; 3.4127464294433594
+HTTP 1 and 2; https://usatoday.com; 3.396635055541992
+HTTP 1, 2, and 3; https://usatoday.com; 3.112708568572998
+HTTP 1; https://google.com; 1.5991530418395996
+HTTP 1 and 3; https://google.com; 1.3598597049713135
+HTTP 1 and 2; https://google.com; 2.0153415203094482
+HTTP 1, 2, and 3; https://google.com; 1.0948784351348877
+HTTP 1; https://njit.edu; 2.9793052673339844
+HTTP 1 and 3; https://njit.edu; 2.5285396575927734
+HTTP 1 and 2; https://njit.edu; 2.960211753845215
+HTTP 1, 2, and 3; https://njit.edu; 2.4642691612243652
+HTTP 1; https://facebook.com; 0.9190387725830078
+HTTP 1 and 3; https://facebook.com; 0.9246976375579834
+HTTP 1 and 2; https://facebook.com; 0.966597318649292
+HTTP 1, 2, and 3; https://facebook.com; 0.8941059112548828
+HTTP 1; https://reddit.com; 3.2925539016723633
+HTTP 1 and 3; https://reddit.com; 3.0779483318328857
+HTTP 1 and 2; https://reddit.com; 2.967836618423462
+HTTP 1, 2, and 3; https://reddit.com; 2.984323024749756
+HTTP 1; https://twitter.com; 1.3387260437011719
+HTTP 1 and 3; https://twitter.com; 1.3164114952087402
+HTTP 1 and 2; https://twitter.com; 1.688103437423706
+HTTP 1, 2, and 3; https://twitter.com; 1.7083244323730469
+HTTP 1; https://youtube.com; 4.8269875049591064
+HTTP 1 and 3; https://youtube.com; 5.0140252113342285
+HTTP 1 and 2; https://youtube.com; 6.291662693023682
+HTTP 1, 2, and 3; https://youtube.com; 4.648661851882935
+HTTP 1; https://amazon.com; 2.825000286102295
+HTTP 1 and 3; https://amazon.com; 2.8564562797546387
+HTTP 1 and 2; https://amazon.com; 2.048396110534668
+HTTP 1, 2, and 3; https://amazon.com; 2.0518696308135986
+HTTP 1; https://wikipedia.org; 0.9243834018707275
+HTTP 1 and 3; https://wikipedia.org; 0.9474153518676758
+HTTP 1 and 2; https://wikipedia.org; 0.6427257061004639
+HTTP 1, 2, and 3; https://wikipedia.org; 0.6635637283325195
+HTTP 1; https://yahoo.com; 3.0417068004608154
+HTTP 1 and 3; https://yahoo.com; 3.0063412189483643
+HTTP 1 and 2; https://yahoo.com; 2.155794858932495
+HTTP 1, 2, and 3; https://yahoo.com; 1.9874918460845947
+HTTP 1; https://instagram.com; 1.3233566284179688
+HTTP 1 and 3; https://instagram.com; 1.297525405883789
+HTTP 1 and 2; https://instagram.com; 1.2439627647399902
+HTTP 1, 2, and 3; https://instagram.com; 1.1748640537261963
+HTTP 1; https://tiktok.com; 1.6029877662658691
+HTTP 1 and 3; https://tiktok.com; 1.93379545211792
+HTTP 1 and 2; https://tiktok.com; 2.358187437057495
+HTTP 1, 2, and 3; https://tiktok.com; 1.8303794860839844
+HTTP 1; https://linkedin.com; 1.4180810451507568
+HTTP 1 and 3; https://linkedin.com; 1.5277032852172852
+HTTP 1 and 2; https://linkedin.com; 1.312000036239624
+HTTP 1, 2, and 3; https://linkedin.com; 1.282726526260376
+HTTP 1; https://imgur.com; 3.8867576122283936
+HTTP 1 and 3; https://imgur.com; 3.583932876586914
+HTTP 1 and 2; https://imgur.com; 2.596419334411621
+HTTP 1, 2, and 3; https://imgur.com; 3.6291534900665283
+HTTP 1; https://office.com; 3.0897622108459473
+HTTP 1 and 3; https://office.com; 2.104875326156616
+HTTP 1 and 2; https://office.com; 4.783641576766968
+HTTP 1, 2, and 3; https://office.com; 1.6828124523162842
+HTTP 1; https://netflix.com; 1.5403554439544678
+HTTP 1 and 3; https://netflix.com; 1.402122974395752
+HTTP 1 and 2; https://netflix.com; 3.7996909618377686
+HTTP 1, 2, and 3; https://netflix.com; 2.193263292312622
+HTTP 1; https://bing.com; 0.6028885841369629
+HTTP 1 and 3; https://bing.com; 0.6786582469940186
+HTTP 1 and 2; https://bing.com; 0.4857785701751709
+HTTP 1, 2, and 3; https://bing.com; 0.44997262954711914
+HTTP 1; https://samsung.com; 4.9202423095703125
+HTTP 1 and 3; https://samsung.com; 4.452051401138306
+HTTP 1 and 2; https://samsung.com; 3.63322114944458
+HTTP 1, 2, and 3; https://samsung.com; 4.192366123199463
+HTTP 1; https://pinterest.com; 1.2115368843078613
+HTTP 1 and 3; https://pinterest.com; 1.7585086822509766
+HTTP 1 and 2; https://pinterest.com; 1.2996485233306885
+HTTP 1, 2, and 3; https://pinterest.com; 0.9476127624511719
+HTTP 1; https://microsoft.com; 3.3722095489501953
+HTTP 1 and 3; https://microsoft.com; 2.7786550521850586
+HTTP 1 and 2; https://microsoft.com; 1.8830006122589111
+HTTP 1, 2, and 3; https://microsoft.com; 4.090169668197632
+HTTP 1; https://discord.com; 1.9881534576416016
+HTTP 1 and 3; https://discord.com; 1.6028976440429688
+HTTP 1 and 2; https://discord.com; 1.5761501789093018
+HTTP 1, 2, and 3; https://discord.com; 1.1734356880187988
+HTTP 1; https://weather.com; 1.7261087894439697
+HTTP 1 and 3; https://weather.com; 4.072339773178101
+HTTP 1 and 2; https://weather.com; 3.5920333862304688
+HTTP 1, 2, and 3; https://weather.com; 1.0300219058990479
+HTTP 1; https://twitch.tv; 16.933830499649048
+HTTP 1 and 3; https://twitch.tv; 3.6860601902008057
+HTTP 1 and 2; https://twitch.tv; 11.332248210906982
+HTTP 1, 2, and 3; https://twitch.tv; 7.881021738052368
+HTTP 1; https://zoom.us; 2.2870631217956543
+HTTP 1 and 3; https://zoom.us; 2.36027193069458
+HTTP 1 and 2; https://zoom.us; 1.9587492942810059
+HTTP 1, 2, and 3; https://zoom.us; 1.8785758018493652
+HTTP 1; https://duckduckgo.com; 1.1443607807159424
+HTTP 1 and 3; https://duckduckgo.com; 1.1851348876953125
+HTTP 1 and 2; https://duckduckgo.com; 1.3388104438781738
+HTTP 1, 2, and 3; https://duckduckgo.com; 1.3355998992919922
+HTTP 1; https://quora.com; 1.4749531745910645
+HTTP 1 and 3; https://quora.com; 1.5692791938781738
+HTTP 1 and 2; https://quora.com; 1.197603702545166
+HTTP 1, 2, and 3; https://quora.com; 1.2990281581878662
+HTTP 1; https://sharepoint.com; 3.156182289123535
+HTTP 1 and 3; https://sharepoint.com; 3.6864871978759766
+HTTP 1 and 2; https://sharepoint.com; 4.016246318817139
+HTTP 1, 2, and 3; https://sharepoint.com; 4.2302565574646
+HTTP 1; https://fandom.com; 1.8910210132598877
+HTTP 1 and 3; https://fandom.com; 1.857534646987915
+HTTP 1 and 2; https://fandom.com; 2.5363166332244873
+HTTP 1, 2, and 3; https://fandom.com; 1.7913429737091064
+HTTP 1; https://cnn.com; 4.037777900695801
+HTTP 1 and 3; https://cnn.com; 3.7163190841674805
+HTTP 1 and 2; https://cnn.com; 4.243129014968872
+HTTP 1, 2, and 3; https://cnn.com; 3.2759876251220703
+HTTP 1; https://foxnews.com; 3.8155555725097656
+HTTP 1 and 3; https://foxnews.com; 3.5314669609069824
+HTTP 1 and 2; https://foxnews.com; 5.617277145385742
+HTTP 1, 2, and 3; https://foxnews.com; 3.4666717052459717
+HTTP 1; https://nytimes.com; 3.9130237102508545
+HTTP 1 and 3; https://nytimes.com; 3.7335357666015625
+HTTP 1 and 2; https://nytimes.com; 4.234583854675293
+HTTP 1, 2, and 3; https://nytimes.com; 3.989138126373291
+HTTP 1; https://ebay.com; 2.068873643875122
+HTTP 1 and 3; https://ebay.com; 1.9278533458709717
+HTTP 1 and 2; https://ebay.com; 1.7544889450073242
+HTTP 1, 2, and 3; https://ebay.com; 1.8819217681884766
+HTTP 1; https://imdb.com; 3.5288147926330566
+HTTP 1 and 3; https://imdb.com; 2.8427157402038574
+HTTP 1 and 2; https://imdb.com; 3.712273120880127
+HTTP 1, 2, and 3; https://imdb.com; 4.129687070846558
+HTTP 1; https://walmart.com; 3.0783531665802
+HTTP 1 and 3; https://walmart.com; 2.998473644256592
+HTTP 1 and 2; https://walmart.com; 3.092557430267334
+HTTP 1, 2, and 3; https://walmart.com; 3.1232073307037354
+HTTP 1; https://live.com; 2.8596086502075195
+HTTP 1 and 3; https://live.com; 2.371781587600708
+HTTP 1 and 2; https://live.com; 1.8099408149719238
+HTTP 1, 2, and 3; https://live.com; 3.153398275375366
+HTTP 1; https://msn.com; 1.0530178546905518
+HTTP 1 and 3; https://msn.com; 0.8048949241638184
+HTTP 1 and 2; https://msn.com; 0.9225776195526123
+HTTP 1, 2, and 3; https://msn.com; 0.6762957572937012
+HTTP 1; https://instructure.com; 2.9922876358032227
+HTTP 1 and 3; https://instructure.com; 1.0904250144958496
+HTTP 1 and 2; https://instructure.com; 1.0649168491363525
+HTTP 1, 2, and 3; https://instructure.com; 1.178623914718628
+HTTP 1; https://spotify.com; 2.8638577461242676
+HTTP 1 and 3; https://spotify.com; 3.022162675857544
+HTTP 1 and 2; https://spotify.com; 2.4105093479156494
+HTTP 1, 2, and 3; https://spotify.com; 2.9942078590393066
+HTTP 1; https://usps.com; 3.7228941917419434
+HTTP 1 and 3; https://usps.com; 3.2117748260498047
+HTTP 1 and 2; https://usps.com; 2.871790885925293
+HTTP 1, 2, and 3; https://usps.com; 2.584779739379883
+HTTP 1; https://accuweather.com; 2.330176591873169
+HTTP 1 and 3; https://accuweather.com; 1.8996708393096924
+HTTP 1 and 2; https://accuweather.com; 2.406508207321167
+HTTP 1, 2, and 3; https://accuweather.com; 2.556295156478882
+HTTP 1; https://bbc.com; 0.8632702827453613
+HTTP 1 and 3; https://bbc.com; 0.6808090209960938
+HTTP 1 and 2; https://bbc.com; 2.1777143478393555
+HTTP 1, 2, and 3; https://bbc.com; 1.5304296016693115
+HTTP 1; https://indeed.com; 1.048762559890747
+HTTP 1 and 3; https://indeed.com; 1.012669563293457
+HTTP 1 and 2; https://indeed.com; 0.8696589469909668
+HTTP 1, 2, and 3; https://indeed.com; 0.7647361755371094
+HTTP 1; https://ziprecruiter.com; 1.1947734355926514
+HTTP 1 and 3; https://ziprecruiter.com; 1.2725718021392822
+HTTP 1 and 2; https://ziprecruiter.com; 1.2136156558990479
+HTTP 1, 2, and 3; https://ziprecruiter.com; 1.0191020965576172
+HTTP 1; https://zillow.com; 3.1203856468200684
+HTTP 1 and 3; https://zillow.com; 0.9844233989715576
+HTTP 1 and 2; https://zillow.com; 0.9361312389373779
+HTTP 1, 2, and 3; https://zillow.com; 0.8976044654846191
+HTTP 1; https://paypal.com; 2.7676806449890137
+HTTP 1 and 3; https://paypal.com; 1.5196588039398193
+HTTP 1 and 2; https://paypal.com; 1.8680174350738525
+HTTP 1, 2, and 3; https://paypal.com; 2.0051419734954834
+HTTP 1; https://etsy.com; 2.5730276107788086
+HTTP 1 and 3; https://etsy.com; 2.6827290058135986
+HTTP 1 and 2; https://etsy.com; 3.3472001552581787
+HTTP 1, 2, and 3; https://etsy.com; 2.932647228240967
+HTTP 1; https://nypost.com; 3.3941385746002197
+HTTP 1 and 3; https://nypost.com; 54.1139452457428
+HTTP 1 and 2; https://nypost.com; 3.5368287563323975
+HTTP 1, 2, and 3; https://nypost.com; 3.374779462814331
+HTTP 1; https://apple.com; 1.499786615371704
+HTTP 1 and 3; https://apple.com; 1.3074884414672852
+HTTP 1 and 2; https://apple.com; 1.891545295715332
+HTTP 1, 2, and 3; https://apple.com; 1.9859516620635986
+HTTP 1; https://ign.com; 1.5175044536590576
+HTTP 1 and 3; https://ign.com; 1.4089653491973877
+HTTP 1 and 2; https://ign.com; 1.3997018337249756
+HTTP 1, 2, and 3; https://ign.com; 1.3148481845855713
+HTTP 1; https://max.com; 2.078160285949707
+HTTP 1 and 3; https://max.com; 1.7120177745819092
+HTTP 1 and 2; https://max.com; 1.756115436553955
+HTTP 1, 2, and 3; https://max.com; 1.820768117904663
+HTTP 1; https://usatoday.com; 3.1803784370422363
+HTTP 1 and 3; https://usatoday.com; 3.163057565689087
+HTTP 1 and 2; https://usatoday.com; 3.337190628051758
+HTTP 1, 2, and 3; https://usatoday.com; 8.806854009628296
+HTTP 1; https://google.com; 3.662489414215088
+HTTP 1 and 3; https://google.com; 1.2176399230957031
+HTTP 1 and 2; https://google.com; 1.3375499248504639
+HTTP 1, 2, and 3; https://google.com; 1.066086769104004
+HTTP 1; https://njit.edu; 3.0849149227142334
+HTTP 1 and 3; https://njit.edu; 3.044022560119629
+HTTP 1 and 2; https://njit.edu; 2.8518996238708496
+HTTP 1, 2, and 3; https://njit.edu; 2.611696720123291
+HTTP 1; https://facebook.com; 1.0315685272216797
+HTTP 1 and 3; https://facebook.com; 0.9864287376403809
+HTTP 1 and 2; https://facebook.com; 0.7995123863220215
+HTTP 1, 2, and 3; https://facebook.com; 0.8532044887542725
+HTTP 1; https://reddit.com; 3.407273054122925
+HTTP 1 and 3; https://reddit.com; 3.0674681663513184
+HTTP 1 and 2; https://reddit.com; 3.101837635040283
+HTTP 1, 2, and 3; https://reddit.com; 3.2871549129486084
+HTTP 1; https://twitter.com; 3.505175828933716
+HTTP 1 and 3; https://twitter.com; 1.2172367572784424
+HTTP 1 and 2; https://twitter.com; 1.1316947937011719
+HTTP 1, 2, and 3; https://twitter.com; 2.3806493282318115
+HTTP 1; https://youtube.com; 4.593562126159668
+HTTP 1 and 3; https://youtube.com; 4.6251747608184814
+HTTP 1 and 2; https://youtube.com; 4.565916538238525
+HTTP 1, 2, and 3; https://youtube.com; 4.803116798400879
+HTTP 1; https://amazon.com; 0.9084665775299072
+HTTP 1 and 3; https://amazon.com; 3.2724125385284424
+HTTP 1 and 2; https://amazon.com; 2.263803482055664
+HTTP 1, 2, and 3; https://amazon.com; 1.8401482105255127
+HTTP 1; https://wikipedia.org; 0.8947081565856934
+HTTP 1 and 3; https://wikipedia.org; 0.8333892822265625
+HTTP 1 and 2; https://wikipedia.org; 0.7587130069732666
+HTTP 1, 2, and 3; https://wikipedia.org; 0.6644508838653564
+HTTP 1; https://yahoo.com; 3.044821262359619
+HTTP 1 and 3; https://yahoo.com; 2.0185093879699707
+HTTP 1 and 2; https://yahoo.com; 2.0215213298797607
+HTTP 1, 2, and 3; https://yahoo.com; 3.10383677482605
+HTTP 1; https://instagram.com; 1.449775218963623
+HTTP 1 and 3; https://instagram.com; 1.3241605758666992
+HTTP 1 and 2; https://instagram.com; 1.2211112976074219
+HTTP 1, 2, and 3; https://instagram.com; 1.1557753086090088
+HTTP 1; https://tiktok.com; 1.4888336658477783
+HTTP 1 and 3; https://tiktok.com; 1.504361867904663
+HTTP 1 and 2; https://tiktok.com; 1.8266398906707764
+HTTP 1, 2, and 3; https://tiktok.com; 1.576411485671997
+HTTP 1; https://linkedin.com; 2.062882661819458
+HTTP 1 and 3; https://linkedin.com; 1.4742658138275146
+HTTP 1 and 2; https://linkedin.com; 1.236905574798584
+HTTP 1, 2, and 3; https://linkedin.com; 1.2931911945343018
+HTTP 1; https://imgur.com; 3.239706039428711
+HTTP 1 and 3; https://imgur.com; 3.566289186477661
+HTTP 1 and 2; https://imgur.com; 2.710554361343384
+HTTP 1, 2, and 3; https://imgur.com; 2.935711145401001
+HTTP 1; https://office.com; 2.5839338302612305
+HTTP 1 and 3; https://office.com; 2.2007691860198975
+HTTP 1 and 2; https://office.com; 3.3939523696899414
+HTTP 1, 2, and 3; https://office.com; 3.833578109741211
+HTTP 1; https://netflix.com; 1.435211420059204
+HTTP 1 and 3; https://netflix.com; 1.4140689373016357
+HTTP 1 and 2; https://netflix.com; 1.3065032958984375
+HTTP 1, 2, and 3; https://netflix.com; 1.5540986061096191
+HTTP 1; https://bing.com; 0.5216567516326904
+HTTP 1 and 3; https://bing.com; 0.5637354850769043
+HTTP 1 and 2; https://bing.com; 0.38906192779541016
+HTTP 1, 2, and 3; https://bing.com; 0.4612905979156494
+HTTP 1; https://samsung.com; 3.295679807662964
+HTTP 1 and 3; https://samsung.com; 4.135259389877319
+HTTP 1 and 2; https://samsung.com; 3.5804009437561035
+HTTP 1, 2, and 3; https://samsung.com; 3.832890510559082
+HTTP 1; https://pinterest.com; 1.616379737854004
+HTTP 1 and 3; https://pinterest.com; 1.100381851196289
+HTTP 1 and 2; https://pinterest.com; 0.7956876754760742
+HTTP 1, 2, and 3; https://pinterest.com; 0.8014862537384033
+HTTP 1; https://microsoft.com; 3.6112968921661377
+HTTP 1 and 3; https://microsoft.com; 3.1645326614379883
+HTTP 1 and 2; https://microsoft.com; 3.992107629776001
+HTTP 1, 2, and 3; https://microsoft.com; 3.3665711879730225
+HTTP 1; https://discord.com; 1.5660698413848877
+HTTP 1 and 3; https://discord.com; 1.5080318450927734
+HTTP 1 and 2; https://discord.com; 3.2284955978393555
+HTTP 1, 2, and 3; https://discord.com; 0.9457485675811768
+HTTP 1; https://weather.com; 1.2194015979766846
+HTTP 1 and 3; https://weather.com; 1.3337244987487793
+HTTP 1 and 2; https://weather.com; 1.2555980682373047
+HTTP 1, 2, and 3; https://weather.com; 1.1286861896514893
+HTTP 1; https://twitch.tv; 3.6375017166137695
+HTTP 1 and 3; https://twitch.tv; 6.058811187744141
+HTTP 1 and 2; https://twitch.tv; 7.315180540084839
+HTTP 1, 2, and 3; https://twitch.tv; 8.309678077697754
+HTTP 1; https://zoom.us; 2.8813064098358154
+HTTP 1 and 3; https://zoom.us; 2.393336057662964
+HTTP 1 and 2; https://zoom.us; 1.7553155422210693
+HTTP 1, 2, and 3; https://zoom.us; 1.7223386764526367
+HTTP 1; https://duckduckgo.com; 1.2238633632659912
+HTTP 1 and 3; https://duckduckgo.com; 1.2096951007843018
+HTTP 1 and 2; https://duckduckgo.com; 1.6736464500427246
+HTTP 1, 2, and 3; https://duckduckgo.com; 0.9995310306549072
+HTTP 1; https://quora.com; 1.6336004734039307
+HTTP 1 and 3; https://quora.com; 1.2973551750183105
+HTTP 1 and 2; https://quora.com; 1.4339797496795654
+HTTP 1, 2, and 3; https://quora.com; 1.4262816905975342
+HTTP 1; https://sharepoint.com; 4.174098491668701
+HTTP 1 and 3; https://sharepoint.com; 3.4402449131011963
+HTTP 1 and 2; https://sharepoint.com; 3.5090949535369873
+HTTP 1, 2, and 3; https://sharepoint.com; 4.537860155105591
+HTTP 1; https://fandom.com; 1.8156871795654297
+HTTP 1 and 3; https://fandom.com; 1.9612452983856201
+HTTP 1 and 2; https://fandom.com; 1.8388612270355225
+HTTP 1, 2, and 3; https://fandom.com; 2.7252113819122314
+HTTP 1; https://cnn.com; 4.236754894256592
+HTTP 1 and 3; https://cnn.com; 3.852447032928467
+HTTP 1 and 2; https://cnn.com; 4.282440662384033
+HTTP 1, 2, and 3; https://cnn.com; 3.755230188369751
+HTTP 1; https://foxnews.com; 4.03817892074585
+HTTP 1 and 3; https://foxnews.com; 4.085241794586182
+HTTP 1 and 2; https://foxnews.com; 3.778668165206909
+HTTP 1, 2, and 3; https://foxnews.com; 3.9809179306030273
+HTTP 1; https://nytimes.com; 4.901503086090088
+HTTP 1 and 3; https://nytimes.com; 3.8456127643585205
+HTTP 1 and 2; https://nytimes.com; 3.945943832397461
+HTTP 1, 2, and 3; https://nytimes.com; 3.8234994411468506
+HTTP 1; https://ebay.com; 1.9205734729766846
+HTTP 1 and 3; https://ebay.com; 1.9073786735534668
+HTTP 1 and 2; https://ebay.com; 1.7036545276641846
+HTTP 1, 2, and 3; https://ebay.com; 2.586076498031616
+HTTP 1; https://imdb.com; 3.5676753520965576
+HTTP 1 and 3; https://imdb.com; 3.4182188510894775
+HTTP 1 and 2; https://imdb.com; 3.4025321006774902
+HTTP 1, 2, and 3; https://imdb.com; 3.4398460388183594
+HTTP 1; https://walmart.com; 3.217057228088379
+HTTP 1 and 3; https://walmart.com; 3.0029003620147705
+HTTP 1 and 2; https://walmart.com; 2.0654358863830566
+HTTP 1, 2, and 3; https://walmart.com; 2.5997281074523926
+HTTP 1; https://live.com; 3.2903246879577637
+HTTP 1 and 3; https://live.com; 2.4626007080078125
+HTTP 1 and 2; https://live.com; 2.3073694705963135
+HTTP 1, 2, and 3; https://live.com; 1.7529447078704834
+HTTP 1; https://msn.com; 0.945106029510498
+HTTP 1 and 3; https://msn.com; 0.722618818283081
+HTTP 1 and 2; https://msn.com; 0.7420141696929932
+HTTP 1, 2, and 3; https://msn.com; 1.1705873012542725
+HTTP 1; https://instructure.com; 3.1508281230926514
+HTTP 1 and 3; https://instructure.com; 1.4996941089630127
+HTTP 1 and 2; https://instructure.com; 2.622854471206665
+HTTP 1, 2, and 3; https://instructure.com; 0.9972107410430908
+HTTP 1; https://spotify.com; 3.263138771057129
+HTTP 1 and 3; https://spotify.com; 3.071443557739258
+HTTP 1 and 2; https://spotify.com; 2.344982862472534
+HTTP 1, 2, and 3; https://spotify.com; 2.3232858180999756
+HTTP 1; https://usps.com; 2.448713541030884
+HTTP 1 and 3; https://usps.com; 2.913522720336914
+HTTP 1 and 2; https://usps.com; 4.4296770095825195
+HTTP 1, 2, and 3; https://usps.com; 3.119440793991089
+HTTP 1; https://accuweather.com; 2.596769332885742
+HTTP 1 and 3; https://accuweather.com; 2.6550095081329346
+HTTP 1 and 2; https://accuweather.com; 2.492759943008423
+HTTP 1, 2, and 3; https://accuweather.com; 2.0909547805786133
+HTTP 1; https://bbc.com; 0.8954355716705322
+HTTP 1 and 3; https://bbc.com; 0.7346048355102539
+HTTP 1 and 2; https://bbc.com; 0.8769800662994385
+HTTP 1, 2, and 3; https://bbc.com; 2.3896007537841797
+HTTP 1; https://indeed.com; 1.058161735534668
+HTTP 1 and 3; https://indeed.com; 0.9704916477203369
+HTTP 1 and 2; https://indeed.com; 0.9918990135192871
+HTTP 1, 2, and 3; https://indeed.com; 0.6653592586517334
+HTTP 1; https://ziprecruiter.com; 1.2663891315460205
+HTTP 1 and 3; https://ziprecruiter.com; 1.2039761543273926
+HTTP 1 and 2; https://ziprecruiter.com; 1.3254201412200928
+HTTP 1, 2, and 3; https://ziprecruiter.com; 0.5392980575561523
+HTTP 1; https://zillow.com; 3.1079187393188477
+HTTP 1 and 3; https://zillow.com; 0.8627579212188721
+HTTP 1 and 2; https://zillow.com; 0.8105716705322266
+HTTP 1, 2, and 3; https://zillow.com; 0.8361611366271973
+HTTP 1; https://paypal.com; 2.2546491622924805
+HTTP 1 and 3; https://paypal.com; 2.191579818725586
+HTTP 1 and 2; https://paypal.com; 1.6159348487854004
+HTTP 1, 2, and 3; https://paypal.com; 1.3476336002349854
+HTTP 1; https://etsy.com; 2.8569908142089844
+HTTP 1 and 3; https://etsy.com; 2.490999937057495
+HTTP 1 and 2; https://etsy.com; 2.2072508335113525
+HTTP 1, 2, and 3; https://etsy.com; 2.5544021129608154
+HTTP 1; https://nypost.com; 3.6476261615753174
+HTTP 1 and 3; https://nypost.com; 3.4406673908233643
+HTTP 1 and 2; https://nypost.com; 4.3565943241119385
+HTTP 1, 2, and 3; https://nypost.com; 4.038552522659302
+HTTP 1; https://apple.com; 1.507094383239746
+HTTP 1 and 3; https://apple.com; 1.4300618171691895
+HTTP 1 and 2; https://apple.com; 1.7943544387817383
+HTTP 1, 2, and 3; https://apple.com; 3.278341293334961
+HTTP 1; https://ign.com; 1.4007599353790283
+HTTP 1 and 3; https://ign.com; 1.454362392425537
+HTTP 1 and 2; https://ign.com; 1.1268606185913086
+HTTP 1, 2, and 3; https://ign.com; 1.4434762001037598
+HTTP 1; https://max.com; 6.3344690799713135
+HTTP 1 and 3; https://max.com; 1.7723171710968018
+HTTP 1 and 2; https://max.com; 1.623276948928833
+HTTP 1, 2, and 3; https://max.com; 1.5436155796051025
+HTTP 1; https://usatoday.com; 4.730145215988159
+HTTP 1 and 3; https://usatoday.com; 3.0226027965545654
+HTTP 1 and 2; https://usatoday.com; 4.144274950027466
+HTTP 1, 2, and 3; https://usatoday.com; 3.396784782409668
+HTTP 1; https://google.com; 1.2041091918945312
+HTTP 1 and 3; https://google.com; 1.9785165786743164
+HTTP 1 and 2; https://google.com; 1.5112619400024414
+HTTP 1, 2, and 3; https://google.com; 1.1872425079345703
+HTTP 1; https://njit.edu; 3.3750526905059814
+HTTP 1 and 3; https://njit.edu; 4.118331432342529
+HTTP 1 and 2; https://njit.edu; 2.6803736686706543
+HTTP 1, 2, and 3; https://njit.edu; 2.7126376628875732
+HTTP 1; https://facebook.com; 1.0309014320373535
+HTTP 1 and 3; https://facebook.com; 0.9226593971252441
+HTTP 1 and 2; https://facebook.com; 0.8254406452178955
+HTTP 1, 2, and 3; https://facebook.com; 0.8508248329162598
+HTTP 1; https://reddit.com; 3.4439871311187744
+HTTP 1 and 3; https://reddit.com; 3.044034719467163
+HTTP 1 and 2; https://reddit.com; 3.0011138916015625
+HTTP 1, 2, and 3; https://reddit.com; 3.0263149738311768
+HTTP 1; https://twitter.com; 1.2427337169647217
+HTTP 1 and 3; https://twitter.com; 1.4258027076721191
+HTTP 1 and 2; https://twitter.com; 1.9372422695159912
+HTTP 1, 2, and 3; https://twitter.com; 1.2335689067840576
+HTTP 1; https://youtube.com; 4.983168601989746
+HTTP 1 and 3; https://youtube.com; 3.7891173362731934
+HTTP 1 and 2; https://youtube.com; 4.420516490936279
+HTTP 1, 2, and 3; https://youtube.com; 5.3813371658325195
+HTTP 1; https://amazon.com; 3.229780673980713
+HTTP 1 and 3; https://amazon.com; 2.3948957920074463
+HTTP 1 and 2; https://amazon.com; 2.141655206680298
+HTTP 1, 2, and 3; https://amazon.com; 0.894744873046875
+HTTP 1; https://wikipedia.org; 0.9870636463165283
+HTTP 1 and 3; https://wikipedia.org; 0.8037381172180176
+HTTP 1 and 2; https://wikipedia.org; 0.6686141490936279
+HTTP 1, 2, and 3; https://wikipedia.org; 0.6198418140411377
+HTTP 1; https://yahoo.com; 2.056706428527832
+HTTP 1 and 3; https://yahoo.com; 2.706270694732666
+HTTP 1 and 2; https://yahoo.com; 2.9387035369873047
+HTTP 1, 2, and 3; https://yahoo.com; 1.7818832397460938
+HTTP 1; https://instagram.com; 1.2139153480529785
+HTTP 1 and 3; https://instagram.com; 1.2602934837341309
+HTTP 1 and 2; https://instagram.com; 1.2050747871398926
+HTTP 1, 2, and 3; https://instagram.com; 1.2652485370635986
+HTTP 1; https://tiktok.com; 2.2323479652404785
+HTTP 1 and 3; https://tiktok.com; 1.4790399074554443
+HTTP 1 and 2; https://tiktok.com; 1.6853361129760742
+HTTP 1, 2, and 3; https://tiktok.com; 1.7300207614898682
+HTTP 1; https://linkedin.com; 1.5670840740203857
+HTTP 1 and 3; https://linkedin.com; 1.5241765975952148
+HTTP 1 and 2; https://linkedin.com; 1.2027766704559326
+HTTP 1, 2, and 3; https://linkedin.com; 1.5173256397247314
+HTTP 1; https://imgur.com; 1.6710870265960693
+HTTP 1 and 3; https://imgur.com; 2.562979221343994
+HTTP 1 and 2; https://imgur.com; 3.394744396209717
+HTTP 1, 2, and 3; https://imgur.com; 2.9976553916931152
+HTTP 1; https://office.com; 3.613295078277588
+HTTP 1 and 3; https://office.com; 2.2715673446655273
+HTTP 1 and 2; https://office.com; 3.5855841636657715
+HTTP 1, 2, and 3; https://office.com; 1.5750539302825928
+HTTP 1; https://netflix.com; 1.4822471141815186
+HTTP 1 and 3; https://netflix.com; 1.4686589241027832
+HTTP 1 and 2; https://netflix.com; 1.353442668914795
+HTTP 1, 2, and 3; https://netflix.com; 1.3727385997772217
+HTTP 1; https://bing.com; 0.8100252151489258
+HTTP 1 and 3; https://bing.com; 0.5302479267120361
+HTTP 1 and 2; https://bing.com; 0.42705488204956055
+HTTP 1, 2, and 3; https://bing.com; 0.36680126190185547
+HTTP 1; https://samsung.com; 4.416923522949219
+HTTP 1 and 3; https://samsung.com; 2.4401421546936035
+HTTP 1 and 2; https://samsung.com; 5.101484537124634
+HTTP 1, 2, and 3; https://samsung.com; 2.8684914112091064
+HTTP 1; https://pinterest.com; 1.0446546077728271
+HTTP 1 and 3; https://pinterest.com; 0.9448230266571045
+HTTP 1 and 2; https://pinterest.com; 1.8214812278747559
+HTTP 1, 2, and 3; https://pinterest.com; 0.8728933334350586
+HTTP 1; https://microsoft.com; 3.3095710277557373
+HTTP 1 and 3; https://microsoft.com; 3.2984111309051514
+HTTP 1 and 2; https://microsoft.com; 3.938336133956909
+HTTP 1, 2, and 3; https://microsoft.com; 3.8721625804901123
+HTTP 1; https://discord.com; 1.5970594882965088
+HTTP 1 and 3; https://discord.com; 1.3803901672363281
+HTTP 1 and 2; https://discord.com; 1.4014358520507812
+HTTP 1, 2, and 3; https://discord.com; 1.196063756942749
+HTTP 1; https://weather.com; 1.4026288986206055
+HTTP 1 and 3; https://weather.com; 1.3323769569396973
+HTTP 1 and 2; https://weather.com; 1.233933448791504
+HTTP 1, 2, and 3; https://weather.com; 1.031531572341919
+HTTP 1; https://twitch.tv; 7.734359979629517
+HTTP 1 and 3; https://twitch.tv; 8.438342332839966
+HTTP 1 and 2; https://twitch.tv; 8.148044347763062
+HTTP 1, 2, and 3; https://twitch.tv; 3.0285611152648926
+HTTP 1; https://zoom.us; 2.383647918701172
+HTTP 1 and 3; https://zoom.us; 3.0624969005584717
+HTTP 1 and 2; https://zoom.us; 1.918705701828003
+HTTP 1, 2, and 3; https://zoom.us; 2.8116745948791504
+HTTP 1; https://duckduckgo.com; 1.0839574337005615
+HTTP 1 and 3; https://duckduckgo.com; 1.158416748046875
+HTTP 1 and 2; https://duckduckgo.com; 1.4127717018127441
+HTTP 1, 2, and 3; https://duckduckgo.com; 1.570497989654541
+HTTP 1; https://quora.com; 1.4948244094848633
+HTTP 1 and 3; https://quora.com; 2.8806557655334473
+HTTP 1 and 2; https://quora.com; 1.9370131492614746
+HTTP 1, 2, and 3; https://quora.com; 1.3156757354736328
+HTTP 1; https://sharepoint.com; 4.478115081787109
+HTTP 1 and 3; https://sharepoint.com; 3.9737308025360107
+HTTP 1 and 2; https://sharepoint.com; 4.047858238220215
+HTTP 1, 2, and 3; https://sharepoint.com; 3.528602361679077
+HTTP 1; https://fandom.com; 1.6960701942443848
+HTTP 1 and 3; https://fandom.com; 2.50535249710083
+HTTP 1 and 2; https://fandom.com; 2.9063339233398438
+HTTP 1, 2, and 3; https://fandom.com; 2.6863253116607666
+HTTP 1; https://cnn.com; 3.57771897315979
+HTTP 1 and 3; https://cnn.com; 3.001208782196045
+HTTP 1 and 2; https://cnn.com; 4.184142112731934
+HTTP 1, 2, and 3; https://cnn.com; 3.269420862197876
+HTTP 1; https://foxnews.com; 3.7235653400421143
+HTTP 1 and 3; https://foxnews.com; 4.885159254074097
+HTTP 1 and 2; https://foxnews.com; 5.38178014755249
+HTTP 1, 2, and 3; https://foxnews.com; 4.129699230194092
+HTTP 1; https://nytimes.com; 3.048107624053955
+HTTP 1 and 3; https://nytimes.com; 3.8075637817382812
+HTTP 1 and 2; https://nytimes.com; 3.2777535915374756
+HTTP 1, 2, and 3; https://nytimes.com; 13.82786774635315
+HTTP 1; https://ebay.com; 2.307058572769165
+HTTP 1 and 3; https://ebay.com; 2.0723485946655273
+HTTP 1 and 2; https://ebay.com; 1.8325614929199219
+HTTP 1, 2, and 3; https://ebay.com; 2.1114771366119385
+HTTP 1; https://imdb.com; 4.9985127449035645
+HTTP 1 and 3; https://imdb.com; 3.5348093509674072
+HTTP 1 and 2; https://imdb.com; 3.3222262859344482
+HTTP 1, 2, and 3; https://imdb.com; 5.265435218811035
+HTTP 1; https://walmart.com; 3.117621421813965
+HTTP 1 and 3; https://walmart.com; 3.5441508293151855
+HTTP 1 and 2; https://walmart.com; 2.9122653007507324
+HTTP 1, 2, and 3; https://walmart.com; 2.362966299057007
+HTTP 1; https://live.com; 2.4706900119781494
+HTTP 1 and 3; https://live.com; 3.103614091873169
+HTTP 1 and 2; https://live.com; 1.565704584121704
+HTTP 1, 2, and 3; https://live.com; 3.0334017276763916
+HTTP 1; https://msn.com; 0.7958526611328125
+HTTP 1 and 3; https://msn.com; 0.7575662136077881
+HTTP 1 and 2; https://msn.com; 0.7315900325775146
+HTTP 1, 2, and 3; https://msn.com; 0.9022164344787598
+HTTP 1; https://instructure.com; 3.0666463375091553
+HTTP 1 and 3; https://instructure.com; 1.2268905639648438
+HTTP 1 and 2; https://instructure.com; 2.301361083984375
+HTTP 1, 2, and 3; https://instructure.com; 2.225111722946167
+HTTP 1; https://spotify.com; 2.9611728191375732
+HTTP 1 and 3; https://spotify.com; 3.3055050373077393
+HTTP 1 and 2; https://spotify.com; 2.986441135406494
+HTTP 1, 2, and 3; https://spotify.com; 3.0286667346954346
+HTTP 1; https://usps.com; 2.661853551864624
+HTTP 1 and 3; https://usps.com; 2.641735553741455
+HTTP 1 and 2; https://usps.com; 3.4856204986572266
+HTTP 1, 2, and 3; https://usps.com; 2.2006516456604004
+HTTP 1; https://accuweather.com; 2.0128679275512695
+HTTP 1 and 3; https://accuweather.com; 2.430779218673706
+HTTP 1 and 2; https://accuweather.com; 2.4727587699890137
+HTTP 1, 2, and 3; https://accuweather.com; 2.5092737674713135
+HTTP 1; https://bbc.com; 1.0423040390014648
+HTTP 1 and 3; https://bbc.com; 0.8487987518310547
+HTTP 1 and 2; https://bbc.com; 0.9483263492584229
+HTTP 1, 2, and 3; https://bbc.com; 1.0703060626983643
+HTTP 1; https://indeed.com; 0.9004247188568115
+HTTP 1 and 3; https://indeed.com; 0.7531116008758545
+HTTP 1 and 2; https://indeed.com; 0.67366623878479
+HTTP 1, 2, and 3; https://indeed.com; 0.8041675090789795
+HTTP 1; https://ziprecruiter.com; 1.1724867820739746
+HTTP 1 and 3; https://ziprecruiter.com; 0.6410374641418457
+HTTP 1 and 2; https://ziprecruiter.com; 1.049018144607544
+HTTP 1, 2, and 3; https://ziprecruiter.com; 0.6289689540863037
+HTTP 1; https://zillow.com; 3.346479892730713
+HTTP 1 and 3; https://zillow.com; 0.9318218231201172
+HTTP 1 and 2; https://zillow.com; 1.0772933959960938
+HTTP 1, 2, and 3; https://zillow.com; 0.7976539134979248
+HTTP 1; https://paypal.com; 2.4215588569641113
+HTTP 1 and 3; https://paypal.com; 2.1355464458465576
+HTTP 1 and 2; https://paypal.com; 1.4705393314361572
+HTTP 1, 2, and 3; https://paypal.com; 1.9249117374420166
+HTTP 1; https://etsy.com; 2.6564576625823975
+HTTP 1 and 3; https://etsy.com; 2.3152315616607666
+HTTP 1 and 2; https://etsy.com; 2.501427412033081
+HTTP 1, 2, and 3; https://etsy.com; 2.2734336853027344
+HTTP 1; https://nypost.com; 3.46022367477417
+HTTP 1 and 3; https://nypost.com; 3.670663356781006
+HTTP 1 and 2; https://nypost.com; 3.508634567260742
+HTTP 1, 2, and 3; https://nypost.com; 3.049855947494507
+HTTP 1; https://apple.com; 1.5434045791625977
+HTTP 1 and 3; https://apple.com; 1.694725751876831
+HTTP 1 and 2; https://apple.com; 2.0960302352905273
+HTTP 1, 2, and 3; https://apple.com; 1.8577184677124023
+HTTP 1; https://ign.com; 1.312495231628418
+HTTP 1 and 3; https://ign.com; 1.3075788021087646
+HTTP 1 and 2; https://ign.com; 3.8054261207580566
+HTTP 1, 2, and 3; https://ign.com; 1.371286153793335
+HTTP 1; https://max.com; 1.538311243057251
+HTTP 1 and 3; https://max.com; 2.575507879257202
+HTTP 1 and 2; https://max.com; 1.823331594467163
+HTTP 1, 2, and 3; https://max.com; 2.0077710151672363
+HTTP 1; https://usatoday.com; 3.5847904682159424
+HTTP 1 and 3; https://usatoday.com; 3.4501211643218994
+HTTP 1 and 2; https://usatoday.com; 4.764865159988403
+HTTP 1, 2, and 3; https://usatoday.com; 4.868695259094238
+HTTP 1; https://google.com; 1.2727766036987305
+HTTP 1 and 3; https://google.com; 1.2157039642333984
+HTTP 1 and 2; https://google.com; 1.0758535861968994
+HTTP 1, 2, and 3; https://google.com; 1.1313085556030273
+HTTP 1; https://njit.edu; 2.7555155754089355
+HTTP 1 and 3; https://njit.edu; 2.6367344856262207
+HTTP 1 and 2; https://njit.edu; 3.0741043090820312
+HTTP 1, 2, and 3; https://njit.edu; 4.337787389755249
+HTTP 1; https://facebook.com; 1.0139803886413574
+HTTP 1 and 3; https://facebook.com; 1.055633306503296
+HTTP 1 and 2; https://facebook.com; 0.7677211761474609
+HTTP 1, 2, and 3; https://facebook.com; 0.8794741630554199
+HTTP 1; https://reddit.com; 2.299959421157837
+HTTP 1 and 3; https://reddit.com; 3.28233003616333
+HTTP 1 and 2; https://reddit.com; 2.4058191776275635
+HTTP 1, 2, and 3; https://reddit.com; 3.186375856399536
+HTTP 1; https://twitter.com; 1.2420108318328857
+HTTP 1 and 3; https://twitter.com; 1.7996585369110107
+HTTP 1 and 2; https://twitter.com; 1.7221095561981201
+HTTP 1, 2, and 3; https://twitter.com; 1.1902029514312744
+HTTP 1; https://youtube.com; 4.8192970752716064
+HTTP 1 and 3; https://youtube.com; 4.115891218185425
+HTTP 1 and 2; https://youtube.com; 4.9056806564331055
+HTTP 1, 2, and 3; https://youtube.com; 4.096243858337402
+HTTP 1; https://amazon.com; 0.8574414253234863
+HTTP 1 and 3; https://amazon.com; 2.207895040512085
+HTTP 1 and 2; https://amazon.com; 1.9251010417938232
+HTTP 1, 2, and 3; https://amazon.com; 1.915008544921875
+HTTP 1; https://wikipedia.org; 0.9040007591247559
+HTTP 1 and 3; https://wikipedia.org; 0.8484888076782227
+HTTP 1 and 2; https://wikipedia.org; 0.6500129699707031
+HTTP 1, 2, and 3; https://wikipedia.org; 0.691622257232666
+HTTP 1; https://yahoo.com; 1.753772497177124
+HTTP 1 and 3; https://yahoo.com; 1.8128790855407715
+HTTP 1 and 2; https://yahoo.com; 17.79654359817505
+HTTP 1, 2, and 3; https://yahoo.com; 4.724734783172607
+HTTP 1; https://instagram.com; 1.5996918678283691
+HTTP 1 and 3; https://instagram.com; 1.3523123264312744
+HTTP 1 and 2; https://instagram.com; 1.2569897174835205
+HTTP 1, 2, and 3; https://instagram.com; 1.5373053550720215
+HTTP 1; https://tiktok.com; 3.1764726638793945
+HTTP 1 and 3; https://tiktok.com; 1.6838023662567139
+HTTP 1 and 2; https://tiktok.com; 1.6006226539611816
+HTTP 1, 2, and 3; https://tiktok.com; 1.643308401107788
+HTTP 1; https://linkedin.com; 1.3455395698547363
+HTTP 1 and 3; https://linkedin.com; 1.4853184223175049
+HTTP 1 and 2; https://linkedin.com; 1.282740592956543
+HTTP 1, 2, and 3; https://linkedin.com; 1.3784117698669434
+HTTP 1; https://imgur.com; 3.426232099533081
+HTTP 1 and 3; https://imgur.com; 2.8302876949310303
+HTTP 1 and 2; https://imgur.com; 2.178671360015869
+HTTP 1, 2, and 3; https://imgur.com; 1.5462617874145508
+HTTP 1; https://office.com; 3.382261276245117
+HTTP 1 and 3; https://office.com; 3.122380495071411
+HTTP 1 and 2; https://office.com; 5.044884920120239
+HTTP 1, 2, and 3; https://office.com; 1.3883960247039795
+HTTP 1; https://netflix.com; 1.6362221240997314
+HTTP 1 and 3; https://netflix.com; 1.988959789276123
+HTTP 1 and 2; https://netflix.com; 1.412224292755127
+HTTP 1, 2, and 3; https://netflix.com; 1.4061577320098877
+HTTP 1; https://bing.com; 0.5089867115020752
+HTTP 1 and 3; https://bing.com; 0.5257835388183594
+HTTP 1 and 2; https://bing.com; 1.4023170471191406
+HTTP 1, 2, and 3; https://bing.com; 0.3827805519104004
+HTTP 1; https://samsung.com; 4.093425273895264
+HTTP 1 and 3; https://samsung.com; 4.47787880897522
+HTTP 1 and 2; https://samsung.com; 3.787205934524536
+HTTP 1, 2, and 3; https://samsung.com; 4.491782903671265
+HTTP 1; https://pinterest.com; 0.9126441478729248
+HTTP 1 and 3; https://pinterest.com; 0.956418514251709
+HTTP 1 and 2; https://pinterest.com; 0.8677797317504883
+HTTP 1, 2, and 3; https://pinterest.com; 0.9677364826202393
+HTTP 1; https://microsoft.com; 2.702439785003662
+HTTP 1 and 3; https://microsoft.com; 2.9376542568206787
+HTTP 1 and 2; https://microsoft.com; 2.7072646617889404
+HTTP 1, 2, and 3; https://microsoft.com; 3.6689698696136475
+HTTP 1; https://discord.com; 1.6935603618621826
+HTTP 1 and 3; https://discord.com; 1.2970292568206787
+HTTP 1 and 2; https://discord.com; 1.4138007164001465
+HTTP 1, 2, and 3; https://discord.com; 1.0042150020599365
+HTTP 1; https://weather.com; 1.4854564666748047
+HTTP 1 and 3; https://weather.com; 1.256636142730713
+HTTP 1 and 2; https://weather.com; 0.9798986911773682
+HTTP 1, 2, and 3; https://weather.com; 1.1472418308258057
+HTTP 1; https://twitch.tv; 16.465327978134155
+HTTP 1 and 3; https://twitch.tv; 7.331758499145508
+HTTP 1 and 2; https://twitch.tv; 7.862508296966553
+HTTP 1, 2, and 3; https://twitch.tv; 3.059885025024414
+HTTP 1; https://zoom.us; 2.8867576122283936
+HTTP 1 and 3; https://zoom.us; 2.4305431842803955
+HTTP 1 and 2; https://zoom.us; 1.985476016998291
+HTTP 1, 2, and 3; https://zoom.us; 2.128448486328125
+HTTP 1; https://duckduckgo.com; 1.1984143257141113
+HTTP 1 and 3; https://duckduckgo.com; 1.1423594951629639
+HTTP 1 and 2; https://duckduckgo.com; 1.6148262023925781
+HTTP 1, 2, and 3; https://duckduckgo.com; 0.9926202297210693
+HTTP 1; https://quora.com; 1.7923328876495361
+HTTP 1 and 3; https://quora.com; 1.573070764541626
+HTTP 1 and 2; https://quora.com; 1.2420010566711426
+HTTP 1, 2, and 3; https://quora.com; 1.5992083549499512
+HTTP 1; https://sharepoint.com; 5.091033935546875
+HTTP 1 and 3; https://sharepoint.com; 4.492582559585571
+HTTP 1 and 2; https://sharepoint.com; 3.882657527923584
+HTTP 1, 2, and 3; https://sharepoint.com; 4.152089595794678
+HTTP 1; https://fandom.com; 2.644911766052246
+HTTP 1 and 3; https://fandom.com; 1.9165117740631104
+HTTP 1 and 2; https://fandom.com; 2.360769748687744
+HTTP 1, 2, and 3; https://fandom.com; 2.059760808944702
+HTTP 1; https://cnn.com; 4.019016265869141
+HTTP 1 and 3; https://cnn.com; 3.700291395187378
+HTTP 1 and 2; https://cnn.com; 5.7217302322387695
+HTTP 1, 2, and 3; https://cnn.com; 20.863830089569092
+HTTP 1; https://foxnews.com; 4.045058488845825
+HTTP 1 and 3; https://foxnews.com; 5.231710433959961
+HTTP 1 and 2; https://foxnews.com; 6.080235958099365
+HTTP 1, 2, and 3; https://foxnews.com; 3.9883787631988525
+HTTP 1; https://nytimes.com; 2.794811248779297
+HTTP 1 and 3; https://nytimes.com; 5.94297456741333
+HTTP 1 and 2; https://nytimes.com; 3.1727957725524902
+HTTP 1, 2, and 3; https://nytimes.com; 2.9903109073638916
+HTTP 1; https://ebay.com; 1.8322949409484863
+HTTP 1 and 3; https://ebay.com; 1.9685239791870117
+HTTP 1 and 2; https://ebay.com; 2.159194231033325
+HTTP 1, 2, and 3; https://ebay.com; 2.32497501373291
+HTTP 1; https://imdb.com; 3.26961350440979
+HTTP 1 and 3; https://imdb.com; 3.4328157901763916
+HTTP 1 and 2; https://imdb.com; 3.627408981323242
+HTTP 1, 2, and 3; https://imdb.com; 3.4495556354522705
+HTTP 1; https://walmart.com; 3.5917158126831055
+HTTP 1 and 3; https://walmart.com; 2.609710931777954
+HTTP 1 and 2; https://walmart.com; 3.273221254348755
+HTTP 1, 2, and 3; https://walmart.com; 3.86700701713562
+HTTP 1; https://live.com; 2.6786417961120605
+HTTP 1 and 3; https://live.com; 2.316291332244873
+HTTP 1 and 2; https://live.com; 3.072597026824951
+HTTP 1, 2, and 3; https://live.com; 2.7709672451019287
+HTTP 1; https://msn.com; 1.018223524093628
+HTTP 1 and 3; https://msn.com; 0.922602653503418
+HTTP 1 and 2; https://msn.com; 1.291888952255249
+HTTP 1, 2, and 3; https://msn.com; 0.873164176940918
+HTTP 1; https://instructure.com; 1.229116439819336
+HTTP 1 and 3; https://instructure.com; 2.6817450523376465
+HTTP 1 and 2; https://instructure.com; 2.355745315551758
+HTTP 1, 2, and 3; https://instructure.com; 0.9396677017211914
+HTTP 1; https://spotify.com; 3.105696678161621
+HTTP 1 and 3; https://spotify.com; 3.8599095344543457
+HTTP 1 and 2; https://spotify.com; 2.9351601600646973
+HTTP 1, 2, and 3; https://spotify.com; 2.318747043609619
+HTTP 1; https://usps.com; 2.775172233581543
+HTTP 1 and 3; https://usps.com; 2.864464521408081
+HTTP 1 and 2; https://usps.com; 4.890076398849487
+HTTP 1, 2, and 3; https://usps.com; 2.4889981746673584
+HTTP 1; https://accuweather.com; 2.542912006378174
+HTTP 1 and 3; https://accuweather.com; 2.1660315990448
+HTTP 1 and 2; https://accuweather.com; 2.476896047592163
+HTTP 1, 2, and 3; https://accuweather.com; 3.170107126235962
+HTTP 1; https://bbc.com; 0.8309779167175293
+HTTP 1 and 3; https://bbc.com; 0.7445173263549805
+HTTP 1 and 2; https://bbc.com; 0.8549542427062988
+HTTP 1, 2, and 3; https://bbc.com; 1.4190750122070312
+HTTP 1; https://indeed.com; 0.8120310306549072
+HTTP 1 and 3; https://indeed.com; 0.8372077941894531
+HTTP 1 and 2; https://indeed.com; 0.8671910762786865
+HTTP 1, 2, and 3; https://indeed.com; 0.7426931858062744
+HTTP 1; https://ziprecruiter.com; 1.4548640251159668
+HTTP 1 and 3; https://ziprecruiter.com; 1.1071338653564453
+HTTP 1 and 2; https://ziprecruiter.com; 1.2170453071594238
+HTTP 1, 2, and 3; https://ziprecruiter.com; 0.9741780757904053
+HTTP 1; https://zillow.com; 2.825075626373291
+HTTP 1 and 3; https://zillow.com; 0.7933740615844727
+HTTP 1 and 2; https://zillow.com; 0.8247878551483154
+HTTP 1, 2, and 3; https://zillow.com; 0.8008532524108887
+HTTP 1; https://paypal.com; 2.2015135288238525
+HTTP 1 and 3; https://paypal.com; 2.333467721939087
+HTTP 1 and 2; https://paypal.com; 1.8747549057006836
+HTTP 1, 2, and 3; https://paypal.com; 1.9647867679595947
+HTTP 1; https://etsy.com; 2.598153591156006
+HTTP 1 and 3; https://etsy.com; 2.728440999984741
+HTTP 1 and 2; https://etsy.com; 2.2380306720733643
+HTTP 1, 2, and 3; https://etsy.com; 2.163480520248413
+HTTP 1; https://nypost.com; 3.1915347576141357
+HTTP 1 and 3; https://nypost.com; 3.2779643535614014
+HTTP 1 and 2; https://nypost.com; 3.153010129928589
+HTTP 1, 2, and 3; https://nypost.com; 5.742553234100342
+HTTP 1; https://apple.com; 1.334808588027954
+HTTP 1 and 3; https://apple.com; 1.2882022857666016
+HTTP 1 and 2; https://apple.com; 2.169010877609253
+HTTP 1, 2, and 3; https://apple.com; 1.7185497283935547
+HTTP 1; https://ign.com; 1.5486342906951904
+HTTP 1 and 3; https://ign.com; 1.7514400482177734
+HTTP 1 and 2; https://ign.com; 4.9123640060424805
+HTTP 1, 2, and 3; https://ign.com; 1.241016149520874
+HTTP 1; https://max.com; 1.6448147296905518
+HTTP 1 and 3; https://max.com; 1.5850465297698975
+HTTP 1 and 2; https://max.com; 1.5000417232513428
+HTTP 1, 2, and 3; https://max.com; 1.5210938453674316
+HTTP 1; https://usatoday.com; 3.944298267364502
+HTTP 1 and 3; https://usatoday.com; 3.5357577800750732
+HTTP 1 and 2; https://usatoday.com; 3.2561497688293457
+HTTP 1, 2, and 3; https://usatoday.com; 4.39246678352356
+HTTP 1; https://google.com; 1.160046100616455
+HTTP 1 and 3; https://google.com; 1.5999677181243896
+HTTP 1 and 2; https://google.com; 1.1581270694732666
+HTTP 1, 2, and 3; https://google.com; 1.2461917400360107
+HTTP 1; https://njit.edu; 3.2721121311187744
+HTTP 1 and 3; https://njit.edu; 3.375688076019287
+HTTP 1 and 2; https://njit.edu; 2.8314273357391357
+HTTP 1, 2, and 3; https://njit.edu; 2.244885206222534
+HTTP 1; https://facebook.com; 1.0210809707641602
+HTTP 1 and 3; https://facebook.com; 1.0740766525268555
+HTTP 1 and 2; https://facebook.com; 0.7977707386016846
+HTTP 1, 2, and 3; https://facebook.com; 0.8960888385772705
+HTTP 1; https://reddit.com; 3.674339771270752
+HTTP 1 and 3; https://reddit.com; 3.5273475646972656
+HTTP 1 and 2; https://reddit.com; 3.0424787998199463
+HTTP 1, 2, and 3; https://reddit.com; 3.0817105770111084
+HTTP 1; https://twitter.com; 1.180206060409546
+HTTP 1 and 3; https://twitter.com; 1.3289909362792969
+HTTP 1 and 2; https://twitter.com; 1.114335298538208
+HTTP 1, 2, and 3; https://twitter.com; 1.364471673965454
+HTTP 1; https://youtube.com; 4.571565628051758
+HTTP 1 and 3; https://youtube.com; 6.012604475021362
+HTTP 1 and 2; https://youtube.com; 4.146895170211792
+HTTP 1, 2, and 3; https://youtube.com; 5.009866714477539
+HTTP 1; https://amazon.com; 3.0799062252044678
+HTTP 1 and 3; https://amazon.com; 0.8660244941711426
+HTTP 1 and 2; https://amazon.com; 3.3140904903411865
+HTTP 1, 2, and 3; https://amazon.com; 2.9695494174957275
+HTTP 1; https://wikipedia.org; 0.8965411186218262
+HTTP 1 and 3; https://wikipedia.org; 0.8437044620513916
+HTTP 1 and 2; https://wikipedia.org; 0.6155135631561279
+HTTP 1, 2, and 3; https://wikipedia.org; 0.6324172019958496
+HTTP 1; https://yahoo.com; 2.7271432876586914
+HTTP 1 and 3; https://yahoo.com; 2.6096644401550293
+HTTP 1 and 2; https://yahoo.com; 1.7825126647949219
+HTTP 1, 2, and 3; https://yahoo.com; 4.207805395126343
+HTTP 1; https://instagram.com; 1.3720386028289795
+HTTP 1 and 3; https://instagram.com; 1.1879234313964844
+HTTP 1 and 2; https://instagram.com; 1.197697639465332
+HTTP 1, 2, and 3; https://instagram.com; 1.212209939956665
+HTTP 1; https://tiktok.com; 1.5074236392974854
+HTTP 1 and 3; https://tiktok.com; 1.4602251052856445
+HTTP 1 and 2; https://tiktok.com; 1.6762874126434326
+HTTP 1, 2, and 3; https://tiktok.com; 1.523026466369629
+HTTP 1; https://linkedin.com; 1.4479188919067383
+HTTP 1 and 3; https://linkedin.com; 1.5370421409606934
+HTTP 1 and 2; https://linkedin.com; 1.4448840618133545
+HTTP 1, 2, and 3; https://linkedin.com; 1.2216596603393555
+HTTP 1; https://imgur.com; 3.045865058898926
+HTTP 1 and 3; https://imgur.com; 1.912693738937378
+HTTP 1 and 2; https://imgur.com; 3.3374886512756348
+HTTP 1, 2, and 3; https://imgur.com; 3.1362104415893555
+HTTP 1; https://office.com; 2.582628011703491
+HTTP 1 and 3; https://office.com; 1.9538800716400146
+HTTP 1 and 2; https://office.com; 3.5438241958618164
+HTTP 1, 2, and 3; https://office.com; 3.329827070236206
+HTTP 1; https://netflix.com; 2.7888290882110596
+HTTP 1 and 3; https://netflix.com; 1.4102427959442139
+HTTP 1 and 2; https://netflix.com; 1.393968105316162
+HTTP 1, 2, and 3; https://netflix.com; 1.590203046798706
+HTTP 1; https://bing.com; 0.5375258922576904
+HTTP 1 and 3; https://bing.com; 0.5096879005432129
+HTTP 1 and 2; https://bing.com; 0.4061279296875
+HTTP 1, 2, and 3; https://bing.com; 0.3662557601928711
+HTTP 1; https://samsung.com; 3.3575050830841064
+HTTP 1 and 3; https://samsung.com; 3.8075876235961914
+HTTP 1 and 2; https://samsung.com; 3.344101667404175
+HTTP 1, 2, and 3; https://samsung.com; 3.0437722206115723
+HTTP 1; https://pinterest.com; 1.092996597290039
+HTTP 1 and 3; https://pinterest.com; 1.0277249813079834
+HTTP 1 and 2; https://pinterest.com; 0.8134562969207764
+HTTP 1, 2, and 3; https://pinterest.com; 0.9300787448883057
+HTTP 1; https://microsoft.com; 1.7880439758300781
+HTTP 1 and 3; https://microsoft.com; 2.1084563732147217
+HTTP 1 and 2; https://microsoft.com; 2.9594967365264893
+HTTP 1, 2, and 3; https://microsoft.com; 1.4998931884765625
+HTTP 1; https://discord.com; 1.6355483531951904
+HTTP 1 and 3; https://discord.com; 1.1870810985565186
+HTTP 1 and 2; https://discord.com; 1.2801566123962402
+HTTP 1, 2, and 3; https://discord.com; 1.164726972579956
+HTTP 1; https://weather.com; 1.1497447490692139
+HTTP 1 and 3; https://weather.com; 1.2403576374053955
+HTTP 1 and 2; https://weather.com; 1.1448256969451904
+HTTP 1, 2, and 3; https://weather.com; 1.055924654006958
+HTTP 1; https://twitch.tv; 4.114072322845459
+HTTP 1 and 3; https://twitch.tv; 7.324921607971191
+HTTP 1 and 2; https://twitch.tv; 3.5581605434417725
+HTTP 1, 2, and 3; https://twitch.tv; 3.342017889022827
+HTTP 1; https://zoom.us; 2.2794175148010254
+HTTP 1 and 3; https://zoom.us; 6.891441345214844
+HTTP 1 and 2; https://zoom.us; 1.9627058506011963
+HTTP 1, 2, and 3; https://zoom.us; 2.0312588214874268
+HTTP 1; https://duckduckgo.com; 1.2036054134368896
+HTTP 1 and 3; https://duckduckgo.com; 1.1154534816741943
+HTTP 1 and 2; https://duckduckgo.com; 0.9973433017730713
+HTTP 1, 2, and 3; https://duckduckgo.com; 1.3217239379882812
+HTTP 1; https://quora.com; 1.4218127727508545
+HTTP 1 and 3; https://quora.com; 1.2691302299499512
+HTTP 1 and 2; https://quora.com; 1.0540857315063477
+HTTP 1, 2, and 3; https://quora.com; 1.1228399276733398
+HTTP 1; https://sharepoint.com; 4.109296798706055
+HTTP 1 and 3; https://sharepoint.com; 4.231440782546997
+HTTP 1 and 2; https://sharepoint.com; 3.8161776065826416
+HTTP 1, 2, and 3; https://sharepoint.com; 2.8946170806884766
+HTTP 1; https://fandom.com; 6.4146318435668945
+HTTP 1 and 3; https://fandom.com; 2.70778226852417
+HTTP 1 and 2; https://fandom.com; 2.3270626068115234
+HTTP 1, 2, and 3; https://fandom.com; 1.8060803413391113
+HTTP 1; https://cnn.com; 3.6165366172790527
+HTTP 1 and 3; https://cnn.com; 3.7863292694091797
+HTTP 1 and 2; https://cnn.com; 3.5910253524780273
+HTTP 1, 2, and 3; https://cnn.com; 4.255530595779419
+HTTP 1; https://foxnews.com; 3.9178333282470703
+HTTP 1 and 3; https://foxnews.com; 4.441001653671265
+HTTP 1 and 2; https://foxnews.com; 5.913874387741089
+HTTP 1, 2, and 3; https://foxnews.com; 5.476978540420532
+HTTP 1; https://nytimes.com; 3.8374805450439453
+HTTP 1 and 3; https://nytimes.com; 3.634104013442993
+HTTP 1 and 2; https://nytimes.com; 3.1610684394836426
+HTTP 1, 2, and 3; https://nytimes.com; 3.2893877029418945
+HTTP 1; https://ebay.com; 2.00461483001709
+HTTP 1 and 3; https://ebay.com; 1.9809353351593018
+HTTP 1 and 2; https://ebay.com; 1.7402894496917725
+HTTP 1, 2, and 3; https://ebay.com; 1.928809404373169
+HTTP 1; https://imdb.com; 3.6448614597320557
+HTTP 1 and 3; https://imdb.com; 2.975375175476074
+HTTP 1 and 2; https://imdb.com; 3.8257839679718018
+HTTP 1, 2, and 3; https://imdb.com; 3.491885185241699
+HTTP 1; https://walmart.com; 3.164755344390869
+HTTP 1 and 3; https://walmart.com; 2.2114198207855225
+HTTP 1 and 2; https://walmart.com; 3.125351667404175
+HTTP 1, 2, and 3; https://walmart.com; 2.6303296089172363
+HTTP 1; https://live.com; 2.850348472595215
+HTTP 1 and 3; https://live.com; 2.6528127193450928
+HTTP 1 and 2; https://live.com; 3.4512922763824463
+HTTP 1, 2, and 3; https://live.com; 1.535050868988037
+HTTP 1; https://msn.com; 0.897860050201416
+HTTP 1 and 3; https://msn.com; 0.9203784465789795
+HTTP 1 and 2; https://msn.com; 0.9468164443969727
+HTTP 1, 2, and 3; https://msn.com; 0.754734992980957
+HTTP 1; https://instructure.com; 3.5509145259857178
+HTTP 1 and 3; https://instructure.com; 1.3659319877624512
+HTTP 1 and 2; https://instructure.com; 1.997185468673706
+HTTP 1, 2, and 3; https://instructure.com; 1.2329261302947998
+HTTP 1; https://spotify.com; 2.943094491958618
+HTTP 1 and 3; https://spotify.com; 3.212780237197876
+HTTP 1 and 2; https://spotify.com; 2.7780821323394775
+HTTP 1, 2, and 3; https://spotify.com; 2.747141122817993
+HTTP 1; https://usps.com; 3.145454168319702
+HTTP 1 and 3; https://usps.com; 2.712874412536621
+HTTP 1 and 2; https://usps.com; 2.7406771183013916
+HTTP 1, 2, and 3; https://usps.com; 2.711728096008301
+HTTP 1; https://accuweather.com; 2.3700740337371826
+HTTP 1 and 3; https://accuweather.com; 2.627742052078247
+HTTP 1 and 2; https://accuweather.com; 2.4641690254211426
+HTTP 1, 2, and 3; https://accuweather.com; 6.708407402038574
+HTTP 1; https://bbc.com; 0.9333212375640869
+HTTP 1 and 3; https://bbc.com; 0.739081621170044
+HTTP 1 and 2; https://bbc.com; 1.031665563583374
+HTTP 1, 2, and 3; https://bbc.com; 1.1013970375061035
+HTTP 1; https://indeed.com; 1.548321008682251
+HTTP 1 and 3; https://indeed.com; 1.4226021766662598
+HTTP 1 and 2; https://indeed.com; 0.9780409336090088
+HTTP 1, 2, and 3; https://indeed.com; 0.7760226726531982
+HTTP 1; https://ziprecruiter.com; 1.3395717144012451
+HTTP 1 and 3; https://ziprecruiter.com; 0.6184370517730713
+HTTP 1 and 2; https://ziprecruiter.com; 1.3220343589782715
+HTTP 1, 2, and 3; https://ziprecruiter.com; 0.5645959377288818
+HTTP 1; https://zillow.com; 3.4441745281219482
+HTTP 1 and 3; https://zillow.com; 0.9719455242156982
+HTTP 1 and 2; https://zillow.com; 1.124424934387207
+HTTP 1, 2, and 3; https://zillow.com; 1.0602421760559082
+HTTP 1; https://paypal.com; 3.1970691680908203
+HTTP 1 and 3; https://paypal.com; 1.4772906303405762
+HTTP 1 and 2; https://paypal.com; 2.1488053798675537
+HTTP 1, 2, and 3; https://paypal.com; 1.5135729312896729
+HTTP 1; https://etsy.com; 2.6861257553100586
+HTTP 1 and 3; https://etsy.com; 2.6374969482421875
+HTTP 1 and 2; https://etsy.com; 2.888988494873047
+HTTP 1, 2, and 3; https://etsy.com; 4.247333288192749
+HTTP 1; https://nypost.com; 7.590751886367798
+HTTP 1 and 3; https://nypost.com; 5.065971374511719
+HTTP 1 and 2; https://nypost.com; 3.1796045303344727
+HTTP 1, 2, and 3; https://nypost.com; 3.891014575958252
+HTTP 1; https://apple.com; 1.768920660018921
+HTTP 1 and 3; https://apple.com; 2.108445167541504
+HTTP 1 and 2; https://apple.com; 3.0011026859283447
+HTTP 1, 2, and 3; https://apple.com; 2.177717685699463
+HTTP 1; https://ign.com; 3.9000821113586426
+HTTP 1 and 3; https://ign.com; 1.2590017318725586
+HTTP 1 and 2; https://ign.com; 1.265486717224121
+HTTP 1, 2, and 3; https://ign.com; 2.6014039516448975
+HTTP 1; https://max.com; 1.4464964866638184
+HTTP 1 and 3; https://max.com; 1.7416150569915771
+HTTP 1 and 2; https://max.com; 1.846555471420288
+HTTP 1, 2, and 3; https://max.com; 2.824666738510132
+HTTP 1; https://usatoday.com; 5.0181825160980225
+HTTP 1 and 3; https://usatoday.com; 3.990962505340576
+HTTP 1 and 2; https://usatoday.com; 3.2240443229675293
+HTTP 1, 2, and 3; https://usatoday.com; 3.140892505645752
+HTTP 1; https://google.com; 1.2326431274414062
+HTTP 1 and 3; https://google.com; 4.0423500537872314
+HTTP 1 and 2; https://google.com; 1.067826271057129
+HTTP 1, 2, and 3; https://google.com; 1.113534688949585
+HTTP 1; https://njit.edu; 5.19886589050293
+HTTP 1 and 3; https://njit.edu; 3.970608711242676
+HTTP 1 and 2; https://njit.edu; 3.811220407485962
+HTTP 1, 2, and 3; https://njit.edu; 4.835500955581665
+HTTP 1; https://facebook.com; 1.0318233966827393
+HTTP 1 and 3; https://facebook.com; 5.35556435585022
+HTTP 1 and 2; https://facebook.com; 0.9760894775390625
+HTTP 1, 2, and 3; https://facebook.com; 1.2851686477661133
+HTTP 1; https://reddit.com; 3.5434112548828125
+HTTP 1 and 3; https://reddit.com; 2.5089383125305176
+HTTP 1 and 2; https://reddit.com; 2.0183169841766357
+HTTP 1, 2, and 3; https://reddit.com; 2.341026782989502
+HTTP 1; https://twitter.com; 2.1025350093841553
+HTTP 1 and 3; https://twitter.com; 1.2233047485351562
+HTTP 1 and 2; https://twitter.com; 1.242938756942749
+HTTP 1, 2, and 3; https://twitter.com; 1.7635414600372314
+HTTP 1; https://youtube.com; 5.514748811721802
+HTTP 1 and 3; https://youtube.com; 5.701519250869751
+HTTP 1 and 2; https://youtube.com; 4.278088569641113
+HTTP 1, 2, and 3; https://youtube.com; 5.3378942012786865
+HTTP 1; https://amazon.com; 3.155095100402832
+HTTP 1 and 3; https://amazon.com; 3.1901204586029053
+HTTP 1 and 2; https://amazon.com; 2.8451335430145264
+HTTP 1, 2, and 3; https://amazon.com; 2.2837162017822266
+HTTP 1; https://wikipedia.org; 0.9038727283477783
+HTTP 1 and 3; https://wikipedia.org; 0.9767794609069824
+HTTP 1 and 2; https://wikipedia.org; 0.6425583362579346
+HTTP 1, 2, and 3; https://wikipedia.org; 0.6515212059020996
+HTTP 1; https://yahoo.com; 2.8419787883758545
+HTTP 1 and 3; https://yahoo.com; 2.7402658462524414
+HTTP 1 and 2; https://yahoo.com; 3.0037691593170166
+HTTP 1, 2, and 3; https://yahoo.com; 1.9545211791992188
+HTTP 1; https://instagram.com; 1.814375638961792
+HTTP 1 and 3; https://instagram.com; 1.2059240341186523
+HTTP 1 and 2; https://instagram.com; 1.685333251953125
+HTTP 1, 2, and 3; https://instagram.com; 1.307399034500122
+HTTP 1; https://tiktok.com; 1.5162155628204346
+HTTP 1 and 3; https://tiktok.com; 1.4865753650665283
+HTTP 1 and 2; https://tiktok.com; 1.5952320098876953
+HTTP 1, 2, and 3; https://tiktok.com; 1.6339221000671387
+HTTP 1; https://linkedin.com; 1.611926794052124
+HTTP 1 and 3; https://linkedin.com; 1.5840556621551514
+HTTP 1 and 2; https://linkedin.com; 2.372037172317505
+HTTP 1, 2, and 3; https://linkedin.com; 2.316364288330078
+HTTP 1; https://imgur.com; 2.7374014854431152
+HTTP 1 and 3; https://imgur.com; 4.377211093902588
+HTTP 1 and 2; https://imgur.com; 3.202425956726074
+HTTP 1, 2, and 3; https://imgur.com; 2.693145513534546
+HTTP 1; https://office.com; 3.0836193561553955
+HTTP 1 and 3; https://office.com; 1.8301992416381836
+HTTP 1 and 2; https://office.com; 3.4211323261260986
+HTTP 1, 2, and 3; https://office.com; 3.445082902908325
+HTTP 1; https://netflix.com; 1.3222644329071045
+HTTP 1 and 3; https://netflix.com; 2.794863700866699
+HTTP 1 and 2; https://netflix.com; 1.352269172668457
+HTTP 1, 2, and 3; https://netflix.com; 1.4374964237213135
+HTTP 1; https://bing.com; 0.4971005916595459
+HTTP 1 and 3; https://bing.com; 0.6282908916473389
+HTTP 1 and 2; https://bing.com; 0.5144960880279541
+HTTP 1, 2, and 3; https://bing.com; 0.5258514881134033
+HTTP 1; https://samsung.com; 3.9977922439575195
+HTTP 1 and 3; https://samsung.com; 3.2544028759002686
+HTTP 1 and 2; https://samsung.com; 3.798966646194458
+HTTP 1, 2, and 3; https://samsung.com; 2.7550582885742188
+HTTP 1; https://pinterest.com; 1.0859322547912598
+HTTP 1 and 3; https://pinterest.com; 1.173081398010254
+HTTP 1 and 2; https://pinterest.com; 1.1295666694641113
+HTTP 1, 2, and 3; https://pinterest.com; 0.9861259460449219
+HTTP 1; https://microsoft.com; 3.979452610015869
+HTTP 1 and 3; https://microsoft.com; 3.0449435710906982
+HTTP 1 and 2; https://microsoft.com; 3.439392566680908
+HTTP 1, 2, and 3; https://microsoft.com; 3.271883487701416
+HTTP 1; https://discord.com; 1.715195655822754
+HTTP 1 and 3; https://discord.com; 1.5241944789886475
+HTTP 1 and 2; https://discord.com; 1.691786527633667
+HTTP 1, 2, and 3; https://discord.com; 0.9667487144470215
+HTTP 1; https://weather.com; 1.2621433734893799
+HTTP 1 and 3; https://weather.com; 1.3184242248535156
+HTTP 1 and 2; https://weather.com; 1.0754051208496094
+HTTP 1, 2, and 3; https://weather.com; 0.9983546733856201
+HTTP 1; https://twitch.tv; 7.543505668640137
+HTTP 1 and 3; https://twitch.tv; 3.506474256515503
+HTTP 1 and 2; https://twitch.tv; 2.910308599472046
+HTTP 1, 2, and 3; https://twitch.tv; 8.027017593383789
+HTTP 1; https://zoom.us; 2.4045424461364746
+HTTP 1 and 3; https://zoom.us; 2.316596508026123
+HTTP 1 and 2; https://zoom.us; 2.151360273361206
+HTTP 1, 2, and 3; https://zoom.us; 1.8840301036834717
+HTTP 1; https://duckduckgo.com; 1.1840755939483643
+HTTP 1 and 3; https://duckduckgo.com; 1.2269058227539062
+HTTP 1 and 2; https://duckduckgo.com; 1.3380911350250244
+HTTP 1, 2, and 3; https://duckduckgo.com; 1.401158332824707
+HTTP 1; https://quora.com; 1.5118415355682373
+HTTP 1 and 3; https://quora.com; 1.3891017436981201
+HTTP 1 and 2; https://quora.com; 1.194141149520874
+HTTP 1, 2, and 3; https://quora.com; 1.1356642246246338
+HTTP 1; https://sharepoint.com; 4.163520574569702
+HTTP 1 and 3; https://sharepoint.com; 3.347376585006714
+HTTP 1 and 2; https://sharepoint.com; 3.236419439315796
+HTTP 1, 2, and 3; https://sharepoint.com; 4.544400691986084
+HTTP 1; https://fandom.com; 1.848262071609497
+HTTP 1 and 3; https://fandom.com; 2.255565881729126
+HTTP 1 and 2; https://fandom.com; 2.4988865852355957
+HTTP 1, 2, and 3; https://fandom.com; 2.5306060314178467
+HTTP 1; https://cnn.com; 4.183189630508423
+HTTP 1 and 3; https://cnn.com; 3.8614919185638428
+HTTP 1 and 2; https://cnn.com; 3.6059670448303223
+HTTP 1, 2, and 3; https://cnn.com; 3.8672051429748535
+HTTP 1; https://foxnews.com; 4.4090657234191895
+HTTP 1 and 3; https://foxnews.com; 5.4811928272247314
+HTTP 1 and 2; https://foxnews.com; 3.687592029571533
+HTTP 1, 2, and 3; https://foxnews.com; 5.521493196487427
+HTTP 1; https://nytimes.com; 4.001699209213257
+HTTP 1 and 3; https://nytimes.com; 4.102821588516235
+HTTP 1 and 2; https://nytimes.com; 3.2529852390289307
+HTTP 1, 2, and 3; https://nytimes.com; 3.414767026901245
+HTTP 1; https://ebay.com; 1.7238025665283203
+HTTP 1 and 3; https://ebay.com; 1.968188762664795
+HTTP 1 and 2; https://ebay.com; 1.7292916774749756
+HTTP 1, 2, and 3; https://ebay.com; 1.5590145587921143
+HTTP 1; https://imdb.com; 3.82572078704834
+HTTP 1 and 3; https://imdb.com; 3.513730764389038
+HTTP 1 and 2; https://imdb.com; 4.101468563079834
+HTTP 1, 2, and 3; https://imdb.com; 2.9329092502593994
+HTTP 1; https://walmart.com; 3.9434242248535156
+HTTP 1 and 3; https://walmart.com; 3.7124271392822266
+HTTP 1 and 2; https://walmart.com; 3.018721580505371
+HTTP 1, 2, and 3; https://walmart.com; 2.2474231719970703
+HTTP 1; https://live.com; 3.2356162071228027
+HTTP 1 and 3; https://live.com; 2.902987241744995
+HTTP 1 and 2; https://live.com; 4.045784950256348
+HTTP 1, 2, and 3; https://live.com; 3.337303400039673
+HTTP 1; https://msn.com; 1.299400806427002
+HTTP 1 and 3; https://msn.com; 1.042231798171997
+HTTP 1 and 2; https://msn.com; 0.9184596538543701
+HTTP 1, 2, and 3; https://msn.com; 0.9575800895690918
+HTTP 1; https://instructure.com; 1.3834149837493896
+HTTP 1; https://spotify.com; 2.8860418796539307
+HTTP 1 and 3; https://spotify.com; 3.503873825073242
+HTTP 1 and 2; https://spotify.com; 3.699697256088257
+HTTP 1, 2, and 3; https://spotify.com; 2.8432912826538086
+HTTP 1; https://usps.com; 3.629521608352661
+HTTP 1 and 3; https://usps.com; 3.0304713249206543
+HTTP 1 and 2; https://usps.com; 2.2906525135040283
+HTTP 1, 2, and 3; https://usps.com; 2.977221727371216
+HTTP 1; https://accuweather.com; 4.31470251083374
+HTTP 1 and 3; https://accuweather.com; 2.7705888748168945
+HTTP 1 and 2; https://accuweather.com; 3.0280497074127197
+HTTP 1, 2, and 3; https://accuweather.com; 2.7430334091186523
+HTTP 1; https://bbc.com; 1.0068604946136475
+HTTP 1 and 3; https://bbc.com; 1.1478207111358643
+HTTP 1 and 2; https://bbc.com; 3.0500831604003906
+HTTP 1, 2, and 3; https://bbc.com; 1.3045592308044434
+HTTP 1; https://indeed.com; 1.1992928981781006
+HTTP 1 and 3; https://indeed.com; 0.8362221717834473
+HTTP 1 and 2; https://indeed.com; 1.0209269523620605
+HTTP 1, 2, and 3; https://indeed.com; 0.8638513088226318
+HTTP 1; https://ziprecruiter.com; 2.154282569885254
+HTTP 1 and 3; https://ziprecruiter.com; 1.7937207221984863
+HTTP 1 and 2; https://ziprecruiter.com; 1.6016736030578613
+HTTP 1, 2, and 3; https://ziprecruiter.com; 1.5416784286499023
+HTTP 1; https://zillow.com; 3.13139271736145
+HTTP 1 and 3; https://zillow.com; 1.9244742393493652
+HTTP 1 and 2; https://zillow.com; 1.2605664730072021
+HTTP 1, 2, and 3; https://zillow.com; 1.1111488342285156
+HTTP 1; https://paypal.com; 2.478350877761841
+HTTP 1 and 3; https://paypal.com; 1.6485705375671387
+HTTP 1 and 2; https://paypal.com; 2.592987298965454
+HTTP 1, 2, and 3; https://paypal.com; 2.559598922729492
+HTTP 1; https://etsy.com; 3.0282297134399414
+HTTP 1 and 3; https://etsy.com; 2.776003837585449
+HTTP 1 and 2; https://etsy.com; 2.4760231971740723
+HTTP 1, 2, and 3; https://etsy.com; 3.0592739582061768
+HTTP 1; https://nypost.com; 6.332103729248047
+HTTP 1 and 3; https://nypost.com; 3.805440902709961
+HTTP 1 and 2; https://nypost.com; 4.789592981338501
+HTTP 1, 2, and 3; https://nypost.com; 3.5842795372009277
+HTTP 1; https://apple.com; 1.8425378799438477
+HTTP 1 and 3; https://apple.com; 1.3776435852050781
+HTTP 1 and 2; https://apple.com; 2.7851996421813965
+HTTP 1, 2, and 3; https://apple.com; 2.0416526794433594
+HTTP 1; https://ign.com; 1.543672800064087
+HTTP 1 and 3; https://ign.com; 1.4094386100769043
+HTTP 1 and 2; https://ign.com; 1.843933343887329
+HTTP 1, 2, and 3; https://ign.com; 1.7274301052093506
+HTTP 1; https://max.com; 1.767552375793457
+HTTP 1 and 3; https://max.com; 1.9645285606384277
+HTTP 1 and 2; https://max.com; 1.7751927375793457
+HTTP 1, 2, and 3; https://max.com; 1.7256801128387451
+HTTP 1; https://usatoday.com; 4.604402542114258
+HTTP 1 and 3; https://usatoday.com; 22.599674224853516
+HTTP 1 and 2; https://usatoday.com; 17.20026683807373
+HTTP 1, 2, and 3; https://usatoday.com; 5.689847230911255
+HTTP 1; https://google.com; 1.359511375427246
+HTTP 1 and 3; https://google.com; 1.2732107639312744
+HTTP 1 and 2; https://google.com; 1.2411010265350342
+HTTP 1, 2, and 3; https://google.com; 1.1823687553405762
+HTTP 1; https://njit.edu; 4.8313188552856445
+HTTP 1 and 3; https://njit.edu; 3.444124937057495
+HTTP 1 and 2; https://njit.edu; 3.17156982421875
+HTTP 1, 2, and 3; https://njit.edu; 2.6722888946533203
+HTTP 1; https://facebook.com; 0.9300625324249268
+HTTP 1 and 3; https://facebook.com; 1.143296241760254
+HTTP 1 and 2; https://facebook.com; 0.8677957057952881
+HTTP 1, 2, and 3; https://facebook.com; 0.8036878108978271
+HTTP 1; https://reddit.com; 2.1216073036193848
+HTTP 1 and 3; https://reddit.com; 3.4816370010375977
+HTTP 1 and 2; https://reddit.com; 3.6968233585357666
+HTTP 1, 2, and 3; https://reddit.com; 2.5180916786193848
+HTTP 1; https://twitter.com; 1.9042997360229492
+HTTP 1 and 3; https://twitter.com; 0.8832731246948242
+HTTP 1 and 2; https://twitter.com; 1.124875783920288
+HTTP 1, 2, and 3; https://twitter.com; 1.1898813247680664
+HTTP 1; https://youtube.com; 5.443802356719971
+HTTP 1 and 3; https://youtube.com; 4.742457866668701
+HTTP 1 and 2; https://youtube.com; 4.93291449546814
+HTTP 1, 2, and 3; https://youtube.com; 5.0802390575408936
+HTTP 1; https://amazon.com; 2.9780995845794678
+HTTP 1 and 3; https://amazon.com; 3.0326430797576904
+HTTP 1 and 2; https://amazon.com; 3.16629695892334
+HTTP 1, 2, and 3; https://amazon.com; 2.386293649673462
+HTTP 1; https://wikipedia.org; 0.9225506782531738
+HTTP 1 and 3; https://wikipedia.org; 0.8199107646942139
+HTTP 1 and 2; https://wikipedia.org; 0.6438536643981934
+HTTP 1, 2, and 3; https://wikipedia.org; 0.6517922878265381
+HTTP 1; https://yahoo.com; 1.9879751205444336
+HTTP 1 and 3; https://yahoo.com; 1.881944179534912
+HTTP 1 and 2; https://yahoo.com; 2.5991199016571045
+HTTP 1, 2, and 3; https://yahoo.com; 3.6703436374664307
+HTTP 1; https://instagram.com; 1.2222464084625244
+HTTP 1 and 3; https://instagram.com; 1.277698278427124
+HTTP 1 and 2; https://instagram.com; 1.2502458095550537
+HTTP 1, 2, and 3; https://instagram.com; 1.3308019638061523
+HTTP 1; https://tiktok.com; 1.544447898864746
+HTTP 1 and 3; https://tiktok.com; 1.6698589324951172
+HTTP 1 and 2; https://tiktok.com; 1.7736384868621826
+HTTP 1, 2, and 3; https://tiktok.com; 1.7107338905334473
+HTTP 1; https://linkedin.com; 1.5556669235229492
+HTTP 1 and 3; https://linkedin.com; 1.3700997829437256
+HTTP 1 and 2; https://linkedin.com; 1.2322852611541748
+HTTP 1, 2, and 3; https://linkedin.com; 1.9452879428863525
+HTTP 1; https://imgur.com; 2.9796245098114014
+HTTP 1 and 3; https://imgur.com; 3.0079798698425293
+HTTP 1 and 2; https://imgur.com; 2.63995623588562
+HTTP 1, 2, and 3; https://imgur.com; 1.2951951026916504
+HTTP 1; https://office.com; 2.7867419719696045
+HTTP 1 and 3; https://office.com; 2.309692859649658
+HTTP 1 and 2; https://office.com; 3.608400344848633
+HTTP 1, 2, and 3; https://office.com; 3.6880578994750977
+HTTP 1; https://netflix.com; 1.5461106300354004
+HTTP 1 and 3; https://netflix.com; 1.5594379901885986
+HTTP 1 and 2; https://netflix.com; 1.505626916885376
+HTTP 1, 2, and 3; https://netflix.com; 3.185953378677368
+HTTP 1; https://bing.com; 0.5387146472930908
+HTTP 1 and 3; https://bing.com; 0.806797981262207
+HTTP 1 and 2; https://bing.com; 0.4929072856903076
+HTTP 1, 2, and 3; https://bing.com; 0.6557207107543945
+HTTP 1; https://samsung.com; 4.5860114097595215
+HTTP 1 and 3; https://samsung.com; 3.890730381011963
+HTTP 1 and 2; https://samsung.com; 3.2160208225250244
+HTTP 1, 2, and 3; https://samsung.com; 3.519559621810913
+HTTP 1; https://pinterest.com; 0.9935705661773682
+HTTP 1 and 3; https://pinterest.com; 0.8916497230529785
+HTTP 1 and 2; https://pinterest.com; 0.9484264850616455
+HTTP 1, 2, and 3; https://pinterest.com; 0.8001577854156494
+HTTP 1; https://microsoft.com; 2.1513469219207764
+HTTP 1 and 3; https://microsoft.com; 1.939089059829712
+HTTP 1 and 2; https://microsoft.com; 2.718372344970703
+HTTP 1, 2, and 3; https://microsoft.com; 2.4172608852386475
+HTTP 1; https://discord.com; 1.6512489318847656
+HTTP 1 and 3; https://discord.com; 1.135627269744873
+HTTP 1 and 2; https://discord.com; 1.2658839225769043
+HTTP 1, 2, and 3; https://discord.com; 0.9827096462249756
+HTTP 1; https://weather.com; 1.2474634647369385
+HTTP 1 and 3; https://weather.com; 1.233414888381958
+HTTP 1 and 2; https://weather.com; 1.0203688144683838
+HTTP 1, 2, and 3; https://weather.com; 1.0662140846252441
+HTTP 1; https://twitch.tv; 3.318269729614258
+HTTP 1 and 3; https://twitch.tv; 11.387956857681274
+HTTP 1 and 2; https://twitch.tv; 7.931108474731445
+HTTP 1, 2, and 3; https://twitch.tv; 7.719611406326294
+HTTP 1; https://zoom.us; 2.884894609451294
+HTTP 1 and 3; https://zoom.us; 2.5931174755096436
+HTTP 1 and 2; https://zoom.us; 1.989954948425293
+HTTP 1, 2, and 3; https://zoom.us; 2.619293689727783
+HTTP 1; https://duckduckgo.com; 1.103625774383545
+HTTP 1 and 3; https://duckduckgo.com; 1.1660218238830566
+HTTP 1 and 2; https://duckduckgo.com; 1.483201503753662
+HTTP 1, 2, and 3; https://duckduckgo.com; 1.3613264560699463
+HTTP 1; https://quora.com; 1.3785974979400635
+HTTP 1 and 3; https://quora.com; 1.7353529930114746
+HTTP 1 and 2; https://quora.com; 1.2289345264434814
+HTTP 1, 2, and 3; https://quora.com; 1.1839139461517334
+HTTP 1; https://sharepoint.com; 3.837270498275757
+HTTP 1 and 3; https://sharepoint.com; 4.329373121261597
+HTTP 1 and 2; https://sharepoint.com; 4.971531867980957
+HTTP 1, 2, and 3; https://sharepoint.com; 3.133004665374756
+HTTP 1; https://fandom.com; 2.0985851287841797
+HTTP 1 and 3; https://fandom.com; 2.6705453395843506
+HTTP 1 and 2; https://fandom.com; 2.52048659324646
+HTTP 1, 2, and 3; https://fandom.com; 2.511611223220825
+HTTP 1; https://cnn.com; 6.423739194869995
+HTTP 1 and 3; https://cnn.com; 3.297703981399536
+HTTP 1 and 2; https://cnn.com; 4.276744604110718
+HTTP 1, 2, and 3; https://cnn.com; 3.8669371604919434
+HTTP 1; https://foxnews.com; 4.1203179359436035
+HTTP 1 and 3; https://foxnews.com; 4.568081855773926
+HTTP 1 and 2; https://foxnews.com; 3.6940107345581055
+HTTP 1, 2, and 3; https://foxnews.com; 5.805859565734863
+HTTP 1; https://nytimes.com; 3.892010450363159
+HTTP 1 and 3; https://nytimes.com; 3.826138973236084
+HTTP 1 and 2; https://nytimes.com; 3.086219310760498
+HTTP 1, 2, and 3; https://nytimes.com; 4.10173773765564
+HTTP 1; https://ebay.com; 2.180393934249878
+HTTP 1 and 3; https://ebay.com; 2.903348445892334
+HTTP 1 and 2; https://ebay.com; 1.498553991317749
+HTTP 1, 2, and 3; https://ebay.com; 1.7096309661865234
+HTTP 1; https://imdb.com; 3.594623327255249
+HTTP 1 and 3; https://imdb.com; 3.6702933311462402
+HTTP 1 and 2; https://imdb.com; 24.232497930526733
+HTTP 1, 2, and 3; https://imdb.com; 3.5286097526550293
+HTTP 1; https://walmart.com; 3.5734012126922607
+HTTP 1 and 3; https://walmart.com; 2.36818265914917
+HTTP 1 and 2; https://walmart.com; 3.7415597438812256
+HTTP 1, 2, and 3; https://walmart.com; 1.886913776397705
+HTTP 1; https://live.com; 2.742725372314453
+HTTP 1 and 3; https://live.com; 2.5223336219787598
+HTTP 1 and 2; https://live.com; 2.2292556762695312
+HTTP 1, 2, and 3; https://live.com; 2.8098182678222656
+HTTP 1; https://msn.com; 0.9851999282836914
+HTTP 1 and 3; https://msn.com; 1.369741439819336
+HTTP 1 and 2; https://msn.com; 0.7830476760864258
+HTTP 1, 2, and 3; https://msn.com; 0.8192417621612549
+HTTP 1; https://instructure.com; 1.347775936126709
+HTTP 1 and 3; https://instructure.com; 1.152724266052246
+HTTP 1 and 2; https://instructure.com; 2.227332830429077
+HTTP 1, 2, and 3; https://instructure.com; 1.167341947555542
+HTTP 1; https://spotify.com; 3.365886688232422
+HTTP 1 and 3; https://spotify.com; 2.301605701446533
+HTTP 1 and 2; https://spotify.com; 2.4751453399658203
+HTTP 1, 2, and 3; https://spotify.com; 2.5905227661132812
+HTTP 1; https://usps.com; 3.241011142730713
+HTTP 1 and 3; https://usps.com; 2.6974637508392334
+HTTP 1 and 2; https://usps.com; 2.527097702026367
+HTTP 1, 2, and 3; https://usps.com; 2.628002643585205
+HTTP 1; https://accuweather.com; 2.7150628566741943
+HTTP 1 and 3; https://accuweather.com; 2.610090970993042
+HTTP 1 and 2; https://accuweather.com; 2.1126413345336914
+HTTP 1, 2, and 3; https://accuweather.com; 2.0567049980163574
+HTTP 1; https://bbc.com; 0.8886997699737549
+HTTP 1 and 3; https://bbc.com; 0.7264742851257324
+HTTP 1 and 2; https://bbc.com; 0.9187326431274414
+HTTP 1, 2, and 3; https://bbc.com; 1.20491623878479
+HTTP 1; https://indeed.com; 1.1257946491241455
+HTTP 1 and 3; https://indeed.com; 1.0581858158111572
+HTTP 1 and 2; https://indeed.com; 0.9161989688873291
+HTTP 1, 2, and 3; https://indeed.com; 0.606461763381958
+HTTP 1; https://ziprecruiter.com; 1.2043135166168213
+HTTP 1 and 3; https://ziprecruiter.com; 0.6045935153961182
+HTTP 1 and 2; https://ziprecruiter.com; 1.4265775680541992
+HTTP 1, 2, and 3; https://ziprecruiter.com; 0.5634112358093262
+HTTP 1; https://zillow.com; 3.0252809524536133
+HTTP 1 and 3; https://zillow.com; 0.8482072353363037
+HTTP 1 and 2; https://zillow.com; 0.913956880569458
+HTTP 1, 2, and 3; https://zillow.com; 1.249894142150879
+HTTP 1; https://paypal.com; 2.160371780395508
+HTTP 1 and 3; https://paypal.com; 2.0007824897766113
+HTTP 1 and 2; https://paypal.com; 1.5265426635742188
+HTTP 1, 2, and 3; https://paypal.com; 1.9976227283477783
+HTTP 1; https://etsy.com; 3.0612566471099854
+HTTP 1 and 3; https://etsy.com; 2.595674514770508
+HTTP 1 and 2; https://etsy.com; 2.588427782058716
+HTTP 1, 2, and 3; https://etsy.com; 2.2151660919189453
+HTTP 1; https://nypost.com; 4.394279718399048
+HTTP 1 and 3; https://nypost.com; 3.190077543258667
+HTTP 1 and 2; https://nypost.com; 3.4890050888061523
+HTTP 1, 2, and 3; https://nypost.com; 3.8320538997650146
+HTTP 1; https://apple.com; 3.203310012817383
+HTTP 1 and 3; https://apple.com; 1.5004370212554932
+HTTP 1 and 2; https://apple.com; 1.5724446773529053
+HTTP 1, 2, and 3; https://apple.com; 1.8942358493804932
+HTTP 1; https://ign.com; 2.1598000526428223
+HTTP 1 and 3; https://ign.com; 1.8688747882843018
+HTTP 1 and 2; https://ign.com; 1.7317979335784912
+HTTP 1, 2, and 3; https://ign.com; 1.5200881958007812
+HTTP 1; https://max.com; 1.572951078414917
+HTTP 1 and 3; https://max.com; 6.527273654937744
+HTTP 1 and 2; https://max.com; 1.9433491230010986
+HTTP 1, 2, and 3; https://max.com; 2.564373016357422
+HTTP 1; https://usatoday.com; 3.3944039344787598
+HTTP 1 and 3; https://usatoday.com; 3.2458879947662354
+HTTP 1 and 2; https://usatoday.com; 3.9679315090179443
+HTTP 1, 2, and 3; https://usatoday.com; 5.940614223480225
+HTTP 1; https://google.com; 1.597381591796875
+HTTP 1 and 3; https://google.com; 1.1350007057189941
+HTTP 1 and 2; https://google.com; 1.2019476890563965
+HTTP 1, 2, and 3; https://google.com; 1.0533151626586914
+HTTP 1; https://njit.edu; 3.259675979614258
+HTTP 1 and 3; https://njit.edu; 3.3132455348968506
+HTTP 1 and 2; https://njit.edu; 2.923647165298462
+HTTP 1, 2, and 3; https://njit.edu; 3.8733341693878174
+HTTP 1; https://facebook.com; 0.922142505645752
+HTTP 1 and 3; https://facebook.com; 1.243196725845337
+HTTP 1 and 2; https://facebook.com; 0.921180009841919
+HTTP 1, 2, and 3; https://facebook.com; 1.728916883468628
+HTTP 1; https://reddit.com; 3.560344696044922
+HTTP 1 and 3; https://reddit.com; 2.0876986980438232
+HTTP 1 and 2; https://reddit.com; 2.158463716506958
+HTTP 1, 2, and 3; https://reddit.com; 3.0085694789886475
+HTTP 1; https://twitter.com; 1.152989149093628
+HTTP 1 and 3; https://twitter.com; 1.8737068176269531
+HTTP 1 and 2; https://twitter.com; 1.2306625843048096
+HTTP 1, 2, and 3; https://twitter.com; 1.2380011081695557
+HTTP 1; https://youtube.com; 4.933044910430908
+HTTP 1 and 3; https://youtube.com; 4.570324182510376
+HTTP 1 and 2; https://youtube.com; 4.288679599761963
+HTTP 1, 2, and 3; https://youtube.com; 4.594764471054077
+HTTP 1; https://amazon.com; 3.361341714859009
+HTTP 1 and 3; https://amazon.com; 2.9318318367004395
+HTTP 1 and 2; https://amazon.com; 2.391453981399536
+HTTP 1, 2, and 3; https://amazon.com; 2.1812474727630615
+HTTP 1; https://wikipedia.org; 1.1586880683898926
+HTTP 1 and 3; https://wikipedia.org; 0.8955521583557129
+HTTP 1 and 2; https://wikipedia.org; 0.6280708312988281
+HTTP 1, 2, and 3; https://wikipedia.org; 0.6658124923706055
+HTTP 1; https://yahoo.com; 2.75313663482666
+HTTP 1 and 3; https://yahoo.com; 2.6169593334198
+HTTP 1 and 2; https://yahoo.com; 2.5965471267700195
+HTTP 1, 2, and 3; https://yahoo.com; 2.1805033683776855
+HTTP 1; https://instagram.com; 1.6150400638580322
+HTTP 1 and 3; https://instagram.com; 1.3192431926727295
+HTTP 1 and 2; https://instagram.com; 1.5876972675323486
+HTTP 1, 2, and 3; https://instagram.com; 1.2115521430969238
+HTTP 1; https://tiktok.com; 1.4643161296844482
+HTTP 1 and 3; https://tiktok.com; 1.4521088600158691
+HTTP 1 and 2; https://tiktok.com; 1.5826029777526855
+HTTP 1, 2, and 3; https://tiktok.com; 1.5946097373962402
+HTTP 1; https://linkedin.com; 1.5393943786621094
+HTTP 1 and 3; https://linkedin.com; 1.4263262748718262
+HTTP 1 and 2; https://linkedin.com; 1.1827991008758545
+HTTP 1, 2, and 3; https://linkedin.com; 1.2359106540679932
+HTTP 1; https://imgur.com; 1.5806753635406494
+HTTP 1 and 3; https://imgur.com; 2.686145544052124
+HTTP 1 and 2; https://imgur.com; 1.8875141143798828
+HTTP 1, 2, and 3; https://imgur.com; 1.878053903579712
+HTTP 1; https://office.com; 3.215503692626953
+HTTP 1 and 3; https://office.com; 2.213172674179077
+HTTP 1 and 2; https://office.com; 3.6335344314575195
+HTTP 1, 2, and 3; https://office.com; 5.609009265899658
+HTTP 1; https://netflix.com; 1.6107821464538574
+HTTP 1 and 3; https://netflix.com; 1.5740625858306885
+HTTP 1 and 2; https://netflix.com; 1.295203447341919
+HTTP 1, 2, and 3; https://netflix.com; 1.4090428352355957
+HTTP 1; https://bing.com; 0.5782411098480225
+HTTP 1 and 3; https://bing.com; 0.6197607517242432
+HTTP 1 and 2; https://bing.com; 0.4230940341949463
+HTTP 1, 2, and 3; https://bing.com; 0.3844780921936035
+HTTP 1; https://samsung.com; 3.083221912384033
+HTTP 1 and 3; https://samsung.com; 4.077592134475708
+HTTP 1 and 2; https://samsung.com; 2.894047975540161
+HTTP 1, 2, and 3; https://samsung.com; 2.90508770942688
+HTTP 1; https://pinterest.com; 1.1100199222564697
+HTTP 1 and 3; https://pinterest.com; 0.947197437286377
+HTTP 1 and 2; https://pinterest.com; 0.900625467300415
+HTTP 1, 2, and 3; https://pinterest.com; 1.056837558746338
+HTTP 1; https://microsoft.com; 1.9877891540527344
+HTTP 1 and 3; https://microsoft.com; 2.581727981567383
+HTTP 1 and 2; https://microsoft.com; 4.482333421707153
+HTTP 1, 2, and 3; https://microsoft.com; 3.298600196838379
+HTTP 1; https://discord.com; 1.567706823348999
+HTTP 1 and 3; https://discord.com; 1.2399876117706299
+HTTP 1 and 2; https://discord.com; 1.693643569946289
+HTTP 1, 2, and 3; https://discord.com; 1.0114493370056152
+HTTP 1; https://weather.com; 1.5517504215240479
+HTTP 1 and 3; https://weather.com; 1.4456052780151367
+HTTP 1 and 2; https://weather.com; 1.318345308303833
+HTTP 1, 2, and 3; https://weather.com; 1.160254716873169
+HTTP 1; https://twitch.tv; 3.8541104793548584
+HTTP 1 and 3; https://twitch.tv; 16.495229482650757
+HTTP 1 and 2; https://twitch.tv; 16.733962297439575
+HTTP 1, 2, and 3; https://twitch.tv; 6.301080703735352
+HTTP 1; https://zoom.us; 2.3448941707611084
+HTTP 1 and 3; https://zoom.us; 2.5039451122283936
+HTTP 1 and 2; https://zoom.us; 2.492676258087158
+HTTP 1, 2, and 3; https://zoom.us; 1.8158957958221436
+HTTP 1; https://duckduckgo.com; 1.092519760131836
+HTTP 1 and 3; https://duckduckgo.com; 1.6467394828796387
+HTTP 1 and 2; https://duckduckgo.com; 1.421658992767334
+HTTP 1, 2, and 3; https://duckduckgo.com; 1.2972080707550049
+HTTP 1; https://quora.com; 1.5648770332336426
+HTTP 1 and 3; https://quora.com; 1.4838950634002686
+HTTP 1 and 2; https://quora.com; 1.0718953609466553
+HTTP 1, 2, and 3; https://quora.com; 1.3007004261016846
+HTTP 1; https://sharepoint.com; 4.614995718002319
+HTTP 1 and 3; https://sharepoint.com; 4.198170900344849
+HTTP 1 and 2; https://sharepoint.com; 3.8917579650878906
+HTTP 1, 2, and 3; https://sharepoint.com; 3.4945268630981445
+HTTP 1; https://fandom.com; 2.022434711456299
+HTTP 1 and 3; https://fandom.com; 2.108473300933838
+HTTP 1 and 2; https://fandom.com; 1.8637828826904297
+HTTP 1, 2, and 3; https://fandom.com; 1.794231653213501
+HTTP 1; https://cnn.com; 3.963315963745117
+HTTP 1 and 3; https://cnn.com; 3.881937026977539
+HTTP 1 and 2; https://cnn.com; 3.9635415077209473
+HTTP 1, 2, and 3; https://cnn.com; 3.6480493545532227
+HTTP 1; https://foxnews.com; 3.8616578578948975
+HTTP 1 and 3; https://foxnews.com; 4.708132266998291
+HTTP 1 and 2; https://foxnews.com; 3.75286865234375
+HTTP 1, 2, and 3; https://foxnews.com; 4.539498329162598
+HTTP 1; https://nytimes.com; 3.9491231441497803
+HTTP 1 and 3; https://nytimes.com; 4.1789391040802
+HTTP 1 and 2; https://nytimes.com; 3.5304722785949707
+HTTP 1, 2, and 3; https://nytimes.com; 3.139824628829956
+HTTP 1; https://ebay.com; 2.406653881072998
+HTTP 1 and 3; https://ebay.com; 1.820282220840454
+HTTP 1 and 2; https://ebay.com; 1.5795831680297852
+HTTP 1, 2, and 3; https://ebay.com; 1.7087876796722412
+HTTP 1; https://imdb.com; 3.6859045028686523
+HTTP 1 and 3; https://imdb.com; 3.55440092086792
+HTTP 1 and 2; https://imdb.com; 2.936358690261841
+HTTP 1, 2, and 3; https://imdb.com; 4.309183359146118
+HTTP 1; https://walmart.com; 3.854550838470459
+HTTP 1 and 3; https://walmart.com; 2.77311372756958
+HTTP 1 and 2; https://walmart.com; 3.1524438858032227
+HTTP 1, 2, and 3; https://walmart.com; 1.9465672969818115
+HTTP 1; https://live.com; 3.098012685775757
+HTTP 1 and 3; https://live.com; 2.904003620147705
+HTTP 1 and 2; https://live.com; 3.520073175430298
+HTTP 1, 2, and 3; https://live.com; 4.258292198181152
+HTTP 1; https://msn.com; 0.9081482887268066
+HTTP 1 and 3; https://msn.com; 1.0802135467529297
+HTTP 1 and 2; https://msn.com; 0.8657410144805908
+HTTP 1, 2, and 3; https://msn.com; 0.8917241096496582
+HTTP 1; https://instructure.com; 1.2342967987060547
+HTTP 1 and 3; https://instructure.com; 1.2231554985046387
+HTTP 1 and 2; https://instructure.com; 2.8699758052825928
+HTTP 1, 2, and 3; https://instructure.com; 1.6698408126831055
+HTTP 1; https://spotify.com; 2.7583510875701904
+HTTP 1 and 3; https://spotify.com; 2.8658530712127686
+HTTP 1 and 2; https://spotify.com; 2.65614652633667
+HTTP 1, 2, and 3; https://spotify.com; 3.0840938091278076
+HTTP 1; https://usps.com; 1.305513620376587
+HTTP 1 and 3; https://usps.com; 3.4295294284820557
+HTTP 1 and 2; https://usps.com; 2.9285569190979004
+HTTP 1, 2, and 3; https://usps.com; 2.8196849822998047
+HTTP 1; https://accuweather.com; 2.241638422012329
+HTTP 1 and 3; https://accuweather.com; 2.7254045009613037
+HTTP 1 and 2; https://accuweather.com; 2.539515733718872
+HTTP 1, 2, and 3; https://accuweather.com; 2.023458242416382
+HTTP 1; https://bbc.com; 0.894770622253418
+HTTP 1 and 3; https://bbc.com; 1.1068861484527588
+HTTP 1 and 2; https://bbc.com; 1.5954616069793701
+HTTP 1, 2, and 3; https://bbc.com; 1.0300014019012451
+HTTP 1; https://indeed.com; 1.0174329280853271
+HTTP 1 and 3; https://indeed.com; 0.8300364017486572
+HTTP 1 and 2; https://indeed.com; 0.855907678604126
+HTTP 1, 2, and 3; https://indeed.com; 0.7247583866119385
+HTTP 1; https://ziprecruiter.com; 1.281581163406372
+HTTP 1 and 3; https://ziprecruiter.com; 0.5900664329528809
+HTTP 1 and 2; https://ziprecruiter.com; 1.1109256744384766
+HTTP 1, 2, and 3; https://ziprecruiter.com; 1.0712602138519287
+HTTP 1; https://zillow.com; 2.9614036083221436
+HTTP 1 and 3; https://zillow.com; 0.8651785850524902
+HTTP 1 and 2; https://zillow.com; 0.8013055324554443
+HTTP 1, 2, and 3; https://zillow.com; 0.8364672660827637
+HTTP 1; https://paypal.com; 2.0533266067504883
+HTTP 1 and 3; https://paypal.com; 1.4860079288482666
+HTTP 1 and 2; https://paypal.com; 1.3792543411254883
+HTTP 1, 2, and 3; https://paypal.com; 2.2169551849365234
+HTTP 1; https://etsy.com; 2.7410147190093994
+HTTP 1 and 3; https://etsy.com; 2.7361109256744385
+HTTP 1 and 2; https://etsy.com; 2.639021158218384
+HTTP 1, 2, and 3; https://etsy.com; 2.2218143939971924
+HTTP 1; https://nypost.com; 3.6509532928466797
+HTTP 1 and 3; https://nypost.com; 3.533954620361328
+HTTP 1 and 2; https://nypost.com; 3.4379830360412598
+HTTP 1, 2, and 3; https://nypost.com; 4.369173288345337
+HTTP 1; https://apple.com; 1.4310967922210693
+HTTP 1 and 3; https://apple.com; 1.260746717453003
+HTTP 1 and 2; https://apple.com; 1.4656262397766113
+HTTP 1, 2, and 3; https://apple.com; 2.4291486740112305
+HTTP 1; https://ign.com; 2.981132984161377
+HTTP 1 and 3; https://ign.com; 1.5255343914031982
+HTTP 1 and 2; https://ign.com; 2.727623224258423
+HTTP 1, 2, and 3; https://ign.com; 4.819355487823486
+HTTP 1; https://max.com; 1.6794548034667969
+HTTP 1 and 3; https://max.com; 1.7807981967926025
+HTTP 1 and 2; https://max.com; 1.5103886127471924
+HTTP 1, 2, and 3; https://max.com; 1.603501319885254
+HTTP 1; https://usatoday.com; 4.448946237564087
+HTTP 1 and 3; https://usatoday.com; 2.838003635406494
+HTTP 1 and 2; https://usatoday.com; 4.569798231124878
+HTTP 1, 2, and 3; https://usatoday.com; 3.2189300060272217
+HTTP 1; https://google.com; 1.4655628204345703
+HTTP 1 and 3; https://google.com; 1.5697996616363525
+HTTP 1 and 2; https://google.com; 1.0525617599487305
+HTTP 1, 2, and 3; https://google.com; 1.2609901428222656
+HTTP 1; https://njit.edu; 3.051893711090088
+HTTP 1 and 3; https://njit.edu; 3.4430582523345947
+HTTP 1 and 2; https://njit.edu; 4.3557493686676025
+HTTP 1, 2, and 3; https://njit.edu; 4.066555500030518
+HTTP 1; https://facebook.com; 0.9291338920593262
+HTTP 1 and 3; https://facebook.com; 1.0437335968017578
+HTTP 1 and 2; https://facebook.com; 1.0447640419006348
+HTTP 1, 2, and 3; https://facebook.com; 1.0222485065460205
+HTTP 1; https://reddit.com; 3.2029869556427
+HTTP 1 and 3; https://reddit.com; 3.6430842876434326
+HTTP 1 and 2; https://reddit.com; 2.364227533340454
+HTTP 1, 2, and 3; https://reddit.com; 2.6378262042999268
+HTTP 1; https://twitter.com; 1.2829573154449463
+HTTP 1 and 3; https://twitter.com; 1.779982566833496
+HTTP 1 and 2; https://twitter.com; 1.36735200881958
+HTTP 1, 2, and 3; https://twitter.com; 1.8222720623016357
+HTTP 1; https://youtube.com; 6.362083435058594
+HTTP 1 and 3; https://youtube.com; 4.7618677616119385
+HTTP 1 and 2; https://youtube.com; 5.137027740478516
+HTTP 1, 2, and 3; https://youtube.com; 5.039487600326538
+HTTP 1; https://amazon.com; 3.3048207759857178
+HTTP 1 and 3; https://amazon.com; 2.9752159118652344
+HTTP 1 and 2; https://amazon.com; 2.8947482109069824
+HTTP 1, 2, and 3; https://amazon.com; 2.383187770843506
+HTTP 1; https://wikipedia.org; 0.978933572769165
+HTTP 1 and 3; https://wikipedia.org; 0.8604459762573242
+HTTP 1 and 2; https://wikipedia.org; 0.7693681716918945
+HTTP 1, 2, and 3; https://wikipedia.org; 0.6469995975494385
+HTTP 1; https://yahoo.com; 2.709794521331787
+HTTP 1 and 3; https://yahoo.com; 2.6944761276245117
+HTTP 1 and 2; https://yahoo.com; 2.6754746437072754
+HTTP 1, 2, and 3; https://yahoo.com; 2.2945644855499268
+HTTP 1; https://instagram.com; 1.3978698253631592
+HTTP 1 and 3; https://instagram.com; 1.2035155296325684
+HTTP 1 and 2; https://instagram.com; 1.321868896484375
+HTTP 1, 2, and 3; https://instagram.com; 1.177053451538086
+HTTP 1; https://tiktok.com; 3.3932154178619385
+HTTP 1 and 3; https://tiktok.com; 1.7311899662017822
+HTTP 1 and 2; https://tiktok.com; 1.9034483432769775
+HTTP 1, 2, and 3; https://tiktok.com; 1.801306962966919
+HTTP 1; https://linkedin.com; 1.4916179180145264
+HTTP 1 and 3; https://linkedin.com; 1.536261796951294
+HTTP 1 and 2; https://linkedin.com; 1.4545538425445557
+HTTP 1, 2, and 3; https://linkedin.com; 1.3785860538482666
+HTTP 1; https://imgur.com; 2.6420257091522217
+HTTP 1 and 3; https://imgur.com; 3.2632250785827637
+HTTP 1 and 2; https://imgur.com; 3.1684787273406982
+HTTP 1, 2, and 3; https://imgur.com; 3.226717233657837
+HTTP 1; https://office.com; 2.7304930686950684
+HTTP 1 and 3; https://office.com; 3.157442331314087
+HTTP 1 and 2; https://office.com; 4.138243913650513
+HTTP 1, 2, and 3; https://office.com; 1.8110747337341309
+HTTP 1; https://netflix.com; 1.5257048606872559
+HTTP 1 and 3; https://netflix.com; 3.1545164585113525
+HTTP 1 and 2; https://netflix.com; 1.5720057487487793
+HTTP 1, 2, and 3; https://netflix.com; 1.3341460227966309
+HTTP 1; https://bing.com; 0.5391263961791992
+HTTP 1 and 3; https://bing.com; 0.5265369415283203
+HTTP 1 and 2; https://bing.com; 0.4662163257598877
+HTTP 1, 2, and 3; https://bing.com; 0.4147803783416748
+HTTP 1; https://samsung.com; 3.0640292167663574
+HTTP 1 and 3; https://samsung.com; 2.946658134460449
+HTTP 1 and 2; https://samsung.com; 2.885160446166992
+HTTP 1, 2, and 3; https://samsung.com; 3.5501060485839844
+HTTP 1; https://pinterest.com; 1.0073273181915283
+HTTP 1 and 3; https://pinterest.com; 0.9858975410461426
+HTTP 1 and 2; https://pinterest.com; 1.59956955909729
+HTTP 1, 2, and 3; https://pinterest.com; 0.805086612701416
+HTTP 1; https://microsoft.com; 3.9022786617279053
+HTTP 1 and 3; https://microsoft.com; 3.5023748874664307
+HTTP 1 and 2; https://microsoft.com; 2.4348838329315186
+HTTP 1, 2, and 3; https://microsoft.com; 3.5846047401428223
+HTTP 1; https://discord.com; 1.6606519222259521
+HTTP 1 and 3; https://discord.com; 1.166421890258789
+HTTP 1 and 2; https://discord.com; 1.4241468906402588
+HTTP 1, 2, and 3; https://discord.com; 1.1422598361968994
+HTTP 1; https://weather.com; 1.3622057437896729
+HTTP 1 and 3; https://weather.com; 1.233959436416626
+HTTP 1 and 2; https://weather.com; 1.0178546905517578
+HTTP 1, 2, and 3; https://weather.com; 1.0862703323364258
+HTTP 1; https://twitch.tv; 3.6676504611968994
+HTTP 1 and 3; https://twitch.tv; 8.6497323513031
+HTTP 1 and 2; https://twitch.tv; 6.302103757858276
+HTTP 1, 2, and 3; https://twitch.tv; 3.303121328353882
+HTTP 1; https://zoom.us; 2.387026071548462
+HTTP 1 and 3; https://zoom.us; 7.2311530113220215
+HTTP 1 and 2; https://zoom.us; 2.0312747955322266
+HTTP 1, 2, and 3; https://zoom.us; 1.8302812576293945
+HTTP 1; https://duckduckgo.com; 1.2954277992248535
+HTTP 1 and 3; https://duckduckgo.com; 1.866929054260254
+HTTP 1 and 2; https://duckduckgo.com; 1.794748067855835
+HTTP 1, 2, and 3; https://duckduckgo.com; 1.6236693859100342
+HTTP 1; https://quora.com; 1.3308546543121338
+HTTP 1 and 3; https://quora.com; 1.2928121089935303
+HTTP 1 and 2; https://quora.com; 1.425631046295166
+HTTP 1, 2, and 3; https://quora.com; 1.1764559745788574
+HTTP 1; https://sharepoint.com; 3.6676158905029297
+HTTP 1 and 3; https://sharepoint.com; 4.827917814254761
+HTTP 1 and 2; https://sharepoint.com; 3.476264715194702
+HTTP 1, 2, and 3; https://sharepoint.com; 3.6953396797180176
+HTTP 1; https://fandom.com; 1.8086299896240234
+HTTP 1 and 3; https://fandom.com; 1.8902945518493652
+HTTP 1 and 2; https://fandom.com; 2.369878053665161
+HTTP 1, 2, and 3; https://fandom.com; 2.4641644954681396
+HTTP 1; https://cnn.com; 4.0333192348480225
+HTTP 1 and 3; https://cnn.com; 3.894906520843506
+HTTP 1 and 2; https://cnn.com; 7.7250001430511475
+HTTP 1, 2, and 3; https://cnn.com; 3.763740301132202
+HTTP 1; https://foxnews.com; 7.424878835678101
+HTTP 1 and 3; https://foxnews.com; 6.407228231430054
+HTTP 1 and 2; https://foxnews.com; 4.1019368171691895
+HTTP 1, 2, and 3; https://foxnews.com; 3.8044145107269287
+HTTP 1; https://nytimes.com; 4.221528053283691
+HTTP 1 and 3; https://nytimes.com; 4.451002836227417
+HTTP 1 and 2; https://nytimes.com; 3.604973077774048
+HTTP 1, 2, and 3; https://nytimes.com; 3.9408020973205566
+HTTP 1; https://ebay.com; 1.8665637969970703
+HTTP 1 and 3; https://ebay.com; 1.7972943782806396
+HTTP 1 and 2; https://ebay.com; 1.9463424682617188
+HTTP 1, 2, and 3; https://ebay.com; 1.7035272121429443
+HTTP 1; https://imdb.com; 2.926469087600708
+HTTP 1 and 3; https://imdb.com; 3.4355108737945557
+HTTP 1 and 2; https://imdb.com; 3.996502161026001
+HTTP 1, 2, and 3; https://imdb.com; 3.394822359085083
+HTTP 1; https://walmart.com; 8.504053592681885
+HTTP 1 and 3; https://walmart.com; 4.0477375984191895
+HTTP 1 and 2; https://walmart.com; 2.1249895095825195
+HTTP 1, 2, and 3; https://walmart.com; 2.03020977973938
+HTTP 1; https://live.com; 2.618084192276001
+HTTP 1 and 3; https://live.com; 3.094465494155884
+HTTP 1 and 2; https://live.com; 3.043553590774536
+HTTP 1, 2, and 3; https://live.com; 3.062256097793579
+HTTP 1; https://msn.com; 0.7596127986907959
+HTTP 1 and 3; https://msn.com; 1.2629554271697998
+HTTP 1 and 2; https://msn.com; 1.2489168643951416
+HTTP 1, 2, and 3; https://msn.com; 0.8616452217102051
+HTTP 1; https://instructure.com; 1.4871807098388672
+HTTP 1 and 3; https://instructure.com; 1.1295952796936035
+HTTP 1 and 2; https://instructure.com; 1.2591331005096436
+HTTP 1, 2, and 3; https://instructure.com; 1.019280195236206
+HTTP 1; https://spotify.com; 3.469064950942993
+HTTP 1 and 3; https://spotify.com; 3.09836483001709
+HTTP 1 and 2; https://spotify.com; 3.087749719619751
+HTTP 1, 2, and 3; https://spotify.com; 3.1113884449005127
+HTTP 1; https://usps.com; 3.1495585441589355
+HTTP 1 and 3; https://usps.com; 3.017597198486328
+HTTP 1 and 2; https://usps.com; 3.5807816982269287
+HTTP 1, 2, and 3; https://usps.com; 2.5054540634155273
+HTTP 1; https://accuweather.com; 2.5532004833221436
+HTTP 1 and 3; https://accuweather.com; 2.6427958011627197
+HTTP 1 and 2; https://accuweather.com; 2.355876922607422
+HTTP 1, 2, and 3; https://accuweather.com; 1.9348924160003662
+HTTP 1; https://bbc.com; 1.0270886421203613
+HTTP 1 and 3; https://bbc.com; 0.6963434219360352
+HTTP 1 and 2; https://bbc.com; 0.9053800106048584
+HTTP 1, 2, and 3; https://bbc.com; 1.942608118057251
+HTTP 1; https://indeed.com; 0.6961925029754639
+HTTP 1 and 3; https://indeed.com; 0.7377152442932129
+HTTP 1 and 2; https://indeed.com; 0.772808313369751
+HTTP 1, 2, and 3; https://indeed.com; 0.8701610565185547
+HTTP 1; https://ziprecruiter.com; 1.6307611465454102
+HTTP 1 and 3; https://ziprecruiter.com; 1.3461225032806396
+HTTP 1 and 2; https://ziprecruiter.com; 1.0571792125701904
+HTTP 1, 2, and 3; https://ziprecruiter.com; 0.6287252902984619
+HTTP 1; https://zillow.com; 6.602130651473999
+HTTP 1 and 3; https://zillow.com; 0.8856737613677979
+HTTP 1 and 2; https://zillow.com; 0.9728353023529053
+HTTP 1, 2, and 3; https://zillow.com; 0.7842376232147217
+HTTP 1; https://paypal.com; 2.2463924884796143
+HTTP 1 and 3; https://paypal.com; 1.9302012920379639
+HTTP 1 and 2; https://paypal.com; 1.3925974369049072
+HTTP 1, 2, and 3; https://paypal.com; 1.9989149570465088
+HTTP 1; https://etsy.com; 2.5834333896636963
+HTTP 1 and 3; https://etsy.com; 2.63820743560791
+HTTP 1 and 2; https://etsy.com; 2.4384162425994873
+HTTP 1, 2, and 3; https://etsy.com; 2.395216941833496
+HTTP 1; https://nypost.com; 5.486198902130127
+HTTP 1 and 3; https://nypost.com; 3.414693593978882
+HTTP 1 and 2; https://nypost.com; 3.087578296661377
+HTTP 1, 2, and 3; https://nypost.com; 8.612720966339111
+HTTP 1; https://apple.com; 1.3439171314239502
+HTTP 1 and 3; https://apple.com; 1.6574649810791016
+HTTP 1 and 2; https://apple.com; 1.8175485134124756
+HTTP 1, 2, and 3; https://apple.com; 1.7599143981933594
+HTTP 1; https://ign.com; 1.61861252784729
+HTTP 1 and 3; https://ign.com; 1.470827341079712
+HTTP 1 and 2; https://ign.com; 3.5812056064605713
+HTTP 1, 2, and 3; https://ign.com; 2.822347640991211
+HTTP 1; https://max.com; 1.7631025314331055
+HTTP 1 and 3; https://max.com; 1.7958970069885254
+HTTP 1 and 2; https://max.com; 1.8972008228302002
+HTTP 1, 2, and 3; https://max.com; 1.6163229942321777
+HTTP 1; https://usatoday.com; 4.016051769256592
+HTTP 1 and 3; https://usatoday.com; 3.6201179027557373
+HTTP 1 and 2; https://usatoday.com; 3.456228494644165
+HTTP 1, 2, and 3; https://usatoday.com; 3.2702744007110596

@@ -1,0 +1,70 @@
+url: rtt
+HTTP 1, http://www.google.com, 1.2298436164855957
+HTTP 1 and 3, http://www.google.com, 1.1226248741149902
+HTTP 1 and 2, http://www.google.com, 1.4448037147521973
+HTTP 1,2, and 3, http://www.google.com, 2.0785293579101562
+HTTP 1, http://www.njit.edu, 2.6843769550323486
+HTTP 1 and 3, http://www.njit.edu, 2.571857213973999
+HTTP 1 and 2, http://www.njit.edu, 2.472485065460205
+HTTP 1,2, and 3, http://www.njit.edu, 2.550811767578125
+HTTP 1, http://www.facebook.com, 1.9803259372711182
+HTTP 1 and 3, http://www.facebook.com, 1.326524257659912
+HTTP 1 and 2, http://www.facebook.com, 1.3178894519805908
+HTTP 1,2, and 3, http://www.facebook.com, 1.158811092376709
+HTTP 1, http://www.reddit.com, 3.7375378608703613
+HTTP 1 and 3, http://www.reddit.com, 1.1215755939483643
+HTTP 1 and 2, http://www.reddit.com, 1.0517361164093018
+HTTP 1,2, and 3, http://www.reddit.com, 1.2783234119415283
+HTTP 1, http://www.twitter.com, 1.8057847023010254
+HTTP 1 and 3, http://www.twitter.com, 1.7888994216918945
+HTTP 1 and 2, http://www.twitter.com, 2.3120005130767822
+HTTP 1,2, and 3, http://www.twitter.com, 1.829068660736084
+HTTP 1, http://www.youtube.com, 7.492997884750366
+HTTP 1 and 3, http://www.youtube.com, 7.687186241149902
+HTTP 1 and 2, http://www.youtube.com, 6.723096132278442
+HTTP 1,2, and 3, http://www.youtube.com, 7.27190637588501
+HTTP 1, http://www.amazon.com, 1.999356746673584
+HTTP 1 and 3, http://www.amazon.com, 2.0915801525115967
+HTTP 1 and 2, http://www.amazon.com, 2.132190704345703
+HTTP 1,2, and 3, http://www.amazon.com, 2.17765212059021
+HTTP 1, http://www.wikipedia.org, 0.8243536949157715
+HTTP 1 and 3, http://www.wikipedia.org, 0.8123400211334229
+HTTP 1 and 2, http://www.wikipedia.org, 0.7389562129974365
+HTTP 1,2, and 3, http://www.wikipedia.org, 0.7540550231933594
+HTTP 1, http://www.yahoo.com, 3.6748008728027344
+HTTP 1 and 3, http://www.yahoo.com, 2.306063175201416
+HTTP 1 and 2, http://www.yahoo.com, 3.50934100151062
+HTTP 1,2, and 3, http://www.yahoo.com, 3.5313329696655273
+HTTP 1, http://www.instagram.com, 1.0505294799804688
+HTTP 1 and 3, http://www.instagram.com, 0.9994509220123291
+HTTP 1 and 2, http://www.instagram.com, 1.0225927829742432
+HTTP 1,2, and 3, http://www.instagram.com, 1.0157549381256104
+HTTP 1, http://www.tiktok.com, 0.9533185958862305
+HTTP 1 and 3, http://www.tiktok.com, 0.811779260635376
+HTTP 1 and 2, http://www.tiktok.com, 1.7432358264923096
+HTTP 1,2, and 3, http://www.tiktok.com, 1.76432466506958
+HTTP 1, http://www.linkedin.com, 2.3657617568969727
+HTTP 1 and 3, http://www.linkedin.com, 1.9333598613739014
+HTTP 1 and 2, http://www.linkedin.com, 1.922025203704834
+HTTP 1,2, and 3, http://www.linkedin.com, 1.919198989868164
+HTTP 1, http://www.imgur.com, 2.119295835494995
+HTTP 1 and 3, http://www.imgur.com, 8.780852794647217
+HTTP 1 and 2, http://www.imgur.com, 2.077867031097412
+HTTP 1,2, and 3, http://www.imgur.com, 2.0335781574249268
+HTTP 1, http://www.openai.com, 1.6429815292358398
+HTTP 1 and 3, http://www.openai.com, 1.7321765422821045
+HTTP 1 and 2, http://www.openai.com, 1.6359617710113525
+HTTP 1,2, and 3, http://www.openai.com, 1.7920384407043457
+HTTP 1, http://www.office.com, 1.532351016998291
+HTTP 1 and 3, http://www.office.com, 1.6111209392547607
+HTTP 1 and 2, http://www.office.com, 2.1494674682617188
+HTTP 1,2, and 3, http://www.office.com, 35.35148525238037
+HTTP 1, http://www.netflix.com, 3.7001895904541016
+HTTP 1 and 3, http://www.netflix.com, 2.916930675506592
+HTTP 1 and 2, http://www.netflix.com, 4.985295057296753
+HTTP 1,2, and 3, http://www.netflix.com, 3.756117105484009
+url: rtt
+HTTP 1, http://www.google.com, 2.6935017108917236
+HTTP 1 and 3, http://www.google.com, 1.108253002166748
+HTTP 1 and 2, http://www.google.com, 1.1051695346832275
+HTTP 1,2, and 3, http://www.google.com, 1.1651124954223633

@@ -1,0 +1,2010 @@
+protocol; url; rtt - Optimum Internet - Home Internet - Wifi - 2023-12-10 13:05:45.856198
+HTTP 1; http://www.google.com; 1.1232099533081055
+HTTP 1 and 3; http://www.google.com; 1.2208197116851807
+HTTP 1 and 2; http://www.google.com; 1.032209873199463
+HTTP 1, 2, and 3; http://www.google.com; 1.0130019187927246
+HTTP 1; http://www.njit.edu; 3.310903787612915
+HTTP 1 and 3; http://www.njit.edu; 3.3779964447021484
+HTTP 1 and 2; http://www.njit.edu; 2.681875467300415
+HTTP 1, 2, and 3; http://www.njit.edu; 2.7801709175109863
+HTTP 1; http://www.facebook.com; 0.9328525066375732
+HTTP 1 and 3; http://www.facebook.com; 0.9945521354675293
+HTTP 1 and 2; http://www.facebook.com; 0.8176436424255371
+HTTP 1, 2, and 3; http://www.facebook.com; 0.8690335750579834
+HTTP 1; http://www.reddit.com; 4.120453357696533
+HTTP 1 and 3; http://www.reddit.com; 4.117112159729
+HTTP 1 and 2; http://www.reddit.com; 4.444853782653809
+HTTP 1, 2, and 3; http://www.reddit.com; 3.2276079654693604
+HTTP 1; http://www.twitter.com; 1.9543240070343018
+HTTP 1 and 3; http://www.twitter.com; 1.990119457244873
+HTTP 1 and 2; http://www.twitter.com; 1.6593852043151855
+HTTP 1, 2, and 3; http://www.twitter.com; 1.2215406894683838
+HTTP 1; http://www.youtube.com; 5.2905049324035645
+HTTP 1 and 3; http://www.youtube.com; 4.625255346298218
+HTTP 1 and 2; http://www.youtube.com; 4.359690189361572
+HTTP 1, 2, and 3; http://www.youtube.com; 4.704198598861694
+HTTP 1; http://www.amazon.com; 2.0890753269195557
+HTTP 1 and 3; http://www.amazon.com; 3.1804349422454834
+HTTP 1 and 2; http://www.amazon.com; 2.2587380409240723
+HTTP 1, 2, and 3; http://www.amazon.com; 0.49852585792541504
+HTTP 1; http://www.wikipedia.org; 0.7544894218444824
+HTTP 1 and 3; http://www.wikipedia.org; 0.6322164535522461
+HTTP 1 and 2; http://www.wikipedia.org; 0.6374197006225586
+HTTP 1, 2, and 3; http://www.wikipedia.org; 0.6146173477172852
+HTTP 1; http://www.yahoo.com; 3.070253610610962
+HTTP 1 and 3; http://www.yahoo.com; 1.8617527484893799
+HTTP 1 and 2; http://www.yahoo.com; 3.01233172416687
+HTTP 1, 2, and 3; http://www.yahoo.com; 2.754851818084717
+HTTP 1; http://www.instagram.com; 1.0978639125823975
+HTTP 1 and 3; http://www.instagram.com; 1.0060205459594727
+HTTP 1 and 2; http://www.instagram.com; 1.123039960861206
+HTTP 1, 2, and 3; http://www.instagram.com; 1.0780730247497559
+HTTP 1; http://www.tiktok.com; 2.381937265396118
+HTTP 1 and 3; http://www.tiktok.com; 1.3196229934692383
+HTTP 1 and 2; http://www.tiktok.com; 1.5159385204315186
+HTTP 1, 2, and 3; http://www.tiktok.com; 1.5201928615570068
+HTTP 1; http://www.linkedin.com; 1.4545488357543945
+HTTP 1 and 3; http://www.linkedin.com; 1.5289783477783203
+HTTP 1 and 2; http://www.linkedin.com; 1.3258607387542725
+HTTP 1, 2, and 3; http://www.linkedin.com; 1.267615795135498
+HTTP 1; http://www.imgur.com; 3.2826902866363525
+HTTP 1 and 3; http://www.imgur.com; 2.990166664123535
+HTTP 1 and 2; http://www.imgur.com; 3.748140811920166
+HTTP 1, 2, and 3; http://www.imgur.com; 1.4611365795135498
+HTTP 1; http://www.office.com; 2.4966728687286377
+HTTP 1 and 3; http://www.office.com; 1.9993999004364014
+HTTP 1 and 2; http://www.office.com; 3.3951334953308105
+HTTP 1, 2, and 3; http://www.office.com; 1.5057640075683594
+HTTP 1; http://www.netflix.com; 1.3557915687561035
+HTTP 1 and 3; http://www.netflix.com; 1.388418197631836
+HTTP 1 and 2; http://www.netflix.com; 1.2699759006500244
+HTTP 1, 2, and 3; http://www.netflix.com; 1.3919594287872314
+HTTP 1; http://www.bing.com; 0.4145774841308594
+HTTP 1 and 3; http://www.bing.com; 0.34204578399658203
+HTTP 1 and 2; http://www.bing.com; 0.3500857353210449
+HTTP 1, 2, and 3; http://www.bing.com; 0.3529937267303467
+HTTP 1; http://www.samsung.com; 6.298466205596924
+HTTP 1 and 3; http://www.samsung.com; 2.600708246231079
+HTTP 1 and 2; http://www.samsung.com; 3.2787985801696777
+HTTP 1, 2, and 3; http://www.samsung.com; 2.9340970516204834
+HTTP 1; http://www.pinterest.com; 0.8475492000579834
+HTTP 1 and 3; http://www.pinterest.com; 0.912761926651001
+HTTP 1 and 2; http://www.pinterest.com; 0.7532310485839844
+HTTP 1, 2, and 3; http://www.pinterest.com; 0.8017041683197021
+HTTP 1; http://www.microsoft.com; 3.0916213989257812
+HTTP 1 and 3; http://www.microsoft.com; 10.207434892654419
+HTTP 1 and 2; http://www.microsoft.com; 2.7143638134002686
+HTTP 1, 2, and 3; http://www.microsoft.com; 2.6926143169403076
+HTTP 1; http://www.discord.com; 1.702904462814331
+HTTP 1 and 3; http://www.discord.com; 1.5199193954467773
+HTTP 1 and 2; http://www.discord.com; 1.5204846858978271
+HTTP 1, 2, and 3; http://www.discord.com; 1.2451746463775635
+HTTP 1; http://www.weather.com; 1.6389837265014648
+HTTP 1 and 3; http://www.weather.com; 1.5411112308502197
+HTTP 1 and 2; http://www.weather.com; 1.2512590885162354
+HTTP 1, 2, and 3; http://www.weather.com; 1.3671083450317383
+HTTP 1; http://www.twitch.tv; 6.936339378356934
+HTTP 1 and 3; http://www.twitch.tv; 3.324958324432373
+HTTP 1 and 2; http://www.twitch.tv; 8.010799646377563
+HTTP 1, 2, and 3; http://www.twitch.tv; 7.990394353866577
+HTTP 1; http://www.zoom.us; 2.1890246868133545
+HTTP 1 and 3; http://www.zoom.us; 3.0637896060943604
+HTTP 1 and 2; http://www.zoom.us; 1.9843931198120117
+HTTP 1, 2, and 3; http://www.zoom.us; 2.1399829387664795
+HTTP 1; http://www.duckduckgo.com; 1.2864885330200195
+HTTP 1 and 3; http://www.duckduckgo.com; 1.182692527770996
+HTTP 1 and 2; http://www.duckduckgo.com; 1.1258642673492432
+HTTP 1, 2, and 3; http://www.duckduckgo.com; 1.40657639503479
+HTTP 1; http://www.quora.com; 1.2719051837921143
+HTTP 1 and 3; http://www.quora.com; 1.1805431842803955
+HTTP 1 and 2; http://www.quora.com; 0.9858283996582031
+HTTP 1, 2, and 3; http://www.quora.com; 1.0398192405700684
+HTTP 1; http://www.sharepoint.com; 3.8351500034332275
+HTTP 1 and 3; http://www.sharepoint.com; 4.581566572189331
+HTTP 1 and 2; http://www.sharepoint.com; 2.9351918697357178
+HTTP 1, 2, and 3; http://www.sharepoint.com; 2.9722208976745605
+HTTP 1; http://www.fandom.com; 1.5338373184204102
+HTTP 1 and 3; http://www.fandom.com; 1.8264241218566895
+HTTP 1 and 2; http://www.fandom.com; 2.4734785556793213
+HTTP 1, 2, and 3; http://www.fandom.com; 2.6817595958709717
+HTTP 1; http://www.cnn.com; 4.0534422397613525
+HTTP 1 and 3; http://www.cnn.com; 3.9334301948547363
+HTTP 1 and 2; http://www.cnn.com; 3.72383189201355
+HTTP 1, 2, and 3; http://www.cnn.com; 3.5479166507720947
+HTTP 1; http://www.foxnews.com; 3.7469654083251953
+HTTP 1 and 3; http://www.foxnews.com; 3.650531530380249
+HTTP 1 and 2; http://www.foxnews.com; 3.548370838165283
+HTTP 1, 2, and 3; http://www.foxnews.com; 6.851364374160767
+HTTP 1; http://www.nytimes.com; 3.890148878097534
+HTTP 1 and 3; http://www.nytimes.com; 3.913036823272705
+HTTP 1 and 2; http://www.nytimes.com; 3.5457170009613037
+HTTP 1, 2, and 3; http://www.nytimes.com; 3.49857497215271
+HTTP 1; http://www.ebay.com; 1.682485818862915
+HTTP 1 and 3; http://www.ebay.com; 1.6656172275543213
+HTTP 1 and 2; http://www.ebay.com; 1.4347326755523682
+HTTP 1, 2, and 3; http://www.ebay.com; 1.7142481803894043
+HTTP 1; http://www.imdb.com; 3.025942325592041
+HTTP 1 and 3; http://www.imdb.com; 2.7317826747894287
+HTTP 1 and 2; http://www.imdb.com; 3.1319313049316406
+HTTP 1, 2, and 3; http://www.imdb.com; 5.382059097290039
+HTTP 1; http://www.walmart.com; 3.7277166843414307
+HTTP 1 and 3; http://www.walmart.com; 1.9056382179260254
+HTTP 1 and 2; http://www.walmart.com; 2.8086960315704346
+HTTP 1, 2, and 3; http://www.walmart.com; 5.903993844985962
+HTTP 1; http://www.live.com; 2.0788495540618896
+HTTP 1 and 3; http://www.live.com; 2.0808024406433105
+HTTP 1 and 2; http://www.live.com; 2.5346720218658447
+HTTP 1, 2, and 3; http://www.live.com; 2.942293882369995
+HTTP 1; http://www.msn.com; 0.7822556495666504
+HTTP 1 and 3; http://www.msn.com; 0.9188439846038818
+HTTP 1 and 2; http://www.msn.com; 0.5390126705169678
+HTTP 1, 2, and 3; http://www.msn.com; 0.763728141784668
+HTTP 1; http://www.instructure.com; 1.278505563735962
+HTTP 1 and 3; http://www.instructure.com; 1.2530136108398438
+HTTP 1 and 2; http://www.instructure.com; 2.4027132987976074
+HTTP 1, 2, and 3; http://www.instructure.com; 1.0573656558990479
+HTTP 1; http://www.spotify.com; 2.7914228439331055
+HTTP 1 and 3; http://www.spotify.com; 3.18298602104187
+HTTP 1 and 2; http://www.spotify.com; 2.748635768890381
+HTTP 1, 2, and 3; http://www.spotify.com; 2.4921975135803223
+HTTP 1; http://www.usps.com; 2.775239944458008
+HTTP 1 and 3; http://www.usps.com; 2.6572327613830566
+HTTP 1 and 2; http://www.usps.com; 2.7824277877807617
+HTTP 1, 2, and 3; http://www.usps.com; 2.2979226112365723
+HTTP 1; http://www.accuweather.com; 1.9712624549865723
+HTTP 1 and 3; http://www.accuweather.com; 1.824239730834961
+HTTP 1 and 2; http://www.accuweather.com; 2.2243316173553467
+HTTP 1, 2, and 3; http://www.accuweather.com; 1.9378242492675781
+HTTP 1; http://www.bbc.com; 0.8738794326782227
+HTTP 1 and 3; http://www.bbc.com; 0.6622369289398193
+HTTP 1 and 2; http://www.bbc.com; 0.7891674041748047
+HTTP 1, 2, and 3; http://www.bbc.com; 1.076019525527954
+HTTP 1; http://www.indeed.com; 0.9845778942108154
+HTTP 1 and 3; http://www.indeed.com; 0.9208264350891113
+HTTP 1 and 2; http://www.indeed.com; 0.6930069923400879
+HTTP 1, 2, and 3; http://www.indeed.com; 0.625537633895874
+HTTP 1; http://www.ziprecruiter.com; 0.9611477851867676
+HTTP 1 and 3; http://www.ziprecruiter.com; 0.8743164539337158
+HTTP 1 and 2; http://www.ziprecruiter.com; 0.9587981700897217
+HTTP 1, 2, and 3; http://www.ziprecruiter.com; 0.5301096439361572
+HTTP 1; http://www.zillow.com; 2.9608263969421387
+HTTP 1 and 3; http://www.zillow.com; 0.7784786224365234
+HTTP 1 and 2; http://www.zillow.com; 0.7566099166870117
+HTTP 1, 2, and 3; http://www.zillow.com; 1.0268337726593018
+HTTP 1; http://www.paypal.com; 1.344360113143921
+HTTP 1 and 3; http://www.paypal.com; 1.9903881549835205
+HTTP 1 and 2; http://www.paypal.com; 1.9265902042388916
+HTTP 1, 2, and 3; http://www.paypal.com; 1.982701063156128
+HTTP 1; http://www.etsy.com; 2.9678266048431396
+HTTP 1 and 3; http://www.etsy.com; 2.738386631011963
+HTTP 1 and 2; http://www.etsy.com; 1.7413105964660645
+HTTP 1, 2, and 3; http://www.etsy.com; 2.3747470378875732
+HTTP 1; http://www.nypost.com; 4.3619585037231445
+HTTP 1 and 3; http://www.nypost.com; 4.139676332473755
+HTTP 1 and 2; http://www.nypost.com; 3.935903549194336
+HTTP 1, 2, and 3; http://www.nypost.com; 3.773118495941162
+HTTP 1; http://www.apple.com; 1.2569804191589355
+HTTP 1 and 3; http://www.apple.com; 1.1739518642425537
+HTTP 1 and 2; http://www.apple.com; 1.6351706981658936
+HTTP 1, 2, and 3; http://www.apple.com; 1.8748610019683838
+HTTP 1; http://www.ign.com; 1.5913903713226318
+HTTP 1 and 3; http://www.ign.com; 3.8266286849975586
+HTTP 1 and 2; http://www.ign.com; 1.4922513961791992
+HTTP 1, 2, and 3; http://www.ign.com; 3.7257752418518066
+HTTP 1; http://www.max.com; 1.541480541229248
+HTTP 1 and 3; http://www.max.com; 1.605506181716919
+HTTP 1 and 2; http://www.max.com; 1.4935214519500732
+HTTP 1, 2, and 3; http://www.max.com; 1.6119863986968994
+HTTP 1; http://www.usatoday.com; 4.279414653778076
+HTTP 1 and 3; http://www.usatoday.com; 2.7751543521881104
+HTTP 1 and 2; http://www.usatoday.com; 2.9703288078308105
+HTTP 1, 2, and 3; http://www.usatoday.com; 5.711158752441406
+protocol; url; rtt - Optimum Internet - Home Internet - Wifi - 2023-12-10 13:41:01.217684
+HTTP 1; http://www.google.com; 1.1627886295318604
+HTTP 1 and 3; http://www.google.com; 1.1359574794769287
+HTTP 1 and 2; http://www.google.com; 1.1038713455200195
+HTTP 1, 2, and 3; http://www.google.com; 1.0797231197357178
+HTTP 1; http://www.njit.edu; 2.984476089477539
+HTTP 1 and 3; http://www.njit.edu; 3.107774257659912
+HTTP 1 and 2; http://www.njit.edu; 2.6289849281311035
+HTTP 1, 2, and 3; http://www.njit.edu; 3.5409085750579834
+HTTP 1; http://www.facebook.com; 0.8560078144073486
+HTTP 1 and 3; http://www.facebook.com; 1.0126469135284424
+HTTP 1 and 2; http://www.facebook.com; 0.7437636852264404
+HTTP 1, 2, and 3; http://www.facebook.com; 0.7835235595703125
+HTTP 1; http://www.reddit.com; 2.4774396419525146
+HTTP 1 and 3; http://www.reddit.com; 3.254891872406006
+HTTP 1 and 2; http://www.reddit.com; 2.9488110542297363
+HTTP 1, 2, and 3; http://www.reddit.com; 2.0346384048461914
+HTTP 1; http://www.twitter.com; 1.7844014167785645
+HTTP 1 and 3; http://www.twitter.com; 2.6438965797424316
+HTTP 1 and 2; http://www.twitter.com; 1.1953125
+HTTP 1, 2, and 3; http://www.twitter.com; 1.898838758468628
+HTTP 1; http://www.youtube.com; 5.464474201202393
+HTTP 1 and 3; http://www.youtube.com; 4.222849369049072
+HTTP 1 and 2; http://www.youtube.com; 5.4573657512664795
+HTTP 1, 2, and 3; http://www.youtube.com; 4.528524398803711
+HTTP 1; http://www.amazon.com; 2.0949203968048096
+HTTP 1 and 3; http://www.amazon.com; 2.0973458290100098
+HTTP 1 and 2; http://www.amazon.com; 2.656956434249878
+HTTP 1, 2, and 3; http://www.amazon.com; 1.4525260925292969
+HTTP 1; http://www.wikipedia.org; 0.6580498218536377
+HTTP 1 and 3; http://www.wikipedia.org; 0.6474196910858154
+HTTP 1 and 2; http://www.wikipedia.org; 0.7894241809844971
+HTTP 1, 2, and 3; http://www.wikipedia.org; 0.6709797382354736
+HTTP 1; http://www.yahoo.com; 1.821047067642212
+HTTP 1 and 3; http://www.yahoo.com; 1.8618102073669434
+HTTP 1 and 2; http://www.yahoo.com; 1.95609450340271
+HTTP 1, 2, and 3; http://www.yahoo.com; 2.8187451362609863
+HTTP 1; http://www.instagram.com; 1.416635513305664
+HTTP 1 and 3; http://www.instagram.com; 1.1844727993011475
+HTTP 1 and 2; http://www.instagram.com; 1.1033427715301514
+HTTP 1, 2, and 3; http://www.instagram.com; 1.135061502456665
+HTTP 1; http://www.tiktok.com; 1.582648754119873
+HTTP 1 and 3; http://www.tiktok.com; 2.8253421783447266
+HTTP 1 and 2; http://www.tiktok.com; 1.863990068435669
+HTTP 1, 2, and 3; http://www.tiktok.com; 1.4676625728607178
+HTTP 1; http://www.linkedin.com; 1.405627727508545
+HTTP 1 and 3; http://www.linkedin.com; 1.407135248184204
+HTTP 1 and 2; http://www.linkedin.com; 1.3632898330688477
+HTTP 1, 2, and 3; http://www.linkedin.com; 1.5459496974945068
+HTTP 1; http://www.imgur.com; 3.6892240047454834
+HTTP 1 and 3; http://www.imgur.com; 4.113232851028442
+HTTP 1 and 2; http://www.imgur.com; 3.039079189300537
+HTTP 1, 2, and 3; http://www.imgur.com; 3.2019193172454834
+HTTP 1; http://www.office.com; 4.412626028060913
+HTTP 1 and 3; http://www.office.com; 2.6341521739959717
+HTTP 1 and 2; http://www.office.com; 3.313858985900879
+HTTP 1, 2, and 3; http://www.office.com; 3.8981099128723145
+HTTP 1; http://www.netflix.com; 1.6359119415283203
+HTTP 1 and 3; http://www.netflix.com; 2.444420337677002
+HTTP 1 and 2; http://www.netflix.com; 1.4448540210723877
+HTTP 1, 2, and 3; http://www.netflix.com; 1.4309768676757812
+HTTP 1; http://www.bing.com; 0.3837776184082031
+HTTP 1 and 3; http://www.bing.com; 0.535987377166748
+HTTP 1 and 2; http://www.bing.com; 0.3657717704772949
+HTTP 1, 2, and 3; http://www.bing.com; 0.3504323959350586
+HTTP 1; http://www.samsung.com; 3.063286542892456
+HTTP 1 and 3; http://www.samsung.com; 4.191809177398682
+HTTP 1 and 2; http://www.samsung.com; 2.067883253097534
+HTTP 1, 2, and 3; http://www.samsung.com; 3.1272366046905518
+HTTP 1; http://www.pinterest.com; 3.746975898742676
+HTTP 1 and 3; http://www.pinterest.com; 0.819953203201294
+HTTP 1 and 2; http://www.pinterest.com; 0.9349932670593262
+HTTP 1, 2, and 3; http://www.pinterest.com; 0.7783517837524414
+HTTP 1; http://www.microsoft.com; 3.0432000160217285
+HTTP 1 and 3; http://www.microsoft.com; 2.736954927444458
+HTTP 1 and 2; http://www.microsoft.com; 2.304395914077759
+HTTP 1, 2, and 3; http://www.microsoft.com; 1.6589198112487793
+HTTP 1; http://www.discord.com; 1.6360580921173096
+HTTP 1 and 3; http://www.discord.com; 1.351243019104004
+HTTP 1 and 2; http://www.discord.com; 1.4622023105621338
+HTTP 1, 2, and 3; http://www.discord.com; 1.0987894535064697
+HTTP 1; http://www.weather.com; 1.6804776191711426
+HTTP 1 and 3; http://www.weather.com; 1.671746015548706
+HTTP 1 and 2; http://www.weather.com; 1.1809666156768799
+HTTP 1, 2, and 3; http://www.weather.com; 1.3735904693603516
+HTTP 1; http://www.twitch.tv; 7.521856784820557
+HTTP 1 and 3; http://www.twitch.tv; 3.688992738723755
+HTTP 1 and 2; http://www.twitch.tv; 11.494449615478516
+HTTP 1, 2, and 3; http://www.twitch.tv; 3.2032980918884277
+HTTP 1; http://www.zoom.us; 2.8000423908233643
+HTTP 1 and 3; http://www.zoom.us; 2.439145565032959
+HTTP 1 and 2; http://www.zoom.us; 1.845757007598877
+HTTP 1, 2, and 3; http://www.zoom.us; 2.2872190475463867
+HTTP 1; http://www.duckduckgo.com; 1.2002856731414795
+HTTP 1 and 3; http://www.duckduckgo.com; 1.2512075901031494
+HTTP 1 and 2; http://www.duckduckgo.com; 1.537898302078247
+HTTP 1, 2, and 3; http://www.duckduckgo.com; 1.117368459701538
+HTTP 1; http://www.quora.com; 1.495572805404663
+HTTP 1 and 3; http://www.quora.com; 1.3128869533538818
+HTTP 1 and 2; http://www.quora.com; 1.006969690322876
+HTTP 1, 2, and 3; http://www.quora.com; 1.0421922206878662
+HTTP 1; http://www.sharepoint.com; 3.3999109268188477
+HTTP 1 and 3; http://www.sharepoint.com; 3.928234100341797
+HTTP 1 and 2; http://www.sharepoint.com; 3.4611666202545166
+HTTP 1, 2, and 3; http://www.sharepoint.com; 2.776520013809204
+HTTP 1; http://www.fandom.com; 1.562497854232788
+HTTP 1 and 3; http://www.fandom.com; 1.4630303382873535
+HTTP 1 and 2; http://www.fandom.com; 3.7346127033233643
+HTTP 1, 2, and 3; http://www.fandom.com; 2.8305487632751465
+HTTP 1; http://www.cnn.com; 4.289963722229004
+HTTP 1 and 3; http://www.cnn.com; 4.290039777755737
+HTTP 1 and 2; http://www.cnn.com; 4.159624099731445
+HTTP 1, 2, and 3; http://www.cnn.com; 5.309105396270752
+HTTP 1; http://www.foxnews.com; 5.101073741912842
+HTTP 1 and 3; http://www.foxnews.com; 3.9649627208709717
+HTTP 1 and 2; http://www.foxnews.com; 3.625295639038086
+HTTP 1, 2, and 3; http://www.foxnews.com; 4.165791988372803
+HTTP 1; http://www.nytimes.com; 3.953500986099243
+HTTP 1 and 3; http://www.nytimes.com; 4.0693840980529785
+HTTP 1 and 2; http://www.nytimes.com; 3.324885129928589
+HTTP 1, 2, and 3; http://www.nytimes.com; 3.3051207065582275
+HTTP 1; http://www.ebay.com; 1.4895849227905273
+HTTP 1 and 3; http://www.ebay.com; 2.311328172683716
+HTTP 1 and 2; http://www.ebay.com; 1.3608276844024658
+HTTP 1, 2, and 3; http://www.ebay.com; 1.6835191249847412
+HTTP 1; http://www.imdb.com; 2.7464523315429688
+HTTP 1 and 3; http://www.imdb.com; 2.7289044857025146
+HTTP 1 and 2; http://www.imdb.com; 3.117572546005249
+HTTP 1, 2, and 3; http://www.imdb.com; 3.537660837173462
+HTTP 1; http://www.walmart.com; 4.090759515762329
+HTTP 1 and 3; http://www.walmart.com; 2.4032320976257324
+HTTP 1 and 2; http://www.walmart.com; 1.801539659500122
+HTTP 1, 2, and 3; http://www.walmart.com; 1.8866381645202637
+HTTP 1; http://www.live.com; 2.9315073490142822
+HTTP 1 and 3; http://www.live.com; 2.9585039615631104
+HTTP 1 and 2; http://www.live.com; 2.4830996990203857
+HTTP 1, 2, and 3; http://www.live.com; 3.5567572116851807
+HTTP 1; http://www.msn.com; 0.8744573593139648
+HTTP 1 and 3; http://www.msn.com; 0.6160898208618164
+HTTP 1 and 2; http://www.msn.com; 0.5972354412078857
+HTTP 1, 2, and 3; http://www.msn.com; 0.7462136745452881
+HTTP 1; http://www.instructure.com; 1.16709303855896
+HTTP 1 and 3; http://www.instructure.com; 1.1870379447937012
+HTTP 1 and 2; http://www.instructure.com; 2.2095582485198975
+HTTP 1, 2, and 3; http://www.instructure.com; 0.9791312217712402
+HTTP 1; http://www.spotify.com; 2.8155739307403564
+HTTP 1 and 3; http://www.spotify.com; 2.423053503036499
+HTTP 1 and 2; http://www.spotify.com; 2.5941436290740967
+HTTP 1, 2, and 3; http://www.spotify.com; 2.9292526245117188
+HTTP 1; http://www.usps.com; 2.5944693088531494
+HTTP 1 and 3; http://www.usps.com; 2.7145135402679443
+HTTP 1 and 2; http://www.usps.com; 2.6159493923187256
+HTTP 1, 2, and 3; http://www.usps.com; 2.6117780208587646
+HTTP 1; http://www.accuweather.com; 2.172592878341675
+HTTP 1 and 3; http://www.accuweather.com; 1.8358469009399414
+HTTP 1 and 2; http://www.accuweather.com; 2.1146726608276367
+HTTP 1, 2, and 3; http://www.accuweather.com; 1.9733853340148926
+HTTP 1; http://www.bbc.com; 0.7775614261627197
+HTTP 1 and 3; http://www.bbc.com; 0.683983325958252
+HTTP 1 and 2; http://www.bbc.com; 0.8151693344116211
+HTTP 1, 2, and 3; http://www.bbc.com; 1.8145060539245605
+HTTP 1; http://www.indeed.com; 1.1082003116607666
+HTTP 1 and 3; http://www.indeed.com; 1.7171690464019775
+HTTP 1 and 2; http://www.indeed.com; 0.6496682167053223
+HTTP 1, 2, and 3; http://www.indeed.com; 0.7266316413879395
+HTTP 1; http://www.ziprecruiter.com; 1.0166406631469727
+HTTP 1 and 3; http://www.ziprecruiter.com; 0.9341485500335693
+HTTP 1 and 2; http://www.ziprecruiter.com; 0.8998866081237793
+HTTP 1, 2, and 3; http://www.ziprecruiter.com; 0.4296419620513916
+HTTP 1; http://www.zillow.com; 2.9593024253845215
+HTTP 1 and 3; http://www.zillow.com; 0.7409696578979492
+HTTP 1 and 2; http://www.zillow.com; 0.9632959365844727
+HTTP 1, 2, and 3; http://www.zillow.com; 0.9055807590484619
+HTTP 1; http://www.paypal.com; 1.5499663352966309
+HTTP 1 and 3; http://www.paypal.com; 1.4149158000946045
+HTTP 1 and 2; http://www.paypal.com; 2.0400819778442383
+HTTP 1, 2, and 3; http://www.paypal.com; 1.2953994274139404
+HTTP 1; http://www.etsy.com; 2.285402297973633
+HTTP 1 and 3; http://www.etsy.com; 2.094630241394043
+HTTP 1 and 2; http://www.etsy.com; 2.1545968055725098
+HTTP 1, 2, and 3; http://www.etsy.com; 2.4150404930114746
+HTTP 1; http://www.nypost.com; 4.17791748046875
+HTTP 1 and 3; http://www.nypost.com; 4.760228633880615
+HTTP 1 and 2; http://www.nypost.com; 4.9369847774505615
+HTTP 1, 2, and 3; http://www.nypost.com; 3.052824020385742
+HTTP 1; http://www.apple.com; 1.1935667991638184
+HTTP 1 and 3; http://www.apple.com; 1.493920087814331
+HTTP 1 and 2; http://www.apple.com; 1.6497533321380615
+HTTP 1, 2, and 3; http://www.apple.com; 1.9723951816558838
+HTTP 1; http://www.ign.com; 1.588888168334961
+HTTP 1 and 3; http://www.ign.com; 1.592878818511963
+HTTP 1 and 2; http://www.ign.com; 1.5654668807983398
+HTTP 1, 2, and 3; http://www.ign.com; 1.5643692016601562
+HTTP 1; http://www.max.com; 1.4647982120513916
+HTTP 1 and 3; http://www.max.com; 1.4356870651245117
+HTTP 1 and 2; http://www.max.com; 1.8007309436798096
+HTTP 1, 2, and 3; http://www.max.com; 1.621779441833496
+HTTP 1; http://www.usatoday.com; 3.3456265926361084
+HTTP 1 and 3; http://www.usatoday.com; 3.489356517791748
+HTTP 1 and 2; http://www.usatoday.com; 5.363910913467407
+HTTP 1, 2, and 3; http://www.usatoday.com; 3.0221705436706543
+protocol; url; rtt - Optimum Internet - Home Internet - Wifi - 2023-12-10 14:13:11.138404
+HTTP 1; http://www.google.com; 1.2585296630859375
+HTTP 1 and 3; http://www.google.com; 1.0927140712738037
+HTTP 1 and 2; http://www.google.com; 1.4820847511291504
+HTTP 1, 2, and 3; http://www.google.com; 4.676223278045654
+HTTP 1; http://www.njit.edu; 2.9447779655456543
+HTTP 1 and 3; http://www.njit.edu; 2.629016160964966
+HTTP 1 and 2; http://www.njit.edu; 2.3096439838409424
+HTTP 1, 2, and 3; http://www.njit.edu; 2.695929527282715
+HTTP 1; http://www.facebook.com; 0.8815546035766602
+HTTP 1 and 3; http://www.facebook.com; 0.8787155151367188
+HTTP 1 and 2; http://www.facebook.com; 1.0417487621307373
+HTTP 1, 2, and 3; http://www.facebook.com; 0.8948352336883545
+HTTP 1; http://www.reddit.com; 3.973426103591919
+HTTP 1 and 3; http://www.reddit.com; 1.983673095703125
+HTTP 1 and 2; http://www.reddit.com; 2.2533907890319824
+HTTP 1, 2, and 3; http://www.reddit.com; 3.355201244354248
+HTTP 1; http://www.twitter.com; 1.345125436782837
+HTTP 1 and 3; http://www.twitter.com; 1.7811081409454346
+HTTP 1 and 2; http://www.twitter.com; 1.1796596050262451
+HTTP 1, 2, and 3; http://www.twitter.com; 1.7686779499053955
+HTTP 1; http://www.youtube.com; 5.0638439655303955
+HTTP 1 and 3; http://www.youtube.com; 4.635982275009155
+HTTP 1 and 2; http://www.youtube.com; 4.839385747909546
+HTTP 1, 2, and 3; http://www.youtube.com; 4.4205567836761475
+HTTP 1; http://www.amazon.com; 2.024580717086792
+HTTP 1 and 3; http://www.amazon.com; 2.19093656539917
+HTTP 1 and 2; http://www.amazon.com; 0.5805201530456543
+HTTP 1, 2, and 3; http://www.amazon.com; 2.1905038356781006
+HTTP 1; http://www.wikipedia.org; 0.6691329479217529
+HTTP 1 and 3; http://www.wikipedia.org; 0.6662263870239258
+HTTP 1 and 2; http://www.wikipedia.org; 0.6681299209594727
+HTTP 1, 2, and 3; http://www.wikipedia.org; 0.7531859874725342
+HTTP 1; http://www.yahoo.com; 2.5326950550079346
+HTTP 1 and 3; http://www.yahoo.com; 3.3597042560577393
+HTTP 1 and 2; http://www.yahoo.com; 5.510115623474121
+HTTP 1, 2, and 3; http://www.yahoo.com; 2.009279251098633
+HTTP 1; http://www.instagram.com; 0.8625271320343018
+HTTP 1 and 3; http://www.instagram.com; 1.0967442989349365
+HTTP 1 and 2; http://www.instagram.com; 1.170846700668335
+HTTP 1, 2, and 3; http://www.instagram.com; 1.0833144187927246
+HTTP 1; http://www.tiktok.com; 1.2963941097259521
+HTTP 1 and 3; http://www.tiktok.com; 1.4129159450531006
+HTTP 1 and 2; http://www.tiktok.com; 1.4660851955413818
+HTTP 1, 2, and 3; http://www.tiktok.com; 1.6329131126403809
+HTTP 1; http://www.linkedin.com; 1.5646004676818848
+HTTP 1 and 3; http://www.linkedin.com; 1.3754265308380127
+HTTP 1 and 2; http://www.linkedin.com; 1.3331048488616943
+HTTP 1, 2, and 3; http://www.linkedin.com; 1.2950103282928467
+HTTP 1; http://www.imgur.com; 1.7306675910949707
+HTTP 1 and 3; http://www.imgur.com; 3.4149534702301025
+HTTP 1 and 2; http://www.imgur.com; 2.5410361289978027
+HTTP 1, 2, and 3; http://www.imgur.com; 2.824866533279419
+HTTP 1; http://www.office.com; 2.9136738777160645
+HTTP 1 and 3; http://www.office.com; 1.8190948963165283
+HTTP 1 and 2; http://www.office.com; 3.2366859912872314
+HTTP 1, 2, and 3; http://www.office.com; 3.382939577102661
+HTTP 1; http://www.netflix.com; 1.6685945987701416
+HTTP 1 and 3; http://www.netflix.com; 1.4719831943511963
+HTTP 1 and 2; http://www.netflix.com; 1.3530826568603516
+HTTP 1, 2, and 3; http://www.netflix.com; 1.337446928024292
+HTTP 1; http://www.bing.com; 0.5908191204071045
+HTTP 1 and 3; http://www.bing.com; 0.3542652130126953
+HTTP 1 and 2; http://www.bing.com; 0.4083876609802246
+HTTP 1, 2, and 3; http://www.bing.com; 0.32712721824645996
+HTTP 1; http://www.samsung.com; 1.9632091522216797
+HTTP 1 and 3; http://www.samsung.com; 2.3513481616973877
+HTTP 1 and 2; http://www.samsung.com; 1.4478116035461426
+HTTP 1, 2, and 3; http://www.samsung.com; 2.963808059692383
+HTTP 1; http://www.pinterest.com; 0.7600841522216797
+HTTP 1 and 3; http://www.pinterest.com; 0.9083187580108643
+HTTP 1 and 2; http://www.pinterest.com; 0.7197556495666504
+HTTP 1, 2, and 3; http://www.pinterest.com; 0.7097272872924805
+HTTP 1; http://www.microsoft.com; 2.4300596714019775
+HTTP 1 and 3; http://www.microsoft.com; 2.217897415161133
+HTTP 1 and 2; http://www.microsoft.com; 1.6949529647827148
+HTTP 1, 2, and 3; http://www.microsoft.com; 1.936798334121704
+HTTP 1; http://www.discord.com; 1.5606420040130615
+HTTP 1 and 3; http://www.discord.com; 1.3959507942199707
+HTTP 1 and 2; http://www.discord.com; 1.5233855247497559
+HTTP 1, 2, and 3; http://www.discord.com; 1.1827073097229004
+HTTP 1; http://www.weather.com; 1.4251179695129395
+HTTP 1 and 3; http://www.weather.com; 1.3734149932861328
+HTTP 1 and 2; http://www.weather.com; 1.3979136943817139
+HTTP 1, 2, and 3; http://www.weather.com; 1.3207123279571533
+HTTP 1; http://www.twitch.tv; 3.277473211288452
+HTTP 1 and 3; http://www.twitch.tv; 12.768343687057495
+HTTP 1 and 2; http://www.twitch.tv; 7.956711530685425
+HTTP 1, 2, and 3; http://www.twitch.tv; 6.249987363815308
+HTTP 1; http://www.zoom.us; 2.1416714191436768
+HTTP 1 and 3; http://www.zoom.us; 2.3214571475982666
+HTTP 1 and 2; http://www.zoom.us; 2.0594725608825684
+HTTP 1, 2, and 3; http://www.zoom.us; 1.7827670574188232
+HTTP 1; http://www.duckduckgo.com; 1.1824641227722168
+HTTP 1 and 3; http://www.duckduckgo.com; 1.191068410873413
+HTTP 1 and 2; http://www.duckduckgo.com; 1.1213936805725098
+HTTP 1, 2, and 3; http://www.duckduckgo.com; 2.067227363586426
+HTTP 1; http://www.quora.com; 1.1948089599609375
+HTTP 1 and 3; http://www.quora.com; 1.115694284439087
+HTTP 1 and 2; http://www.quora.com; 2.7211556434631348
+HTTP 1, 2, and 3; http://www.quora.com; 1.0003790855407715
+HTTP 1; http://www.sharepoint.com; 3.7773258686065674
+HTTP 1 and 3; http://www.sharepoint.com; 2.9897453784942627
+HTTP 1 and 2; http://www.sharepoint.com; 3.276815891265869
+HTTP 1, 2, and 3; http://www.sharepoint.com; 4.859834671020508
+HTTP 1; http://www.fandom.com; 2.433267116546631
+HTTP 1 and 3; http://www.fandom.com; 1.6699068546295166
+HTTP 1 and 2; http://www.fandom.com; 2.354877471923828
+HTTP 1, 2, and 3; http://www.fandom.com; 2.4829483032226562
+HTTP 1; http://www.cnn.com; 4.513231992721558
+HTTP 1 and 3; http://www.cnn.com; 4.254738092422485
+HTTP 1 and 2; http://www.cnn.com; 6.030424118041992
+HTTP 1, 2, and 3; http://www.cnn.com; 3.412696123123169
+HTTP 1; http://www.foxnews.com; 4.606666803359985
+HTTP 1 and 3; http://www.foxnews.com; 4.428460597991943
+HTTP 1 and 2; http://www.foxnews.com; 4.593533515930176
+HTTP 1, 2, and 3; http://www.foxnews.com; 4.273438215255737
+HTTP 1; http://www.nytimes.com; 3.904853582382202
+HTTP 1 and 3; http://www.nytimes.com; 3.9735376834869385
+HTTP 1 and 2; http://www.nytimes.com; 3.389474630355835
+HTTP 1, 2, and 3; http://www.nytimes.com; 3.3978352546691895
+HTTP 1; http://www.ebay.com; 1.6272547245025635
+HTTP 1 and 3; http://www.ebay.com; 1.9814109802246094
+HTTP 1 and 2; http://www.ebay.com; 1.7006824016571045
+HTTP 1, 2, and 3; http://www.ebay.com; 1.4692256450653076
+HTTP 1; http://www.imdb.com; 2.897753953933716
+HTTP 1 and 3; http://www.imdb.com; 2.5959112644195557
+HTTP 1 and 2; http://www.imdb.com; 2.9020235538482666
+HTTP 1, 2, and 3; http://www.imdb.com; 3.7427139282226562
+HTTP 1; http://www.walmart.com; 3.492683172225952
+HTTP 1 and 3; http://www.walmart.com; 2.741664409637451
+HTTP 1 and 2; http://www.walmart.com; 2.2573211193084717
+HTTP 1, 2, and 3; http://www.walmart.com; 2.6373918056488037
+HTTP 1; http://www.live.com; 2.1249866485595703
+HTTP 1 and 3; http://www.live.com; 3.372915506362915
+HTTP 1 and 2; http://www.live.com; 2.9039723873138428
+HTTP 1, 2, and 3; http://www.live.com; 2.8005430698394775
+HTTP 1; http://www.msn.com; 0.7942440509796143
+HTTP 1 and 3; http://www.msn.com; 0.5790860652923584
+HTTP 1 and 2; http://www.msn.com; 0.7551922798156738
+HTTP 1, 2, and 3; http://www.msn.com; 0.7617931365966797
+HTTP 1; http://www.instructure.com; 1.3457887172698975
+HTTP 1 and 3; http://www.instructure.com; 1.246058702468872
+HTTP 1 and 2; http://www.instructure.com; 1.0707056522369385
+HTTP 1, 2, and 3; http://www.instructure.com; 2.2950284481048584
+HTTP 1; http://www.spotify.com; 2.8171308040618896
+HTTP 1 and 3; http://www.spotify.com; 2.8052127361297607
+HTTP 1 and 2; http://www.spotify.com; 2.311067819595337
+HTTP 1, 2, and 3; http://www.spotify.com; 2.7519266605377197
+HTTP 1; http://www.usps.com; 2.553213596343994
+HTTP 1 and 3; http://www.usps.com; 3.0524604320526123
+HTTP 1 and 2; http://www.usps.com; 2.4075822830200195
+HTTP 1, 2, and 3; http://www.usps.com; 2.2274439334869385
+HTTP 1; http://www.accuweather.com; 2.004133701324463
+HTTP 1 and 3; http://www.accuweather.com; 1.911966323852539
+HTTP 1 and 2; http://www.accuweather.com; 1.9660975933074951
+HTTP 1, 2, and 3; http://www.accuweather.com; 3.8641998767852783
+HTTP 1; http://www.bbc.com; 0.7631633281707764
+HTTP 1 and 3; http://www.bbc.com; 0.6385157108306885
+HTTP 1 and 2; http://www.bbc.com; 0.7854387760162354
+HTTP 1, 2, and 3; http://www.bbc.com; 1.1569645404815674
+HTTP 1; http://www.indeed.com; 0.7234652042388916
+HTTP 1 and 3; http://www.indeed.com; 0.941364049911499
+HTTP 1 and 2; http://www.indeed.com; 0.867872953414917
+HTTP 1, 2, and 3; http://www.indeed.com; 0.6886115074157715
+HTTP 1; http://www.ziprecruiter.com; 0.9880506992340088
+HTTP 1 and 3; http://www.ziprecruiter.com; 0.9717764854431152
+HTTP 1 and 2; http://www.ziprecruiter.com; 1.0689311027526855
+HTTP 1, 2, and 3; http://www.ziprecruiter.com; 0.8270714282989502
+HTTP 1; http://www.zillow.com; 2.800135374069214
+HTTP 1 and 3; http://www.zillow.com; 0.7488734722137451
+HTTP 1 and 2; http://www.zillow.com; 0.7739124298095703
+HTTP 1, 2, and 3; http://www.zillow.com; 0.8384265899658203
+HTTP 1; http://www.paypal.com; 1.2710857391357422
+HTTP 1 and 3; http://www.paypal.com; 2.1728062629699707
+HTTP 1 and 2; http://www.paypal.com; 2.007390022277832
+HTTP 1, 2, and 3; http://www.paypal.com; 1.6499907970428467
+HTTP 1; http://www.etsy.com; 2.224984645843506
+HTTP 1 and 3; http://www.etsy.com; 2.4116902351379395
+HTTP 1 and 2; http://www.etsy.com; 2.2758851051330566
+HTTP 1, 2, and 3; http://www.etsy.com; 2.1567678451538086
+HTTP 1; http://www.nypost.com; 3.9983937740325928
+HTTP 1 and 3; http://www.nypost.com; 3.8877367973327637
+HTTP 1 and 2; http://www.nypost.com; 11.469624519348145
+HTTP 1, 2, and 3; http://www.nypost.com; 3.625908851623535
+HTTP 1; http://www.apple.com; 1.4149024486541748
+HTTP 1 and 3; http://www.apple.com; 1.2183856964111328
+HTTP 1 and 2; http://www.apple.com; 2.0255119800567627
+HTTP 1, 2, and 3; http://www.apple.com; 1.5587055683135986
+HTTP 1; http://www.ign.com; 1.5805282592773438
+HTTP 1 and 3; http://www.ign.com; 1.567634105682373
+HTTP 1 and 2; http://www.ign.com; 1.4030728340148926
+HTTP 1, 2, and 3; http://www.ign.com; 1.442427635192871
+HTTP 1; http://www.max.com; 1.4673914909362793
+HTTP 1 and 3; http://www.max.com; 1.5523419380187988
+HTTP 1 and 2; http://www.max.com; 1.4418368339538574
+HTTP 1, 2, and 3; http://www.max.com; 1.5660319328308105
+HTTP 1; http://www.usatoday.com; 5.947921514511108
+HTTP 1 and 3; http://www.usatoday.com; 3.46195387840271
+HTTP 1 and 2; http://www.usatoday.com; 5.680209636688232
+HTTP 1, 2, and 3; http://www.usatoday.com; 3.0735878944396973
+protocol; url; rtt - Optimum Internet - Home Internet - Wifi - 2023-12-10 14:45:21.257482
+HTTP 1; http://www.google.com; 1.015714168548584
+HTTP 1 and 3; http://www.google.com; 1.2323246002197266
+HTTP 1 and 2; http://www.google.com; 1.0157175064086914
+HTTP 1, 2, and 3; http://www.google.com; 1.0306260585784912
+HTTP 1; http://www.njit.edu; 2.787897825241089
+HTTP 1 and 3; http://www.njit.edu; 3.1468918323516846
+HTTP 1 and 2; http://www.njit.edu; 2.753183603286743
+HTTP 1, 2, and 3; http://www.njit.edu; 2.583305597305298
+HTTP 1; http://www.facebook.com; 0.8460080623626709
+HTTP 1 and 3; http://www.facebook.com; 0.8621230125427246
+HTTP 1 and 2; http://www.facebook.com; 0.6647939682006836
+HTTP 1, 2, and 3; http://www.facebook.com; 0.8178756237030029
+HTTP 1; http://www.reddit.com; 2.191058874130249
+HTTP 1 and 3; http://www.reddit.com; 1.8087835311889648
+HTTP 1 and 2; http://www.reddit.com; 2.4704549312591553
+HTTP 1, 2, and 3; http://www.reddit.com; 3.0949389934539795
+HTTP 1; http://www.twitter.com; 1.273021936416626
+HTTP 1 and 3; http://www.twitter.com; 1.2426302433013916
+HTTP 1 and 2; http://www.twitter.com; 1.6652562618255615
+HTTP 1, 2, and 3; http://www.twitter.com; 1.1870572566986084
+HTTP 1; http://www.youtube.com; 5.068289756774902
+HTTP 1 and 3; http://www.youtube.com; 4.701555967330933
+HTTP 1 and 2; http://www.youtube.com; 4.362579822540283
+HTTP 1, 2, and 3; http://www.youtube.com; 4.384116172790527
+HTTP 1; http://www.amazon.com; 2.9695987701416016
+HTTP 1 and 3; http://www.amazon.com; 0.5757107734680176
+HTTP 1 and 2; http://www.amazon.com; 2.2437825202941895
+HTTP 1, 2, and 3; http://www.amazon.com; 2.31955623626709
+HTTP 1; http://www.wikipedia.org; 0.6481165885925293
+HTTP 1 and 3; http://www.wikipedia.org; 0.6433494091033936
+HTTP 1 and 2; http://www.wikipedia.org; 0.624525785446167
+HTTP 1, 2, and 3; http://www.wikipedia.org; 0.63948655128479
+HTTP 1; http://www.yahoo.com; 1.890970230102539
+HTTP 1 and 3; http://www.yahoo.com; 3.1054155826568604
+HTTP 1 and 2; http://www.yahoo.com; 1.778407096862793
+HTTP 1, 2, and 3; http://www.yahoo.com; 4.042437314987183
+HTTP 1; http://www.instagram.com; 0.7824978828430176
+HTTP 1 and 3; http://www.instagram.com; 1.120649814605713
+HTTP 1 and 2; http://www.instagram.com; 1.1018121242523193
+HTTP 1, 2, and 3; http://www.instagram.com; 1.1091694831848145
+HTTP 1; http://www.tiktok.com; 1.3928720951080322
+HTTP 1 and 3; http://www.tiktok.com; 1.3559861183166504
+HTTP 1 and 2; http://www.tiktok.com; 1.426065444946289
+HTTP 1, 2, and 3; http://www.tiktok.com; 1.4774210453033447
+HTTP 1; http://www.linkedin.com; 1.522947072982788
+HTTP 1 and 3; http://www.linkedin.com; 1.3818066120147705
+HTTP 1 and 2; http://www.linkedin.com; 1.2770631313323975
+HTTP 1, 2, and 3; http://www.linkedin.com; 1.3963496685028076
+HTTP 1; http://www.imgur.com; 3.4914634227752686
+HTTP 1 and 3; http://www.imgur.com; 3.4807653427124023
+HTTP 1 and 2; http://www.imgur.com; 2.9398677349090576
+HTTP 1, 2, and 3; http://www.imgur.com; 3.2509548664093018
+HTTP 1; http://www.office.com; 3.2381532192230225
+HTTP 1 and 3; http://www.office.com; 1.6955957412719727
+HTTP 1 and 2; http://www.office.com; 3.5129010677337646
+HTTP 1, 2, and 3; http://www.office.com; 3.6862943172454834
+HTTP 1; http://www.netflix.com; 1.433537483215332
+HTTP 1 and 3; http://www.netflix.com; 1.3583788871765137
+HTTP 1 and 2; http://www.netflix.com; 1.420078992843628
+HTTP 1, 2, and 3; http://www.netflix.com; 1.3353095054626465
+HTTP 1; http://www.bing.com; 0.4657783508300781
+HTTP 1 and 3; http://www.bing.com; 0.4409620761871338
+HTTP 1 and 2; http://www.bing.com; 0.35709190368652344
+HTTP 1, 2, and 3; http://www.bing.com; 0.3618199825286865
+HTTP 1; http://www.samsung.com; 2.8955745697021484
+HTTP 1 and 3; http://www.samsung.com; 2.2638204097747803
+HTTP 1 and 2; http://www.samsung.com; 2.799302816390991
+HTTP 1, 2, and 3; http://www.samsung.com; 2.6766886711120605
+HTTP 1; http://www.pinterest.com; 0.8788282871246338
+HTTP 1 and 3; http://www.pinterest.com; 0.8172588348388672
+HTTP 1 and 2; http://www.pinterest.com; 0.7989468574523926
+HTTP 1, 2, and 3; http://www.pinterest.com; 0.7262670993804932
+HTTP 1; http://www.microsoft.com; 3.0276596546173096
+HTTP 1 and 3; http://www.microsoft.com; 2.316605806350708
+HTTP 1 and 2; http://www.microsoft.com; 2.3706727027893066
+HTTP 1, 2, and 3; http://www.microsoft.com; 2.641299247741699
+HTTP 1; http://www.discord.com; 1.5303113460540771
+HTTP 1 and 3; http://www.discord.com; 1.1559619903564453
+HTTP 1 and 2; http://www.discord.com; 1.4710838794708252
+HTTP 1, 2, and 3; http://www.discord.com; 0.969428539276123
+HTTP 1; http://www.weather.com; 1.3757140636444092
+HTTP 1 and 3; http://www.weather.com; 1.3882856369018555
+HTTP 1 and 2; http://www.weather.com; 1.2399613857269287
+HTTP 1, 2, and 3; http://www.weather.com; 1.3221204280853271
+HTTP 1; http://www.twitch.tv; 7.906968116760254
+HTTP 1 and 3; http://www.twitch.tv; 3.1266250610351562
+HTTP 1 and 2; http://www.twitch.tv; 4.257042646408081
+HTTP 1, 2, and 3; http://www.twitch.tv; 2.9569180011749268
+HTTP 1; http://www.zoom.us; 2.4019222259521484
+HTTP 1 and 3; http://www.zoom.us; 2.681365728378296
+HTTP 1 and 2; http://www.zoom.us; 1.851619005203247
+HTTP 1, 2, and 3; http://www.zoom.us; 1.842930555343628
+HTTP 1; http://www.duckduckgo.com; 1.2045855522155762
+HTTP 1 and 3; http://www.duckduckgo.com; 1.118833303451538
+HTTP 1 and 2; http://www.duckduckgo.com; 1.4203777313232422
+HTTP 1, 2, and 3; http://www.duckduckgo.com; 1.4105489253997803
+HTTP 1; http://www.quora.com; 1.1898221969604492
+HTTP 1 and 3; http://www.quora.com; 1.1005806922912598
+HTTP 1 and 2; http://www.quora.com; 1.0569376945495605
+HTTP 1, 2, and 3; http://www.quora.com; 0.980107307434082
+HTTP 1; http://www.sharepoint.com; 4.55399751663208
+HTTP 1 and 3; http://www.sharepoint.com; 3.6240932941436768
+HTTP 1 and 2; http://www.sharepoint.com; 2.680666923522949
+HTTP 1, 2, and 3; http://www.sharepoint.com; 3.5736708641052246
+HTTP 1; http://www.fandom.com; 1.7701926231384277
+HTTP 1 and 3; http://www.fandom.com; 1.4453248977661133
+HTTP 1 and 2; http://www.fandom.com; 1.9696221351623535
+HTTP 1, 2, and 3; http://www.fandom.com; 2.705249071121216
+HTTP 1; http://www.cnn.com; 4.343989133834839
+HTTP 1 and 3; http://www.cnn.com; 3.976198434829712
+HTTP 1 and 2; http://www.cnn.com; 29.694183111190796
+HTTP 1, 2, and 3; http://www.cnn.com; 60.84605097770691
+HTTP 1; http://www.foxnews.com; 3.7486603260040283
+HTTP 1 and 3; http://www.foxnews.com; 3.7849435806274414
+HTTP 1 and 2; http://www.foxnews.com; 3.863845109939575
+HTTP 1, 2, and 3; http://www.foxnews.com; 3.973950147628784
+HTTP 1; http://www.nytimes.com; 4.290981769561768
+HTTP 1 and 3; http://www.nytimes.com; 4.085717439651489
+HTTP 1 and 2; http://www.nytimes.com; 3.6439735889434814
+HTTP 1, 2, and 3; http://www.nytimes.com; 3.5409631729125977
+HTTP 1; http://www.ebay.com; 1.546295166015625
+HTTP 1 and 3; http://www.ebay.com; 1.754209280014038
+HTTP 1 and 2; http://www.ebay.com; 1.456089735031128
+HTTP 1, 2, and 3; http://www.ebay.com; 1.306023120880127
+HTTP 1; http://www.imdb.com; 3.0006680488586426
+HTTP 1 and 3; http://www.imdb.com; 3.086146354675293
+HTTP 1 and 2; http://www.imdb.com; 3.1837680339813232
+HTTP 1, 2, and 3; http://www.imdb.com; 3.0771188735961914
+HTTP 1; http://www.walmart.com; 3.7298498153686523
+HTTP 1 and 3; http://www.walmart.com; 1.8175973892211914
+HTTP 1 and 2; http://www.walmart.com; 2.0325934886932373
+HTTP 1, 2, and 3; http://www.walmart.com; 2.774587869644165
+HTTP 1; http://www.live.com; 2.3434462547302246
+HTTP 1 and 3; http://www.live.com; 2.1057333946228027
+HTTP 1 and 2; http://www.live.com; 1.9995241165161133
+HTTP 1, 2, and 3; http://www.live.com; 2.6909258365631104
+HTTP 1; http://www.msn.com; 0.5995955467224121
+HTTP 1 and 3; http://www.msn.com; 0.5967955589294434
+HTTP 1 and 2; http://www.msn.com; 0.9003145694732666
+HTTP 1, 2, and 3; http://www.msn.com; 0.5616943836212158
+HTTP 1; http://www.instructure.com; 2.4295339584350586
+HTTP 1 and 3; http://www.instructure.com; 1.063392162322998
+HTTP 1 and 2; http://www.instructure.com; 1.0976524353027344
+HTTP 1, 2, and 3; http://www.instructure.com; 2.6276330947875977
+HTTP 1; http://www.spotify.com; 2.948625326156616
+HTTP 1 and 3; http://www.spotify.com; 2.2864630222320557
+HTTP 1 and 2; http://www.spotify.com; 3.0029969215393066
+HTTP 1, 2, and 3; http://www.spotify.com; 2.8066494464874268
+HTTP 1; http://www.usps.com; 2.6875970363616943
+HTTP 1 and 3; http://www.usps.com; 2.5631580352783203
+HTTP 1 and 2; http://www.usps.com; 2.2929060459136963
+HTTP 1, 2, and 3; http://www.usps.com; 2.2982089519500732
+HTTP 1; http://www.accuweather.com; 1.9888219833374023
+HTTP 1 and 3; http://www.accuweather.com; 1.901336908340454
+HTTP 1 and 2; http://www.accuweather.com; 1.9833178520202637
+HTTP 1, 2, and 3; http://www.accuweather.com; 2.164881944656372
+HTTP 1; http://www.bbc.com; 0.7648770809173584
+HTTP 1 and 3; http://www.bbc.com; 0.6598355770111084
+HTTP 1 and 2; http://www.bbc.com; 1.1745789051055908
+HTTP 1, 2, and 3; http://www.bbc.com; 1.0432493686676025
+HTTP 1; http://www.indeed.com; 0.969860315322876
+HTTP 1 and 3; http://www.indeed.com; 0.9229097366333008
+HTTP 1 and 2; http://www.indeed.com; 0.6316509246826172
+HTTP 1, 2, and 3; http://www.indeed.com; 0.7184426784515381
+HTTP 1; http://www.ziprecruiter.com; 1.0042672157287598
+HTTP 1 and 3; http://www.ziprecruiter.com; 0.9712777137756348
+HTTP 1 and 2; http://www.ziprecruiter.com; 1.0422313213348389
+HTTP 1, 2, and 3; http://www.ziprecruiter.com; 0.4382600784301758
+HTTP 1; http://www.zillow.com; 3.062530279159546
+HTTP 1 and 3; http://www.zillow.com; 0.776787519454956
+HTTP 1 and 2; http://www.zillow.com; 0.8609931468963623
+HTTP 1, 2, and 3; http://www.zillow.com; 0.8258755207061768
+HTTP 1; http://www.paypal.com; 1.8702161312103271
+HTTP 1 and 3; http://www.paypal.com; 2.082882881164551
+HTTP 1 and 2; http://www.paypal.com; 2.077815294265747
+HTTP 1, 2, and 3; http://www.paypal.com; 1.9365499019622803
+HTTP 1; http://www.etsy.com; 1.88509202003479
+HTTP 1 and 3; http://www.etsy.com; 1.9885153770446777
+HTTP 1 and 2; http://www.etsy.com; 2.5179224014282227
+HTTP 1, 2, and 3; http://www.etsy.com; 3.9643969535827637
+HTTP 1; http://www.nypost.com; 5.185252666473389
+HTTP 1 and 3; http://www.nypost.com; 3.944709539413452
+HTTP 1 and 2; http://www.nypost.com; 3.833552598953247
+HTTP 1, 2, and 3; http://www.nypost.com; 3.8121590614318848
+HTTP 1; http://www.apple.com; 1.1430964469909668
+HTTP 1 and 3; http://www.apple.com; 1.1307809352874756
+HTTP 1 and 2; http://www.apple.com; 1.4991331100463867
+HTTP 1, 2, and 3; http://www.apple.com; 2.248103141784668
+HTTP 1; http://www.ign.com; 1.6813175678253174
+HTTP 1 and 3; http://www.ign.com; 1.4778051376342773
+HTTP 1 and 2; http://www.ign.com; 1.3978643417358398
+HTTP 1, 2, and 3; http://www.ign.com; 1.5309720039367676
+HTTP 1; http://www.max.com; 1.3671684265136719
+HTTP 1 and 3; http://www.max.com; 1.5907456874847412
+HTTP 1 and 2; http://www.max.com; 1.5162267684936523
+HTTP 1, 2, and 3; http://www.max.com; 1.6048364639282227
+HTTP 1; http://www.usatoday.com; 3.6958136558532715
+HTTP 1 and 3; http://www.usatoday.com; 2.9576241970062256
+HTTP 1 and 2; http://www.usatoday.com; 3.6518216133117676
+HTTP 1, 2, and 3; http://www.usatoday.com; 4.17812967300415
+protocol; url; rtt - Optimum Internet - Home Internet - Wifi - 2023-12-10 15:18:21.505872
+HTTP 1; http://www.google.com; 1.254155158996582
+HTTP 1 and 3; http://www.google.com; 1.105496883392334
+HTTP 1 and 2; http://www.google.com; 0.9791367053985596
+HTTP 1, 2, and 3; http://www.google.com; 1.8622305393218994
+HTTP 1; http://www.njit.edu; 2.955518960952759
+HTTP 1 and 3; http://www.njit.edu; 104.84485483169556
+HTTP 1 and 2; http://www.njit.edu; 2.7285890579223633
+HTTP 1, 2, and 3; http://www.njit.edu; 2.8306150436401367
+HTTP 1; http://www.facebook.com; 0.8747127056121826
+HTTP 1 and 3; http://www.facebook.com; 0.8048360347747803
+HTTP 1 and 2; http://www.facebook.com; 0.7188835144042969
+HTTP 1, 2, and 3; http://www.facebook.com; 0.7531843185424805
+HTTP 1; http://www.reddit.com; 3.7450461387634277
+HTTP 1 and 3; http://www.reddit.com; 3.6066415309906006
+HTTP 1 and 2; http://www.reddit.com; 3.001286745071411
+HTTP 1, 2, and 3; http://www.reddit.com; 1.8624744415283203
+HTTP 1; http://www.twitter.com; 1.840388536453247
+HTTP 1 and 3; http://www.twitter.com; 1.2848660945892334
+HTTP 1 and 2; http://www.twitter.com; 1.9270257949829102
+HTTP 1, 2, and 3; http://www.twitter.com; 1.2103703022003174
+HTTP 1; http://www.youtube.com; 5.2769036293029785
+HTTP 1 and 3; http://www.youtube.com; 4.7196197509765625
+HTTP 1 and 2; http://www.youtube.com; 4.281564712524414
+HTTP 1, 2, and 3; http://www.youtube.com; 4.52895712852478
+HTTP 1; http://www.amazon.com; 1.9560496807098389
+HTTP 1 and 3; http://www.amazon.com; 2.5640275478363037
+HTTP 1 and 2; http://www.amazon.com; 1.883202314376831
+HTTP 1, 2, and 3; http://www.amazon.com; 1.7238261699676514
+HTTP 1; http://www.wikipedia.org; 0.5684835910797119
+HTTP 1 and 3; http://www.wikipedia.org; 0.6404430866241455
+HTTP 1 and 2; http://www.wikipedia.org; 0.6211981773376465
+HTTP 1, 2, and 3; http://www.wikipedia.org; 0.7095162868499756
+HTTP 1; http://www.yahoo.com; 3.0388216972351074
+HTTP 1 and 3; http://www.yahoo.com; 3.1182899475097656
+HTTP 1 and 2; http://www.yahoo.com; 1.7664225101470947
+HTTP 1, 2, and 3; http://www.yahoo.com; 2.919177293777466
+HTTP 1; http://www.instagram.com; 1.1783473491668701
+HTTP 1 and 3; http://www.instagram.com; 0.983036994934082
+HTTP 1 and 2; http://www.instagram.com; 1.1331210136413574
+HTTP 1, 2, and 3; http://www.instagram.com; 2.6042392253875732
+HTTP 1; http://www.tiktok.com; 2.414652109146118
+HTTP 1 and 3; http://www.tiktok.com; 1.3424746990203857
+HTTP 1 and 2; http://www.tiktok.com; 1.4881608486175537
+HTTP 1, 2, and 3; http://www.tiktok.com; 1.490912675857544
+HTTP 1; http://www.linkedin.com; 1.4148080348968506
+HTTP 1 and 3; http://www.linkedin.com; 1.2811033725738525
+HTTP 1 and 2; http://www.linkedin.com; 1.526268720626831
+HTTP 1, 2, and 3; http://www.linkedin.com; 1.5298340320587158
+HTTP 1; http://www.imgur.com; 2.8287572860717773
+HTTP 1 and 3; http://www.imgur.com; 3.5642590522766113
+HTTP 1 and 2; http://www.imgur.com; 2.865638256072998
+HTTP 1, 2, and 3; http://www.imgur.com; 4.125231504440308
+HTTP 1; http://www.office.com; 2.8866384029388428
+HTTP 1 and 3; http://www.office.com; 1.6631495952606201
+HTTP 1 and 2; http://www.office.com; 3.311192035675049
+HTTP 1, 2, and 3; http://www.office.com; 1.7482104301452637
+HTTP 1; http://www.netflix.com; 1.4087536334991455
+HTTP 1 and 3; http://www.netflix.com; 1.3638896942138672
+HTTP 1 and 2; http://www.netflix.com; 1.5716841220855713
+HTTP 1, 2, and 3; http://www.netflix.com; 1.3453288078308105
+HTTP 1; http://www.bing.com; 0.4508655071258545
+HTTP 1 and 3; http://www.bing.com; 0.48944783210754395
+HTTP 1 and 2; http://www.bing.com; 0.4626317024230957
+HTTP 1, 2, and 3; http://www.bing.com; 0.3256819248199463
+HTTP 1; http://www.samsung.com; 2.658519744873047
+HTTP 1 and 3; http://www.samsung.com; 2.851166248321533
+HTTP 1 and 2; http://www.samsung.com; 2.519995927810669
+HTTP 1, 2, and 3; http://www.samsung.com; 2.460047483444214
+HTTP 1; http://www.pinterest.com; 0.8538463115692139
+HTTP 1 and 3; http://www.pinterest.com; 0.86324143409729
+HTTP 1 and 2; http://www.pinterest.com; 0.7929930686950684
+HTTP 1, 2, and 3; http://www.pinterest.com; 0.75484299659729
+HTTP 1; http://www.microsoft.com; 3.479069232940674
+HTTP 1 and 3; http://www.microsoft.com; 2.972841262817383
+HTTP 1 and 2; http://www.microsoft.com; 3.898836374282837
+HTTP 1, 2, and 3; http://www.microsoft.com; 3.155027389526367
+HTTP 1; http://www.discord.com; 1.5316259860992432
+HTTP 1 and 3; http://www.discord.com; 1.1839308738708496
+HTTP 1 and 2; http://www.discord.com; 1.3364977836608887
+HTTP 1, 2, and 3; http://www.discord.com; 1.1944191455841064
+HTTP 1; http://www.weather.com; 1.3045907020568848
+HTTP 1 and 3; http://www.weather.com; 1.3714449405670166
+HTTP 1 and 2; http://www.weather.com; 1.183192253112793
+HTTP 1, 2, and 3; http://www.weather.com; 1.2534101009368896
+HTTP 1; http://www.twitch.tv; 3.5308949947357178
+HTTP 1 and 3; http://www.twitch.tv; 11.090923547744751
+HTTP 1 and 2; http://www.twitch.tv; 3.109691619873047
+HTTP 1, 2, and 3; http://www.twitch.tv; 3.244187593460083
+HTTP 1; http://www.zoom.us; 2.9491593837738037
+HTTP 1 and 3; http://www.zoom.us; 2.721330165863037
+HTTP 1 and 2; http://www.zoom.us; 1.876457929611206
+HTTP 1, 2, and 3; http://www.zoom.us; 1.7211337089538574
+HTTP 1; http://www.duckduckgo.com; 1.3088667392730713
+HTTP 1 and 3; http://www.duckduckgo.com; 1.207575798034668
+HTTP 1 and 2; http://www.duckduckgo.com; 1.467094898223877
+HTTP 1, 2, and 3; http://www.duckduckgo.com; 1.412931203842163
+HTTP 1; http://www.quora.com; 1.1657888889312744
+HTTP 1 and 3; http://www.quora.com; 1.0605790615081787
+HTTP 1 and 2; http://www.quora.com; 0.9573073387145996
+HTTP 1, 2, and 3; http://www.quora.com; 0.9618356227874756
+HTTP 1; http://www.sharepoint.com; 3.3700077533721924
+HTTP 1 and 3; http://www.sharepoint.com; 6.859094142913818
+HTTP 1 and 2; http://www.sharepoint.com; 3.0941500663757324
+HTTP 1, 2, and 3; http://www.sharepoint.com; 2.6863553524017334
+HTTP 1; http://www.fandom.com; 1.8820552825927734
+HTTP 1 and 3; http://www.fandom.com; 1.9326887130737305
+HTTP 1 and 2; http://www.fandom.com; 2.617314338684082
+HTTP 1, 2, and 3; http://www.fandom.com; 1.7912514209747314
+HTTP 1; http://www.cnn.com; 4.318432569503784
+HTTP 1 and 3; http://www.cnn.com; 3.7298011779785156
+HTTP 1 and 2; http://www.cnn.com; 4.200080633163452
+HTTP 1, 2, and 3; http://www.cnn.com; 3.3603355884552
+HTTP 1; http://www.foxnews.com; 3.7377190589904785
+HTTP 1 and 3; http://www.foxnews.com; 4.350137948989868
+HTTP 1 and 2; http://www.foxnews.com; 3.7494630813598633
+HTTP 1, 2, and 3; http://www.foxnews.com; 4.023237943649292
+HTTP 1; http://www.nytimes.com; 3.958893060684204
+HTTP 1 and 3; http://www.nytimes.com; 4.279963493347168
+HTTP 1 and 2; http://www.nytimes.com; 3.6908931732177734
+HTTP 1, 2, and 3; http://www.nytimes.com; 3.8663954734802246
+HTTP 1; http://www.ebay.com; 1.6754679679870605
+HTTP 1 and 3; http://www.ebay.com; 1.4565017223358154
+HTTP 1 and 2; http://www.ebay.com; 1.4971141815185547
+HTTP 1, 2, and 3; http://www.ebay.com; 1.5072658061981201
+HTTP 1; http://www.imdb.com; 3.2403595447540283
+HTTP 1 and 3; http://www.imdb.com; 2.9394776821136475
+HTTP 1 and 2; http://www.imdb.com; 4.130557537078857
+HTTP 1, 2, and 3; http://www.imdb.com; 2.9647393226623535
+HTTP 1; http://www.walmart.com; 4.199858903884888
+HTTP 1 and 3; http://www.walmart.com; 2.006211042404175
+HTTP 1 and 2; http://www.walmart.com; 1.847893238067627
+HTTP 1, 2, and 3; http://www.walmart.com; 2.473475933074951
+HTTP 1; http://www.live.com; 2.8786380290985107
+HTTP 1 and 3; http://www.live.com; 2.355527877807617
+HTTP 1 and 2; http://www.live.com; 2.3098058700561523
+HTTP 1, 2, and 3; http://www.live.com; 1.5221455097198486
+HTTP 1; http://www.msn.com; 0.6329162120819092
+HTTP 1 and 3; http://www.msn.com; 0.6148371696472168
+HTTP 1 and 2; http://www.msn.com; 0.7616584300994873
+HTTP 1, 2, and 3; http://www.msn.com; 0.7877554893493652
+HTTP 1; http://www.instructure.com; 1.1663322448730469
+HTTP 1 and 3; http://www.instructure.com; 1.1685190200805664
+HTTP 1 and 2; http://www.instructure.com; 1.0805270671844482
+HTTP 1, 2, and 3; http://www.instructure.com; 0.9934508800506592
+HTTP 1; http://www.spotify.com; 2.968240261077881
+HTTP 1 and 3; http://www.spotify.com; 2.9991707801818848
+HTTP 1 and 2; http://www.spotify.com; 2.288792848587036
+HTTP 1, 2, and 3; http://www.spotify.com; 2.3551464080810547
+HTTP 1; http://www.usps.com; 2.6234331130981445
+HTTP 1 and 3; http://www.usps.com; 2.7545249462127686
+HTTP 1 and 2; http://www.usps.com; 2.6868183612823486
+HTTP 1, 2, and 3; http://www.usps.com; 2.0548250675201416
+HTTP 1; http://www.accuweather.com; 2.034135580062866
+HTTP 1 and 3; http://www.accuweather.com; 1.9055850505828857
+HTTP 1 and 2; http://www.accuweather.com; 1.9299473762512207
+HTTP 1, 2, and 3; http://www.accuweather.com; 2.709289312362671
+HTTP 1; http://www.bbc.com; 0.706820011138916
+HTTP 1 and 3; http://www.bbc.com; 1.0355207920074463
+HTTP 1 and 2; http://www.bbc.com; 0.8451662063598633
+HTTP 1, 2, and 3; http://www.bbc.com; 0.9773883819580078
+HTTP 1; http://www.indeed.com; 0.9182846546173096
+HTTP 1 and 3; http://www.indeed.com; 0.7642674446105957
+HTTP 1 and 2; http://www.indeed.com; 3.331557512283325
+HTTP 1, 2, and 3; http://www.indeed.com; 0.6929786205291748
+HTTP 1; http://www.ziprecruiter.com; 1.040703535079956
+HTTP 1 and 3; http://www.ziprecruiter.com; 0.5215497016906738
+HTTP 1 and 2; http://www.ziprecruiter.com; 0.9303827285766602
+HTTP 1, 2, and 3; http://www.ziprecruiter.com; 0.45470118522644043
+HTTP 1; http://www.zillow.com; 3.210662603378296
+HTTP 1 and 3; http://www.zillow.com; 1.0327045917510986
+HTTP 1 and 2; http://www.zillow.com; 0.7640936374664307
+HTTP 1, 2, and 3; http://www.zillow.com; 0.782628059387207
+HTTP 1; http://www.paypal.com; 2.1202609539031982
+HTTP 1 and 3; http://www.paypal.com; 1.288959264755249
+HTTP 1 and 2; http://www.paypal.com; 1.2195391654968262
+HTTP 1, 2, and 3; http://www.paypal.com; 1.428429126739502
+HTTP 1; http://www.etsy.com; 3.461172342300415
+HTTP 1 and 3; http://www.etsy.com; 2.20271635055542
+HTTP 1 and 2; http://www.etsy.com; 2.5637176036834717
+HTTP 1, 2, and 3; http://www.etsy.com; 2.301546335220337
+HTTP 1; http://www.nypost.com; 3.701183319091797
+HTTP 1 and 3; http://www.nypost.com; 3.5651371479034424
+HTTP 1 and 2; http://www.nypost.com; 3.3598899841308594
+HTTP 1, 2, and 3; http://www.nypost.com; 3.304058313369751
+HTTP 1; http://www.apple.com; 1.301234245300293
+HTTP 1 and 3; http://www.apple.com; 1.3663957118988037
+HTTP 1 and 2; http://www.apple.com; 1.492785930633545
+HTTP 1, 2, and 3; http://www.apple.com; 1.729768991470337
+HTTP 1; http://www.ign.com; 1.4594218730926514
+HTTP 1 and 3; http://www.ign.com; 1.504706859588623
+HTTP 1 and 2; http://www.ign.com; 1.5082330703735352
+HTTP 1, 2, and 3; http://www.ign.com; 1.437826156616211
+HTTP 1; http://www.max.com; 1.5196378231048584
+HTTP 1 and 3; http://www.max.com; 1.5131804943084717
+HTTP 1 and 2; http://www.max.com; 1.451770544052124
+HTTP 1, 2, and 3; http://www.max.com; 1.6366961002349854
+HTTP 1; http://www.usatoday.com; 3.2064266204833984
+HTTP 1 and 3; http://www.usatoday.com; 3.6104414463043213
+HTTP 1 and 2; http://www.usatoday.com; 16.61353850364685
+HTTP 1, 2, and 3; http://www.usatoday.com; 4.501708507537842
+protocol; url; rtt - Optimum Internet - Home Internet - Wifi - 2023-12-10 15:52:05.758801
+HTTP 1; http://www.google.com; 1.0482189655303955
+HTTP 1 and 3; http://www.google.com; 1.2028279304504395
+HTTP 1 and 2; http://www.google.com; 0.9947769641876221
+HTTP 1, 2, and 3; http://www.google.com; 0.9664430618286133
+HTTP 1; http://www.njit.edu; 2.909841775894165
+HTTP 1 and 3; http://www.njit.edu; 2.8484652042388916
+HTTP 1 and 2; http://www.njit.edu; 2.458040237426758
+HTTP 1, 2, and 3; http://www.njit.edu; 2.412748098373413
+HTTP 1; http://www.facebook.com; 0.706662654876709
+HTTP 1 and 3; http://www.facebook.com; 0.9028728008270264
+HTTP 1 and 2; http://www.facebook.com; 0.751816987991333
+HTTP 1, 2, and 3; http://www.facebook.com; 0.824110746383667
+HTTP 1; http://www.reddit.com; 3.495516061782837
+HTTP 1 and 3; http://www.reddit.com; 1.9096426963806152
+HTTP 1 and 2; http://www.reddit.com; 4.375598669052124
+HTTP 1, 2, and 3; http://www.reddit.com; 1.999004602432251
+HTTP 1; http://www.twitter.com; 1.265749454498291
+HTTP 1 and 3; http://www.twitter.com; 1.2332851886749268
+HTTP 1 and 2; http://www.twitter.com; 1.6655807495117188
+HTTP 1, 2, and 3; http://www.twitter.com; 1.1620213985443115
+HTTP 1; http://www.youtube.com; 4.713810682296753
+HTTP 1 and 3; http://www.youtube.com; 4.69183874130249
+HTTP 1 and 2; http://www.youtube.com; 4.113773822784424
+HTTP 1, 2, and 3; http://www.youtube.com; 4.363155126571655
+HTTP 1; http://www.amazon.com; 2.6094024181365967
+HTTP 1 and 3; http://www.amazon.com; 2.2791125774383545
+HTTP 1 and 2; http://www.amazon.com; 2.2273645401000977
+HTTP 1, 2, and 3; http://www.amazon.com; 1.810750961303711
+HTTP 1; http://www.wikipedia.org; 0.6279044151306152
+HTTP 1 and 3; http://www.wikipedia.org; 0.6437702178955078
+HTTP 1 and 2; http://www.wikipedia.org; 0.6622004508972168
+HTTP 1, 2, and 3; http://www.wikipedia.org; 0.6239583492279053
+HTTP 1; http://www.yahoo.com; 1.7474675178527832
+HTTP 1 and 3; http://www.yahoo.com; 2.828857660293579
+HTTP 1 and 2; http://www.yahoo.com; 3.0000836849212646
+HTTP 1, 2, and 3; http://www.yahoo.com; 4.9178547859191895
+HTTP 1; http://www.instagram.com; 1.0536775588989258
+HTTP 1 and 3; http://www.instagram.com; 1.0576221942901611
+HTTP 1 and 2; http://www.instagram.com; 1.097930908203125
+HTTP 1, 2, and 3; http://www.instagram.com; 1.0981087684631348
+HTTP 1; http://www.tiktok.com; 2.182870626449585
+HTTP 1 and 3; http://www.tiktok.com; 2.6816937923431396
+HTTP 1 and 2; http://www.tiktok.com; 1.582902193069458
+HTTP 1, 2, and 3; http://www.tiktok.com; 1.3318052291870117
+HTTP 1; http://www.linkedin.com; 1.3534057140350342
+HTTP 1 and 3; http://www.linkedin.com; 1.2852904796600342
+HTTP 1 and 2; http://www.linkedin.com; 1.281721591949463
+HTTP 1, 2, and 3; http://www.linkedin.com; 1.2964894771575928
+HTTP 1; http://www.imgur.com; 2.8458476066589355
+HTTP 1 and 3; http://www.imgur.com; 3.392733335494995
+HTTP 1 and 2; http://www.imgur.com; 2.9742488861083984
+HTTP 1, 2, and 3; http://www.imgur.com; 3.082467555999756
+HTTP 1; http://www.office.com; 2.7156269550323486
+HTTP 1 and 3; http://www.office.com; 1.793586015701294
+HTTP 1 and 2; http://www.office.com; 3.1339974403381348
+HTTP 1, 2, and 3; http://www.office.com; 1.504310131072998
+HTTP 1; http://www.netflix.com; 1.842174768447876
+HTTP 1 and 3; http://www.netflix.com; 1.371997594833374
+HTTP 1 and 2; http://www.netflix.com; 1.6937015056610107
+HTTP 1, 2, and 3; http://www.netflix.com; 1.409548044204712
+HTTP 1; http://www.bing.com; 0.3607802391052246
+HTTP 1 and 3; http://www.bing.com; 0.36115550994873047
+HTTP 1 and 2; http://www.bing.com; 0.35216259956359863
+HTTP 1, 2, and 3; http://www.bing.com; 0.32419347763061523
+HTTP 1; http://www.samsung.com; 2.8800907135009766
+HTTP 1 and 3; http://www.samsung.com; 3.2112464904785156
+HTTP 1 and 2; http://www.samsung.com; 2.606187343597412
+HTTP 1, 2, and 3; http://www.samsung.com; 3.3127334117889404
+HTTP 1; http://www.pinterest.com; 0.9431931972503662
+HTTP 1 and 3; http://www.pinterest.com; 4.037898540496826
+HTTP 1 and 2; http://www.pinterest.com; 1.0034542083740234
+HTTP 1, 2, and 3; http://www.pinterest.com; 1.4293828010559082
+HTTP 1; http://www.microsoft.com; 1.686699628829956
+HTTP 1 and 3; http://www.microsoft.com; 2.2523927688598633
+HTTP 1 and 2; http://www.microsoft.com; 2.667750358581543
+HTTP 1, 2, and 3; http://www.microsoft.com; 2.527909755706787
+HTTP 1; http://www.discord.com; 1.6579999923706055
+HTTP 1 and 3; http://www.discord.com; 1.6815061569213867
+HTTP 1 and 2; http://www.discord.com; 1.6520516872406006
+HTTP 1, 2, and 3; http://www.discord.com; 1.2522308826446533
+HTTP 1; http://www.weather.com; 1.3781001567840576
+HTTP 1 and 3; http://www.weather.com; 1.8970081806182861
+HTTP 1 and 2; http://www.weather.com; 1.2998034954071045
+HTTP 1, 2, and 3; http://www.weather.com; 1.9983007907867432
+HTTP 1; http://www.twitch.tv; 8.49098515510559
+HTTP 1 and 3; http://www.twitch.tv; 3.4774913787841797
+HTTP 1 and 2; http://www.twitch.tv; 3.084582805633545
+HTTP 1, 2, and 3; http://www.twitch.tv; 6.821600914001465
+HTTP 1; http://www.zoom.us; 2.677457809448242
+HTTP 1 and 3; http://www.zoom.us; 2.426710844039917
+HTTP 1 and 2; http://www.zoom.us; 2.355780839920044
+HTTP 1, 2, and 3; http://www.zoom.us; 1.9509201049804688
+HTTP 1; http://www.duckduckgo.com; 1.1630117893218994
+HTTP 1 and 3; http://www.duckduckgo.com; 1.194504737854004
+HTTP 1 and 2; http://www.duckduckgo.com; 1.5655262470245361
+HTTP 1, 2, and 3; http://www.duckduckgo.com; 1.5432262420654297
+HTTP 1; http://www.quora.com; 1.2092220783233643
+HTTP 1 and 3; http://www.quora.com; 1.236266851425171
+HTTP 1 and 2; http://www.quora.com; 1.0855686664581299
+HTTP 1, 2, and 3; http://www.quora.com; 1.3586206436157227
+HTTP 1; http://www.sharepoint.com; 3.335510730743408
+HTTP 1 and 3; http://www.sharepoint.com; 2.6533186435699463
+HTTP 1 and 2; http://www.sharepoint.com; 3.9664132595062256
+HTTP 1, 2, and 3; http://www.sharepoint.com; 3.6682989597320557
+HTTP 1; http://www.fandom.com; 2.348680019378662
+HTTP 1 and 3; http://www.fandom.com; 1.4016871452331543
+HTTP 1 and 2; http://www.fandom.com; 2.6186442375183105
+HTTP 1, 2, and 3; http://www.fandom.com; 2.5917532444000244
+HTTP 1; http://www.cnn.com; 3.3470239639282227
+HTTP 1 and 3; http://www.cnn.com; 4.209243297576904
+HTTP 1 and 2; http://www.cnn.com; 4.283621311187744
+HTTP 1, 2, and 3; http://www.cnn.com; 4.266075611114502
+HTTP 1; http://www.foxnews.com; 3.8189597129821777
+HTTP 1 and 3; http://www.foxnews.com; 4.326253652572632
+HTTP 1 and 2; http://www.foxnews.com; 3.967902183532715
+HTTP 1, 2, and 3; http://www.foxnews.com; 3.3471291065216064
+HTTP 1; http://www.nytimes.com; 4.3890063762664795
+HTTP 1 and 3; http://www.nytimes.com; 4.601402759552002
+HTTP 1 and 2; http://www.nytimes.com; 3.9711897373199463
+HTTP 1, 2, and 3; http://www.nytimes.com; 3.7049129009246826
+HTTP 1; http://www.ebay.com; 1.956120491027832
+HTTP 1 and 3; http://www.ebay.com; 2.0322916507720947
+HTTP 1 and 2; http://www.ebay.com; 1.6886992454528809
+HTTP 1, 2, and 3; http://www.ebay.com; 1.5207314491271973
+HTTP 1; http://www.imdb.com; 3.014612913131714
+HTTP 1 and 3; http://www.imdb.com; 3.2204580307006836
+HTTP 1 and 2; http://www.imdb.com; 2.9102954864501953
+HTTP 1, 2, and 3; http://www.imdb.com; 2.962576150894165
+HTTP 1; http://www.walmart.com; 3.152641773223877
+HTTP 1 and 3; http://www.walmart.com; 1.6330881118774414
+HTTP 1 and 2; http://www.walmart.com; 2.736694097518921
+HTTP 1, 2, and 3; http://www.walmart.com; 2.1204426288604736
+HTTP 1; http://www.live.com; 2.7544257640838623
+HTTP 1 and 3; http://www.live.com; 2.7751076221466064
+HTTP 1 and 2; http://www.live.com; 2.1562252044677734
+HTTP 1, 2, and 3; http://www.live.com; 2.763387441635132
+HTTP 1; http://www.msn.com; 0.7619326114654541
+HTTP 1 and 3; http://www.msn.com; 0.7853760719299316
+HTTP 1 and 2; http://www.msn.com; 0.6035687923431396
+HTTP 1, 2, and 3; http://www.msn.com; 0.5964963436126709
+HTTP 1; http://www.instructure.com; 2.907956600189209
+HTTP 1 and 3; http://www.instructure.com; 1.4571764469146729
+HTTP 1 and 2; http://www.instructure.com; 2.85162353515625
+HTTP 1, 2, and 3; http://www.instructure.com; 1.1597366333007812
+HTTP 1; http://www.spotify.com; 2.7775394916534424
+HTTP 1 and 3; http://www.spotify.com; 4.528115272521973
+HTTP 1 and 2; http://www.spotify.com; 4.335033178329468
+HTTP 1, 2, and 3; http://www.spotify.com; 2.958862066268921
+HTTP 1; http://www.usps.com; 3.094967842102051
+HTTP 1 and 3; http://www.usps.com; 2.679065465927124
+HTTP 1 and 2; http://www.usps.com; 2.1452763080596924
+HTTP 1, 2, and 3; http://www.usps.com; 2.377049446105957
+HTTP 1; http://www.accuweather.com; 2.155688762664795
+HTTP 1 and 3; http://www.accuweather.com; 3.1173880100250244
+HTTP 1 and 2; http://www.accuweather.com; 2.6160354614257812
+HTTP 1, 2, and 3; http://www.accuweather.com; 2.0999386310577393
+HTTP 1; http://www.bbc.com; 0.8973326683044434
+HTTP 1 and 3; http://www.bbc.com; 0.6824040412902832
+HTTP 1 and 2; http://www.bbc.com; 1.6256506443023682
+HTTP 1, 2, and 3; http://www.bbc.com; 1.0412473678588867
+HTTP 1; http://www.indeed.com; 0.7610740661621094
+HTTP 1 and 3; http://www.indeed.com; 1.1485545635223389
+HTTP 1 and 2; http://www.indeed.com; 0.9913110733032227
+HTTP 1, 2, and 3; http://www.indeed.com; 0.7526743412017822
+HTTP 1; http://www.ziprecruiter.com; 2.4543869495391846
+HTTP 1 and 3; http://www.ziprecruiter.com; 0.5131807327270508
+HTTP 1 and 2; http://www.ziprecruiter.com; 1.4349241256713867
+HTTP 1, 2, and 3; http://www.ziprecruiter.com; 0.538306713104248
+HTTP 1; http://www.zillow.com; 3.2401366233825684
+HTTP 1 and 3; http://www.zillow.com; 1.6534593105316162
+HTTP 1 and 2; http://www.zillow.com; 0.9750781059265137
+HTTP 1, 2, and 3; http://www.zillow.com; 0.6985609531402588
+HTTP 1; http://www.paypal.com; 1.981816053390503
+HTTP 1 and 3; http://www.paypal.com; 1.629992961883545
+HTTP 1 and 2; http://www.paypal.com; 1.2793588638305664
+HTTP 1, 2, and 3; http://www.paypal.com; 1.9859309196472168
+HTTP 1; http://www.etsy.com; 2.297623872756958
+HTTP 1 and 3; http://www.etsy.com; 2.345227003097534
+HTTP 1 and 2; http://www.etsy.com; 2.2564985752105713
+HTTP 1, 2, and 3; http://www.etsy.com; 2.5682373046875
+HTTP 1; http://www.nypost.com; 3.4684064388275146
+HTTP 1 and 3; http://www.nypost.com; 195.64974641799927
+HTTP 1 and 2; http://www.nypost.com; 4.5260326862335205
+HTTP 1, 2, and 3; http://www.nypost.com; 3.545546770095825
+HTTP 1; http://www.apple.com; 1.2518017292022705
+HTTP 1 and 3; http://www.apple.com; 1.1969189643859863
+HTTP 1 and 2; http://www.apple.com; 1.9793102741241455
+HTTP 1, 2, and 3; http://www.apple.com; 2.839369297027588
+HTTP 1; http://www.ign.com; 1.8325352668762207
+HTTP 1 and 3; http://www.ign.com; 1.5486910343170166
+HTTP 1 and 2; http://www.ign.com; 1.840904712677002
+HTTP 1, 2, and 3; http://www.ign.com; 1.9168760776519775
+HTTP 1; http://www.max.com; 1.4360530376434326
+HTTP 1 and 3; http://www.max.com; 1.559518814086914
+HTTP 1 and 2; http://www.max.com; 1.648021936416626
+HTTP 1, 2, and 3; http://www.max.com; 1.6486897468566895
+HTTP 1; http://www.usatoday.com; 4.483777046203613
+HTTP 1 and 3; http://www.usatoday.com; 22.183160305023193
+HTTP 1 and 2; http://www.usatoday.com; 4.907094478607178
+HTTP 1, 2, and 3; http://www.usatoday.com; 5.179417610168457
+protocol; url; rtt - Optimum Internet - Home Internet - Wifi - 2023-12-10 16:27:43.957804
+HTTP 1; http://www.google.com; 1.9108569622039795
+HTTP 1 and 3; http://www.google.com; 1.153120994567871
+HTTP 1 and 2; http://www.google.com; 1.2248611450195312
+HTTP 1, 2, and 3; http://www.google.com; 0.9976015090942383
+HTTP 1; http://www.njit.edu; 3.2171523571014404
+HTTP 1 and 3; http://www.njit.edu; 3.003162384033203
+HTTP 1 and 2; http://www.njit.edu; 3.179856777191162
+HTTP 1, 2, and 3; http://www.njit.edu; 3.08402156829834
+HTTP 1; http://www.facebook.com; 0.9671759605407715
+HTTP 1 and 3; http://www.facebook.com; 0.8653137683868408
+HTTP 1 and 2; http://www.facebook.com; 0.7438137531280518
+HTTP 1, 2, and 3; http://www.facebook.com; 0.7969720363616943
+HTTP 1; http://www.reddit.com; 7.416510105133057
+HTTP 1 and 3; http://www.reddit.com; 2.599090099334717
+HTTP 1 and 2; http://www.reddit.com; 1.8625433444976807
+HTTP 1, 2, and 3; http://www.reddit.com; 2.341958999633789
+HTTP 1; http://www.twitter.com; 1.3708319664001465
+HTTP 1 and 3; http://www.twitter.com; 1.448866844177246
+HTTP 1 and 2; http://www.twitter.com; 1.1571629047393799
+HTTP 1, 2, and 3; http://www.twitter.com; 1.8445820808410645
+HTTP 1; http://www.youtube.com; 5.35434627532959
+HTTP 1 and 3; http://www.youtube.com; 4.621082305908203
+HTTP 1 and 2; http://www.youtube.com; 5.508306980133057
+HTTP 1, 2, and 3; http://www.youtube.com; 4.204901456832886
+HTTP 1; http://www.amazon.com; 0.6317441463470459
+HTTP 1 and 3; http://www.amazon.com; 3.394902467727661
+HTTP 1 and 2; http://www.amazon.com; 2.988826036453247
+HTTP 1, 2, and 3; http://www.amazon.com; 2.701944351196289
+HTTP 1; http://www.wikipedia.org; 0.6636137962341309
+HTTP 1 and 3; http://www.wikipedia.org; 0.8146817684173584
+HTTP 1 and 2; http://www.wikipedia.org; 0.6600441932678223
+HTTP 1, 2, and 3; http://www.wikipedia.org; 0.6455152034759521
+HTTP 1; http://www.yahoo.com; 2.619706153869629
+HTTP 1 and 3; http://www.yahoo.com; 2.1740453243255615
+HTTP 1 and 2; http://www.yahoo.com; 1.6548609733581543
+HTTP 1, 2, and 3; http://www.yahoo.com; 2.7774271965026855
+HTTP 1; http://www.instagram.com; 0.8456988334655762
+HTTP 1 and 3; http://www.instagram.com; 1.0390589237213135
+HTTP 1 and 2; http://www.instagram.com; 1.108098030090332
+HTTP 1, 2, and 3; http://www.instagram.com; 1.1034808158874512
+HTTP 1; http://www.tiktok.com; 2.569187641143799
+HTTP 1 and 3; http://www.tiktok.com; 1.6574397087097168
+HTTP 1 and 2; http://www.tiktok.com; 1.9232957363128662
+HTTP 1, 2, and 3; http://www.tiktok.com; 1.4862639904022217
+HTTP 1; http://www.linkedin.com; 1.4760799407958984
+HTTP 1 and 3; http://www.linkedin.com; 1.267582654953003
+HTTP 1 and 2; http://www.linkedin.com; 1.3563258647918701
+HTTP 1, 2, and 3; http://www.linkedin.com; 1.2917842864990234
+HTTP 1; http://www.imgur.com; 3.124964952468872
+HTTP 1 and 3; http://www.imgur.com; 21.80146026611328
+HTTP 1 and 2; http://www.imgur.com; 3.338212013244629
+HTTP 1, 2, and 3; http://www.imgur.com; 1.4440786838531494
+HTTP 1; http://www.office.com; 2.668938636779785
+HTTP 1 and 3; http://www.office.com; 1.7889018058776855
+HTTP 1 and 2; http://www.office.com; 3.706462860107422
+HTTP 1, 2, and 3; http://www.office.com; 1.466332197189331
+HTTP 1; http://www.netflix.com; 1.4946937561035156
+HTTP 1 and 3; http://www.netflix.com; 1.7603888511657715
+HTTP 1 and 2; http://www.netflix.com; 1.3034663200378418
+HTTP 1, 2, and 3; http://www.netflix.com; 1.432023286819458
+HTTP 1; http://www.bing.com; 0.3971567153930664
+HTTP 1 and 3; http://www.bing.com; 0.43977880477905273
+HTTP 1 and 2; http://www.bing.com; 0.4185638427734375
+HTTP 1, 2, and 3; http://www.bing.com; 0.3391604423522949
+HTTP 1; http://www.samsung.com; 3.9617397785186768
+HTTP 1 and 3; http://www.samsung.com; 3.933072566986084
+HTTP 1 and 2; http://www.samsung.com; 3.6951208114624023
+HTTP 1, 2, and 3; http://www.samsung.com; 2.9832310676574707
+HTTP 1; http://www.pinterest.com; 0.8866777420043945
+HTTP 1 and 3; http://www.pinterest.com; 0.7828319072723389
+HTTP 1 and 2; http://www.pinterest.com; 1.157334327697754
+HTTP 1, 2, and 3; http://www.pinterest.com; 0.7824299335479736
+HTTP 1; http://www.microsoft.com; 3.0022459030151367
+HTTP 1 and 3; http://www.microsoft.com; 3.1103172302246094
+HTTP 1 and 2; http://www.microsoft.com; 3.0413780212402344
+HTTP 1, 2, and 3; http://www.microsoft.com; 3.143948793411255
+HTTP 1; http://www.discord.com; 1.5694916248321533
+HTTP 1 and 3; http://www.discord.com; 1.140681505203247
+HTTP 1 and 2; http://www.discord.com; 2.5647501945495605
+HTTP 1, 2, and 3; http://www.discord.com; 1.0341401100158691
+HTTP 1; http://www.weather.com; 1.914069652557373
+HTTP 1 and 3; http://www.weather.com; 1.3801558017730713
+HTTP 1 and 2; http://www.weather.com; 1.4188358783721924
+HTTP 1, 2, and 3; http://www.weather.com; 1.4550869464874268
+HTTP 1; http://www.twitch.tv; 3.503269910812378
+HTTP 1 and 3; http://www.twitch.tv; 6.930950403213501
+HTTP 1 and 2; http://www.twitch.tv; 16.3748881816864
+HTTP 1, 2, and 3; http://www.twitch.tv; 16.268323183059692
+HTTP 1; http://www.zoom.us; 13.01147723197937
+HTTP 1 and 3; http://www.zoom.us; 2.428992986679077
+HTTP 1 and 2; http://www.zoom.us; 2.0843472480773926
+HTTP 1, 2, and 3; http://www.zoom.us; 2.0139989852905273
+HTTP 1; http://www.duckduckgo.com; 1.1723840236663818
+HTTP 1 and 3; http://www.duckduckgo.com; 1.4445130825042725
+HTTP 1 and 2; http://www.duckduckgo.com; 1.438276767730713
+HTTP 1, 2, and 3; http://www.duckduckgo.com; 1.390714168548584
+HTTP 1; http://www.quora.com; 1.1870462894439697
+HTTP 1 and 3; http://www.quora.com; 1.1467969417572021
+HTTP 1 and 2; http://www.quora.com; 1.0472888946533203
+HTTP 1, 2, and 3; http://www.quora.com; 1.0522074699401855
+HTTP 1; http://www.sharepoint.com; 3.808187246322632
+HTTP 1 and 3; http://www.sharepoint.com; 3.254429340362549
+HTTP 1 and 2; http://www.sharepoint.com; 3.1917757987976074
+HTTP 1, 2, and 3; http://www.sharepoint.com; 5.068517208099365
+HTTP 1; http://www.fandom.com; 2.375349283218384
+HTTP 1 and 3; http://www.fandom.com; 2.6040446758270264
+HTTP 1 and 2; http://www.fandom.com; 2.504973888397217
+HTTP 1, 2, and 3; http://www.fandom.com; 2.603614091873169
+HTTP 1; http://www.cnn.com; 5.063989639282227
+HTTP 1 and 3; http://www.cnn.com; 4.048416614532471
+HTTP 1 and 2; http://www.cnn.com; 6.9960737228393555
+HTTP 1, 2, and 3; http://www.cnn.com; 4.776383399963379
+HTTP 1; http://www.foxnews.com; 4.691566228866577
+HTTP 1 and 3; http://www.foxnews.com; 3.9349308013916016
+HTTP 1 and 2; http://www.foxnews.com; 3.587261199951172
+HTTP 1, 2, and 3; http://www.foxnews.com; 5.038315296173096
+HTTP 1; http://www.nytimes.com; 4.044822454452515
+HTTP 1 and 3; http://www.nytimes.com; 4.960394620895386
+HTTP 1 and 2; http://www.nytimes.com; 3.9594953060150146
+HTTP 1, 2, and 3; http://www.nytimes.com; 4.190079212188721
+HTTP 1; http://www.ebay.com; 1.4765019416809082
+HTTP 1 and 3; http://www.ebay.com; 1.8812735080718994
+HTTP 1 and 2; http://www.ebay.com; 1.3728358745574951
+HTTP 1, 2, and 3; http://www.ebay.com; 1.3982067108154297
+HTTP 1; http://www.imdb.com; 3.3686811923980713
+HTTP 1 and 3; http://www.imdb.com; 3.005086660385132
+HTTP 1 and 2; http://www.imdb.com; 3.033254861831665
+HTTP 1, 2, and 3; http://www.imdb.com; 2.8887126445770264
+HTTP 1; http://www.walmart.com; 3.8332648277282715
+HTTP 1 and 3; http://www.walmart.com; 1.926501750946045
+HTTP 1 and 2; http://www.walmart.com; 1.9924647808074951
+HTTP 1, 2, and 3; http://www.walmart.com; 2.1554646492004395
+HTTP 1; http://www.live.com; 1.6990058422088623
+HTTP 1 and 3; http://www.live.com; 3.0824551582336426
+HTTP 1 and 2; http://www.live.com; 2.7828829288482666
+HTTP 1, 2, and 3; http://www.live.com; 2.519627571105957
+HTTP 1; http://www.msn.com; 0.7930786609649658
+HTTP 1 and 3; http://www.msn.com; 0.6171202659606934
+HTTP 1 and 2; http://www.msn.com; 0.8484611511230469
+HTTP 1, 2, and 3; http://www.msn.com; 0.7659378051757812
+HTTP 1; http://www.instructure.com; 1.6148345470428467
+HTTP 1 and 3; http://www.instructure.com; 1.3597683906555176
+HTTP 1 and 2; http://www.instructure.com; 1.626432180404663
+HTTP 1, 2, and 3; http://www.instructure.com; 2.8550007343292236
+HTTP 1; http://www.spotify.com; 2.234545946121216
+HTTP 1 and 3; http://www.spotify.com; 2.866126775741577
+HTTP 1 and 2; http://www.spotify.com; 2.6791131496429443
+HTTP 1, 2, and 3; http://www.spotify.com; 3.0548393726348877
+HTTP 1; http://www.usps.com; 3.548928737640381
+HTTP 1 and 3; http://www.usps.com; 2.6868183612823486
+HTTP 1 and 2; http://www.usps.com; 2.566648244857788
+HTTP 1, 2, and 3; http://www.usps.com; 2.794569730758667
+HTTP 1; http://www.accuweather.com; 2.0697457790374756
+HTTP 1 and 3; http://www.accuweather.com; 2.460092544555664
+HTTP 1 and 2; http://www.accuweather.com; 2.234402656555176
+HTTP 1, 2, and 3; http://www.accuweather.com; 2.4177184104919434
+HTTP 1; http://www.bbc.com; 0.7175774574279785
+HTTP 1 and 3; http://www.bbc.com; 0.6834135055541992
+HTTP 1 and 2; http://www.bbc.com; 0.820265531539917
+HTTP 1, 2, and 3; http://www.bbc.com; 1.106776237487793
+HTTP 1; http://www.indeed.com; 1.509652853012085
+HTTP 1 and 3; http://www.indeed.com; 0.9362790584564209
+HTTP 1 and 2; http://www.indeed.com; 0.9654450416564941
+HTTP 1, 2, and 3; http://www.indeed.com; 0.8323607444763184
+HTTP 1; http://www.ziprecruiter.com; 1.0726001262664795
+HTTP 1 and 3; http://www.ziprecruiter.com; 0.5555956363677979
+HTTP 1 and 2; http://www.ziprecruiter.com; 0.9632518291473389
+HTTP 1, 2, and 3; http://www.ziprecruiter.com; 0.5300149917602539
+HTTP 1; http://www.zillow.com; 3.4898290634155273
+HTTP 1 and 3; http://www.zillow.com; 0.7867605686187744
+HTTP 1 and 2; http://www.zillow.com; 1.0238699913024902
+HTTP 1, 2, and 3; http://www.zillow.com; 0.7991385459899902
+HTTP 1; http://www.paypal.com; 1.438417673110962
+HTTP 1 and 3; http://www.paypal.com; 1.420443058013916
+HTTP 1 and 2; http://www.paypal.com; 1.6045706272125244
+HTTP 1, 2, and 3; http://www.paypal.com; 2.929149627685547
+HTTP 1; http://www.etsy.com; 2.712829828262329
+HTTP 1 and 3; http://www.etsy.com; 2.548626661300659
+HTTP 1 and 2; http://www.etsy.com; 2.2396481037139893
+HTTP 1, 2, and 3; http://www.etsy.com; 2.769648790359497
+HTTP 1; http://www.nypost.com; 4.538214683532715
+HTTP 1 and 3; http://www.nypost.com; 7.464653730392456
+HTTP 1 and 2; http://www.nypost.com; 9.220769166946411
+HTTP 1, 2, and 3; http://www.nypost.com; 3.5030179023742676
+HTTP 1; http://www.apple.com; 1.4253089427947998
+HTTP 1 and 3; http://www.apple.com; 2.582075595855713
+HTTP 1 and 2; http://www.apple.com; 2.0429208278656006
+HTTP 1, 2, and 3; http://www.apple.com; 2.2590219974517822
+HTTP 1; http://www.ign.com; 4.522334098815918
+HTTP 1 and 3; http://www.ign.com; 1.606071949005127
+HTTP 1 and 2; http://www.ign.com; 1.448899269104004
+HTTP 1, 2, and 3; http://www.ign.com; 1.7647583484649658
+HTTP 1; http://www.max.com; 1.4239208698272705
+HTTP 1 and 3; http://www.max.com; 1.5679125785827637
+HTTP 1 and 2; http://www.max.com; 1.6413772106170654
+HTTP 1, 2, and 3; http://www.max.com; 1.9619312286376953
+HTTP 1; http://www.usatoday.com; 3.4347779750823975
+HTTP 1 and 3; http://www.usatoday.com; 3.7487270832061768
+HTTP 1 and 2; http://www.usatoday.com; 7.062835216522217
+HTTP 1, 2, and 3; http://www.usatoday.com; 3.129145622253418
+protocol; url; rtt - Optimum Internet - Home Internet - Wifi - 2023-12-10 17:01:04.461120
+HTTP 1; http://www.google.com; 1.112351894378662
+HTTP 1 and 3; http://www.google.com; 1.1918919086456299
+HTTP 1 and 2; http://www.google.com; 1.2313761711120605
+HTTP 1, 2, and 3; http://www.google.com; 0.9678201675415039
+HTTP 1; http://www.njit.edu; 3.3242316246032715
+HTTP 1 and 3; http://www.njit.edu; 2.8868839740753174
+HTTP 1 and 2; http://www.njit.edu; 6.074981212615967
+HTTP 1, 2, and 3; http://www.njit.edu; 3.0605156421661377
+HTTP 1; http://www.facebook.com; 0.935971736907959
+HTTP 1 and 3; http://www.facebook.com; 0.8615705966949463
+HTTP 1 and 2; http://www.facebook.com; 0.7740685939788818
+HTTP 1, 2, and 3; http://www.facebook.com; 0.9941580295562744
+HTTP 1; http://www.reddit.com; 3.2944397926330566
+HTTP 1 and 3; http://www.reddit.com; 2.0706162452697754
+HTTP 1 and 2; http://www.reddit.com; 2.9483249187469482
+HTTP 1, 2, and 3; http://www.reddit.com; 1.9283511638641357
+HTTP 1; http://www.twitter.com; 1.3089227676391602
+HTTP 1 and 3; http://www.twitter.com; 1.672196865081787
+HTTP 1 and 2; http://www.twitter.com; 1.1842150688171387
+HTTP 1, 2, and 3; http://www.twitter.com; 1.1240198612213135
+HTTP 1; http://www.youtube.com; 6.399002313613892
+HTTP 1 and 3; http://www.youtube.com; 4.778478145599365
+HTTP 1 and 2; http://www.youtube.com; 4.550246715545654
+HTTP 1, 2, and 3; http://www.youtube.com; 4.48548150062561
+HTTP 1; http://www.amazon.com; 3.708115339279175
+HTTP 1 and 3; http://www.amazon.com; 0.8363456726074219
+HTTP 1 and 2; http://www.amazon.com; 3.7649853229522705
+HTTP 1, 2, and 3; http://www.amazon.com; 1.968966007232666
+HTTP 1; http://www.wikipedia.org; 1.2513189315795898
+HTTP 1 and 3; http://www.wikipedia.org; 0.6589655876159668
+HTTP 1 and 2; http://www.wikipedia.org; 0.6869127750396729
+HTTP 1, 2, and 3; http://www.wikipedia.org; 1.6702864170074463
+HTTP 1; http://www.yahoo.com; 3.142096519470215
+HTTP 1 and 3; http://www.yahoo.com; 2.965834617614746
+HTTP 1 and 2; http://www.yahoo.com; 1.7183079719543457
+HTTP 1, 2, and 3; http://www.yahoo.com; 1.729658603668213
+HTTP 1; http://www.instagram.com; 1.1845040321350098
+HTTP 1 and 3; http://www.instagram.com; 1.1489665508270264
+HTTP 1 and 2; http://www.instagram.com; 1.1937148571014404
+HTTP 1, 2, and 3; http://www.instagram.com; 1.5230846405029297
+HTTP 1; http://www.tiktok.com; 1.4782814979553223
+HTTP 1 and 3; http://www.tiktok.com; 1.4169340133666992
+HTTP 1 and 2; http://www.tiktok.com; 1.4530904293060303
+HTTP 1, 2, and 3; http://www.tiktok.com; 1.4803125858306885
+HTTP 1; http://www.linkedin.com; 1.4370105266571045
+HTTP 1 and 3; http://www.linkedin.com; 1.8669145107269287
+HTTP 1 and 2; http://www.linkedin.com; 1.3082003593444824
+HTTP 1, 2, and 3; http://www.linkedin.com; 1.5088934898376465
+HTTP 1; http://www.imgur.com; 3.076664686203003
+HTTP 1 and 3; http://www.imgur.com; 3.419696092605591
+HTTP 1 and 2; http://www.imgur.com; 3.048358917236328
+HTTP 1, 2, and 3; http://www.imgur.com; 3.079223155975342
+HTTP 1; http://www.office.com; 3.112990379333496
+HTTP 1 and 3; http://www.office.com; 1.8556632995605469
+HTTP 1 and 2; http://www.office.com; 4.024384260177612
+HTTP 1, 2, and 3; http://www.office.com; 1.4371800422668457
+HTTP 1; http://www.netflix.com; 1.4219706058502197
+HTTP 1 and 3; http://www.netflix.com; 2.442394971847534
+HTTP 1 and 2; http://www.netflix.com; 1.3031585216522217
+HTTP 1, 2, and 3; http://www.netflix.com; 1.4709994792938232
+HTTP 1; http://www.bing.com; 0.9291291236877441
+HTTP 1 and 3; http://www.bing.com; 0.6129224300384521
+HTTP 1 and 2; http://www.bing.com; 0.4235076904296875
+HTTP 1, 2, and 3; http://www.bing.com; 0.652076005935669
+HTTP 1; http://www.samsung.com; 3.1647167205810547
+HTTP 1 and 3; http://www.samsung.com; 2.8831443786621094
+HTTP 1 and 2; http://www.samsung.com; 2.823040008544922
+HTTP 1, 2, and 3; http://www.samsung.com; 2.5865366458892822
+HTTP 1; http://www.pinterest.com; 0.7622063159942627
+HTTP 1 and 3; http://www.pinterest.com; 1.0412988662719727
+HTTP 1 and 2; http://www.pinterest.com; 0.8229513168334961
+HTTP 1, 2, and 3; http://www.pinterest.com; 0.8430447578430176
+HTTP 1; http://www.microsoft.com; 2.702408790588379
+HTTP 1 and 3; http://www.microsoft.com; 3.0813708305358887
+HTTP 1 and 2; http://www.microsoft.com; 2.6860780715942383
+HTTP 1, 2, and 3; http://www.microsoft.com; 3.204291820526123
+HTTP 1; http://www.discord.com; 1.5065412521362305
+HTTP 1 and 3; http://www.discord.com; 1.4321885108947754
+HTTP 1 and 2; http://www.discord.com; 1.4105212688446045
+HTTP 1, 2, and 3; http://www.discord.com; 1.3018887042999268
+HTTP 1; http://www.weather.com; 1.8052423000335693
+HTTP 1 and 3; http://www.weather.com; 1.6076457500457764
+HTTP 1 and 2; http://www.weather.com; 1.2283639907836914
+HTTP 1, 2, and 3; http://www.weather.com; 1.255552053451538
+HTTP 1; http://www.twitch.tv; 7.67053484916687
+HTTP 1 and 3; http://www.twitch.tv; 8.266339302062988
+HTTP 1 and 2; http://www.twitch.tv; 8.067190408706665
+HTTP 1, 2, and 3; http://www.twitch.tv; 16.35259509086609
+HTTP 1; http://www.zoom.us; 2.290163993835449
+HTTP 1 and 3; http://www.zoom.us; 2.568539619445801
+HTTP 1 and 2; http://www.zoom.us; 2.851120948791504
+HTTP 1, 2, and 3; http://www.zoom.us; 2.05698823928833
+HTTP 1; http://www.duckduckgo.com; 1.343928575515747
+HTTP 1 and 3; http://www.duckduckgo.com; 1.2861242294311523
+HTTP 1 and 2; http://www.duckduckgo.com; 1.428269863128662
+HTTP 1, 2, and 3; http://www.duckduckgo.com; 1.4848747253417969
+HTTP 1; http://www.quora.com; 1.4510242938995361
+HTTP 1 and 3; http://www.quora.com; 1.0740022659301758
+HTTP 1 and 2; http://www.quora.com; 1.1289339065551758
+HTTP 1, 2, and 3; http://www.quora.com; 1.0853416919708252
+HTTP 1; http://www.sharepoint.com; 3.078190565109253
+HTTP 1 and 3; http://www.sharepoint.com; 3.2888617515563965
+HTTP 1 and 2; http://www.sharepoint.com; 4.800841808319092
+HTTP 1, 2, and 3; http://www.sharepoint.com; 3.350989580154419
+HTTP 1; http://www.fandom.com; 1.7024016380310059
+HTTP 1 and 3; http://www.fandom.com; 7.02165412902832
+HTTP 1 and 2; http://www.fandom.com; 2.3504388332366943
+HTTP 1, 2, and 3; http://www.fandom.com; 2.4941680431365967
+HTTP 1; http://www.cnn.com; 5.4816834926605225
+HTTP 1 and 3; http://www.cnn.com; 4.264702081680298
+HTTP 1 and 2; http://www.cnn.com; 4.32775354385376
+HTTP 1, 2, and 3; http://www.cnn.com; 4.031109571456909
+HTTP 1; http://www.foxnews.com; 4.183661460876465
+HTTP 1 and 3; http://www.foxnews.com; 4.6406872272491455
+HTTP 1 and 2; http://www.foxnews.com; 6.3965277671813965
+HTTP 1, 2, and 3; http://www.foxnews.com; 5.508847951889038
+HTTP 1; http://www.nytimes.com; 4.544857025146484
+HTTP 1 and 3; http://www.nytimes.com; 4.223296880722046
+HTTP 1 and 2; http://www.nytimes.com; 4.374521255493164
+HTTP 1, 2, and 3; http://www.nytimes.com; 4.020076751708984
+HTTP 1; http://www.ebay.com; 1.7626590728759766
+HTTP 1 and 3; http://www.ebay.com; 2.4047465324401855
+HTTP 1 and 2; http://www.ebay.com; 1.6093780994415283
+HTTP 1, 2, and 3; http://www.ebay.com; 1.7600395679473877
+HTTP 1; http://www.imdb.com; 3.2563250064849854
+HTTP 1 and 3; http://www.imdb.com; 3.32092547416687
+HTTP 1 and 2; http://www.imdb.com; 3.4454104900360107
+HTTP 1, 2, and 3; http://www.imdb.com; 2.6742637157440186
+HTTP 1; http://www.walmart.com; 3.84393310546875
+HTTP 1 and 3; http://www.walmart.com; 3.6074085235595703
+HTTP 1 and 2; http://www.walmart.com; 2.1515915393829346
+HTTP 1, 2, and 3; http://www.walmart.com; 2.01068377494812
+HTTP 1; http://www.live.com; 3.0500922203063965
+HTTP 1 and 3; http://www.live.com; 2.71494197845459
+HTTP 1 and 2; http://www.live.com; 3.485091209411621
+HTTP 1, 2, and 3; http://www.live.com; 2.890587329864502
+HTTP 1; http://www.msn.com; 0.7970118522644043
+HTTP 1 and 3; http://www.msn.com; 0.5741894245147705
+HTTP 1 and 2; http://www.msn.com; 0.6850204467773438
+HTTP 1, 2, and 3; http://www.msn.com; 0.6682281494140625
+HTTP 1; http://www.instructure.com; 3.0080039501190186
+HTTP 1 and 3; http://www.instructure.com; 1.1900830268859863
+HTTP 1 and 2; http://www.instructure.com; 1.0047194957733154
+HTTP 1, 2, and 3; http://www.instructure.com; 1.1266796588897705
+HTTP 1; http://www.spotify.com; 2.889500617980957
+HTTP 1 and 3; http://www.spotify.com; 2.4183433055877686
+HTTP 1 and 2; http://www.spotify.com; 2.886971950531006
+HTTP 1, 2, and 3; http://www.spotify.com; 2.602914333343506
+HTTP 1; http://www.usps.com; 2.667694330215454
+HTTP 1 and 3; http://www.usps.com; 2.688495635986328
+HTTP 1 and 2; http://www.usps.com; 3.29164981842041
+HTTP 1, 2, and 3; http://www.usps.com; 3.240448474884033
+HTTP 1; http://www.accuweather.com; 2.3853845596313477
+HTTP 1 and 3; http://www.accuweather.com; 4.0767662525177
+HTTP 1 and 2; http://www.accuweather.com; 1.920166015625
+HTTP 1, 2, and 3; http://www.accuweather.com; 2.582218647003174
+HTTP 1; http://www.bbc.com; 0.8227307796478271
+HTTP 1 and 3; http://www.bbc.com; 1.0507559776306152
+HTTP 1 and 2; http://www.bbc.com; 1.1465833187103271
+HTTP 1, 2, and 3; http://www.bbc.com; 0.8338663578033447
+HTTP 1; http://www.indeed.com; 0.737682580947876
+HTTP 1 and 3; http://www.indeed.com; 0.6589386463165283
+HTTP 1 and 2; http://www.indeed.com; 0.9010908603668213
+HTTP 1, 2, and 3; http://www.indeed.com; 0.8940670490264893
+HTTP 1; http://www.ziprecruiter.com; 1.1714978218078613
+HTTP 1 and 3; http://www.ziprecruiter.com; 1.063605546951294
+HTTP 1 and 2; http://www.ziprecruiter.com; 1.4637954235076904
+HTTP 1, 2, and 3; http://www.ziprecruiter.com; 0.47089052200317383
+HTTP 1; http://www.zillow.com; 5.231987476348877
+HTTP 1 and 3; http://www.zillow.com; 0.8590834140777588
+HTTP 1 and 2; http://www.zillow.com; 0.7661600112915039
+HTTP 1, 2, and 3; http://www.zillow.com; 0.7353992462158203
+HTTP 1; http://www.paypal.com; 3.2247140407562256
+HTTP 1 and 3; http://www.paypal.com; 1.948505163192749
+HTTP 1 and 2; http://www.paypal.com; 1.9818706512451172
+HTTP 1, 2, and 3; http://www.paypal.com; 1.3443849086761475
+HTTP 1; http://www.etsy.com; 2.1010427474975586
+HTTP 1 and 3; http://www.etsy.com; 2.7311043739318848
+HTTP 1 and 2; http://www.etsy.com; 2.4131875038146973
+HTTP 1, 2, and 3; http://www.etsy.com; 2.2350594997406006
+HTTP 1; http://www.nypost.com; 4.1324944496154785
+HTTP 1 and 3; http://www.nypost.com; 3.378528118133545
+HTTP 1 and 2; http://www.nypost.com; 3.1949405670166016
+HTTP 1, 2, and 3; http://www.nypost.com; 3.737475633621216
+HTTP 1; http://www.apple.com; 1.804541826248169
+HTTP 1 and 3; http://www.apple.com; 1.0412263870239258
+HTTP 1 and 2; http://www.apple.com; 2.0955209732055664
+HTTP 1, 2, and 3; http://www.apple.com; 1.602189302444458
+HTTP 1; http://www.ign.com; 3.904803514480591
+HTTP 1 and 3; http://www.ign.com; 1.7164373397827148
+HTTP 1 and 2; http://www.ign.com; 4.299616575241089
+HTTP 1, 2, and 3; http://www.ign.com; 1.5354337692260742
+HTTP 1; http://www.max.com; 1.3694877624511719
+HTTP 1 and 3; http://www.max.com; 1.9427194595336914
+HTTP 1 and 2; http://www.max.com; 1.6983652114868164
+HTTP 1, 2, and 3; http://www.max.com; 1.601994514465332
+HTTP 1; http://www.usatoday.com; 3.4633777141571045
+HTTP 1 and 3; http://www.usatoday.com; 3.376169443130493
+HTTP 1 and 2; http://www.usatoday.com; 3.207084894180298
+HTTP 1, 2, and 3; http://www.usatoday.com; 2.937800407409668
+protocol; url; rtt - Optimum Internet - Home Internet - Wifi - 2023-12-10 17:33:51.016291
+HTTP 1; http://www.google.com; 1.4268074035644531
+HTTP 1 and 3; http://www.google.com; 1.1837759017944336
+HTTP 1 and 2; http://www.google.com; 1.0836970806121826
+HTTP 1, 2, and 3; http://www.google.com; 1.0132904052734375
+HTTP 1; http://www.njit.edu; 3.289013147354126
+HTTP 1 and 3; http://www.njit.edu; 2.7952513694763184
+HTTP 1 and 2; http://www.njit.edu; 3.0309906005859375
+HTTP 1, 2, and 3; http://www.njit.edu; 3.43550705909729
+HTTP 1; http://www.facebook.com; 1.5295443534851074
+HTTP 1 and 3; http://www.facebook.com; 0.9099462032318115
+HTTP 1 and 2; http://www.facebook.com; 0.8400866985321045
+HTTP 1, 2, and 3; http://www.facebook.com; 0.7937726974487305
+HTTP 1; http://www.reddit.com; 3.3320372104644775
+HTTP 1 and 3; http://www.reddit.com; 3.4282400608062744
+HTTP 1 and 2; http://www.reddit.com; 2.323955535888672
+HTTP 1, 2, and 3; http://www.reddit.com; 2.1531312465667725
+HTTP 1; http://www.twitter.com; 1.2262206077575684
+HTTP 1 and 3; http://www.twitter.com; 1.8624842166900635
+HTTP 1 and 2; http://www.twitter.com; 1.098341703414917
+HTTP 1, 2, and 3; http://www.twitter.com; 1.2389650344848633
+HTTP 1; http://www.youtube.com; 5.751683712005615
+HTTP 1 and 3; http://www.youtube.com; 5.205210208892822
+HTTP 1 and 2; http://www.youtube.com; 4.616726875305176
+HTTP 1, 2, and 3; http://www.youtube.com; 4.104523658752441
+HTTP 1; http://www.amazon.com; 4.513455390930176
+HTTP 1 and 3; http://www.amazon.com; 3.381850004196167
+HTTP 1 and 2; http://www.amazon.com; 2.406679630279541
+HTTP 1, 2, and 3; http://www.amazon.com; 3.3666422367095947
+HTTP 1; http://www.wikipedia.org; 0.7111146450042725
+HTTP 1 and 3; http://www.wikipedia.org; 0.6681258678436279
+HTTP 1 and 2; http://www.wikipedia.org; 0.6522982120513916
+HTTP 1, 2, and 3; http://www.wikipedia.org; 0.7734031677246094
+HTTP 1; http://www.yahoo.com; 2.701270818710327
+HTTP 1 and 3; http://www.yahoo.com; 2.741619110107422
+HTTP 1 and 2; http://www.yahoo.com; 2.7915778160095215
+HTTP 1, 2, and 3; http://www.yahoo.com; 4.781307935714722
+HTTP 1; http://www.instagram.com; 1.3215720653533936
+HTTP 1 and 3; http://www.instagram.com; 1.0514676570892334
+HTTP 1 and 2; http://www.instagram.com; 1.0900180339813232
+HTTP 1, 2, and 3; http://www.instagram.com; 1.4538800716400146
+HTTP 1; http://www.tiktok.com; 1.3821702003479004
+HTTP 1 and 3; http://www.tiktok.com; 2.3715739250183105
+HTTP 1 and 2; http://www.tiktok.com; 2.0434160232543945
+HTTP 1, 2, and 3; http://www.tiktok.com; 1.5584392547607422
+HTTP 1; http://www.linkedin.com; 1.4074649810791016
+HTTP 1 and 3; http://www.linkedin.com; 1.4309065341949463
+HTTP 1 and 2; http://www.linkedin.com; 1.375765323638916
+HTTP 1, 2, and 3; http://www.linkedin.com; 1.5405042171478271
+HTTP 1; http://www.imgur.com; 3.766663074493408
+HTTP 1 and 3; http://www.imgur.com; 3.042715311050415
+HTTP 1 and 2; http://www.imgur.com; 3.261812210083008
+HTTP 1, 2, and 3; http://www.imgur.com; 4.820404529571533
+HTTP 1; http://www.office.com; 3.5200390815734863
+HTTP 1 and 3; http://www.office.com; 3.00949764251709
+HTTP 1 and 2; http://www.office.com; 4.260432958602905
+HTTP 1, 2, and 3; http://www.office.com; 3.7184298038482666
+HTTP 1; http://www.netflix.com; 2.8471665382385254
+HTTP 1 and 3; http://www.netflix.com; 1.5540697574615479
+HTTP 1 and 2; http://www.netflix.com; 2.489708662033081
+HTTP 1, 2, and 3; http://www.netflix.com; 1.3658576011657715
+HTTP 1; http://www.bing.com; 0.33545756340026855
+HTTP 1 and 3; http://www.bing.com; 0.42122673988342285
+HTTP 1 and 2; http://www.bing.com; 0.3484928607940674
+HTTP 1, 2, and 3; http://www.bing.com; 0.5618844032287598
+HTTP 1; http://www.samsung.com; 1.9231209754943848
+HTTP 1 and 3; http://www.samsung.com; 2.999011278152466
+HTTP 1 and 2; http://www.samsung.com; 2.617818593978882
+HTTP 1, 2, and 3; http://www.samsung.com; 2.6754684448242188
+HTTP 1; http://www.pinterest.com; 0.8470816612243652
+HTTP 1 and 3; http://www.pinterest.com; 0.8246719837188721
+HTTP 1 and 2; http://www.pinterest.com; 0.7879946231842041
+HTTP 1, 2, and 3; http://www.pinterest.com; 0.865107536315918
+HTTP 1; http://www.microsoft.com; 3.317702293395996
+HTTP 1 and 3; http://www.microsoft.com; 2.9339141845703125
+HTTP 1 and 2; http://www.microsoft.com; 2.79335880279541
+HTTP 1, 2, and 3; http://www.microsoft.com; 3.5654611587524414
+HTTP 1; http://www.discord.com; 1.6426610946655273
+HTTP 1 and 3; http://www.discord.com; 1.2357738018035889
+HTTP 1 and 2; http://www.discord.com; 1.4556879997253418
+HTTP 1, 2, and 3; http://www.discord.com; 1.03590726852417
+HTTP 1; http://www.weather.com; 3.950059413909912
+HTTP 1 and 3; http://www.weather.com; 2.160959243774414
+HTTP 1 and 2; http://www.weather.com; 1.2810492515563965
+HTTP 1, 2, and 3; http://www.weather.com; 1.6515696048736572
+HTTP 1; http://www.twitch.tv; 8.408772706985474
+HTTP 1 and 3; http://www.twitch.tv; 8.089285373687744
+HTTP 1 and 2; http://www.twitch.tv; 8.126527309417725
+HTTP 1, 2, and 3; http://www.twitch.tv; 3.4041659832000732
+HTTP 1; http://www.zoom.us; 3.592822313308716
+HTTP 1 and 3; http://www.zoom.us; 1.966890811920166
+HTTP 1 and 2; http://www.zoom.us; 2.6005218029022217
+HTTP 1, 2, and 3; http://www.zoom.us; 3.0850670337677
+HTTP 1; http://www.duckduckgo.com; 1.1768198013305664
+HTTP 1 and 3; http://www.duckduckgo.com; 1.3088538646697998
+HTTP 1 and 2; http://www.duckduckgo.com; 1.9932565689086914
+HTTP 1, 2, and 3; http://www.duckduckgo.com; 1.5830354690551758
+HTTP 1; http://www.quora.com; 1.290393590927124
+HTTP 1 and 3; http://www.quora.com; 1.2561678886413574
+HTTP 1 and 2; http://www.quora.com; 1.0720951557159424
+HTTP 1, 2, and 3; http://www.quora.com; 1.0068397521972656
+HTTP 1; http://www.sharepoint.com; 3.2838895320892334
+HTTP 1 and 3; http://www.sharepoint.com; 4.889257192611694
+HTTP 1 and 2; http://www.sharepoint.com; 3.9234118461608887
+HTTP 1, 2, and 3; http://www.sharepoint.com; 3.2907185554504395
+HTTP 1; http://www.fandom.com; 1.9738163948059082
+HTTP 1 and 3; http://www.fandom.com; 2.0013105869293213
+HTTP 1 and 2; http://www.fandom.com; 2.561323881149292
+HTTP 1, 2, and 3; http://www.fandom.com; 2.4758453369140625
+HTTP 1; http://www.cnn.com; 4.704499006271362
+HTTP 1 and 3; http://www.cnn.com; 3.17568039894104
+HTTP 1 and 2; http://www.cnn.com; 5.137259006500244
+HTTP 1, 2, and 3; http://www.cnn.com; 4.516523838043213
+HTTP 1; http://www.foxnews.com; 4.343966960906982
+HTTP 1 and 3; http://www.foxnews.com; 4.302217960357666
+HTTP 1 and 2; http://www.foxnews.com; 3.489957809448242
+HTTP 1, 2, and 3; http://www.foxnews.com; 4.22190260887146
+HTTP 1; http://www.nytimes.com; 4.202193975448608
+HTTP 1 and 3; http://www.nytimes.com; 4.089257001876831
+HTTP 1 and 2; http://www.nytimes.com; 3.5642127990722656
+HTTP 1, 2, and 3; http://www.nytimes.com; 7.174098491668701
+HTTP 1; http://www.ebay.com; 1.689542293548584
+HTTP 1 and 3; http://www.ebay.com; 2.299262762069702
+HTTP 1 and 2; http://www.ebay.com; 1.9419019222259521
+HTTP 1, 2, and 3; http://www.ebay.com; 1.698042392730713
+HTTP 1; http://www.imdb.com; 3.2664759159088135
+HTTP 1 and 3; http://www.imdb.com; 2.8158490657806396
+HTTP 1 and 2; http://www.imdb.com; 2.9538111686706543
+HTTP 1, 2, and 3; http://www.imdb.com; 3.1423463821411133
+HTTP 1; http://www.walmart.com; 2.707818031311035
+HTTP 1 and 3; http://www.walmart.com; 3.6029627323150635
+HTTP 1 and 2; http://www.walmart.com; 1.7785277366638184
+HTTP 1, 2, and 3; http://www.walmart.com; 3.198261260986328
+HTTP 1; http://www.live.com; 3.4769132137298584
+HTTP 1 and 3; http://www.live.com; 2.989311456680298
+HTTP 1 and 2; http://www.live.com; 4.803382635116577
+HTTP 1, 2, and 3; http://www.live.com; 2.5970053672790527
+HTTP 1; http://www.msn.com; 0.7683279514312744
+HTTP 1 and 3; http://www.msn.com; 0.7893266677856445
+HTTP 1 and 2; http://www.msn.com; 0.9253857135772705
+HTTP 1, 2, and 3; http://www.msn.com; 0.6224668025970459
+HTTP 1; http://www.instructure.com; 1.1638669967651367
+HTTP 1 and 3; http://www.instructure.com; 1.4394466876983643
+HTTP 1 and 2; http://www.instructure.com; 2.4250075817108154
+HTTP 1, 2, and 3; http://www.instructure.com; 0.9707620143890381
+HTTP 1; http://www.spotify.com; 2.8945555686950684
+HTTP 1 and 3; http://www.spotify.com; 2.773061990737915
+HTTP 1 and 2; http://www.spotify.com; 2.955204725265503
+HTTP 1, 2, and 3; http://www.spotify.com; 2.7015438079833984
+HTTP 1; http://www.usps.com; 2.7043232917785645
+HTTP 1 and 3; http://www.usps.com; 2.913281202316284
+HTTP 1 and 2; http://www.usps.com; 2.81274151802063
+HTTP 1, 2, and 3; http://www.usps.com; 2.60499906539917
+HTTP 1; http://www.accuweather.com; 2.1392273902893066
+HTTP 1 and 3; http://www.accuweather.com; 5.964373350143433
+HTTP 1 and 2; http://www.accuweather.com; 2.5559260845184326
+HTTP 1, 2, and 3; http://www.accuweather.com; 2.06742262840271
+HTTP 1; http://www.bbc.com; 2.823720932006836
+HTTP 1 and 3; http://www.bbc.com; 0.6837425231933594
+HTTP 1 and 2; http://www.bbc.com; 0.9162681102752686
+HTTP 1, 2, and 3; http://www.bbc.com; 1.9282245635986328
+HTTP 1; http://www.indeed.com; 1.0768260955810547
+HTTP 1 and 3; http://www.indeed.com; 0.9321346282958984
+HTTP 1 and 2; http://www.indeed.com; 0.8649353981018066
+HTTP 1, 2, and 3; http://www.indeed.com; 1.0125312805175781
+HTTP 1; http://www.ziprecruiter.com; 2.042811870574951
+HTTP 1 and 3; http://www.ziprecruiter.com; 1.064251184463501
+HTTP 1 and 2; http://www.ziprecruiter.com; 1.4354302883148193
+HTTP 1, 2, and 3; http://www.ziprecruiter.com; 0.45875072479248047
+HTTP 1; http://www.zillow.com; 2.8607287406921387
+HTTP 1 and 3; http://www.zillow.com; 1.9645109176635742
+HTTP 1 and 2; http://www.zillow.com; 0.8010480403900146
+HTTP 1, 2, and 3; http://www.zillow.com; 0.7134866714477539
+HTTP 1; http://www.paypal.com; 2.238133668899536
+HTTP 1 and 3; http://www.paypal.com; 1.494901418685913
+HTTP 1 and 2; http://www.paypal.com; 1.3747906684875488
+HTTP 1, 2, and 3; http://www.paypal.com; 1.2100074291229248
+HTTP 1; http://www.etsy.com; 2.659834384918213
+HTTP 1 and 3; http://www.etsy.com; 2.3663008213043213
+HTTP 1 and 2; http://www.etsy.com; 2.5365662574768066
+HTTP 1, 2, and 3; http://www.etsy.com; 2.1705806255340576
+HTTP 1; http://www.nypost.com; 7.679236650466919
+HTTP 1 and 3; http://www.nypost.com; 3.6962687969207764
+HTTP 1 and 2; http://www.nypost.com; 4.799163818359375
+HTTP 1, 2, and 3; http://www.nypost.com; 3.2299509048461914
+HTTP 1; http://www.apple.com; 1.3777387142181396
+HTTP 1 and 3; http://www.apple.com; 1.2671434879302979
+HTTP 1 and 2; http://www.apple.com; 1.8467276096343994
+HTTP 1, 2, and 3; http://www.apple.com; 1.7793383598327637
+HTTP 1; http://www.ign.com; 1.745161533355713
+HTTP 1 and 3; http://www.ign.com; 3.6919474601745605
+HTTP 1 and 2; http://www.ign.com; 1.7362167835235596
+HTTP 1, 2, and 3; http://www.ign.com; 3.9503629207611084
+HTTP 1; http://www.max.com; 1.7465877532958984
+HTTP 1 and 3; http://www.max.com; 1.6341173648834229
+HTTP 1 and 2; http://www.max.com; 1.732576608657837
+HTTP 1, 2, and 3; http://www.max.com; 1.8802595138549805
+HTTP 1; http://www.usatoday.com; 3.70689058303833
+HTTP 1 and 3; http://www.usatoday.com; 3.551894187927246
+HTTP 1 and 2; http://www.usatoday.com; 4.988981008529663
+HTTP 1, 2, and 3; http://www.usatoday.com; 16.64144229888916
+protocol; url; rtt - Optimum Internet - Home Internet - Wifi - 2023-12-10 18:06:59.687957
+HTTP 1; http://www.google.com; 1.1889488697052002
+HTTP 1 and 3; http://www.google.com; 1.4012212753295898
+HTTP 1 and 2; http://www.google.com; 1.0231585502624512
+HTTP 1, 2, and 3; http://www.google.com; 1.8646719455718994
+HTTP 1; http://www.njit.edu; 3.4331581592559814
+HTTP 1 and 3; http://www.njit.edu; 3.274365186691284
+HTTP 1 and 2; http://www.njit.edu; 2.8541529178619385
+HTTP 1, 2, and 3; http://www.njit.edu; 3.048340320587158
+HTTP 1; http://www.facebook.com; 0.9083218574523926
+HTTP 1 and 3; http://www.facebook.com; 0.9314029216766357
+HTTP 1 and 2; http://www.facebook.com; 0.8568160533905029
+HTTP 1, 2, and 3; http://www.facebook.com; 0.8459055423736572
+HTTP 1; http://www.reddit.com; 4.531052350997925
+HTTP 1 and 3; http://www.reddit.com; 3.2186386585235596
+HTTP 1 and 2; http://www.reddit.com; 3.1390573978424072
+HTTP 1, 2, and 3; http://www.reddit.com; 1.8319158554077148
+HTTP 1; http://www.twitter.com; 1.400984287261963
+HTTP 1 and 3; http://www.twitter.com; 1.8280072212219238
+HTTP 1 and 2; http://www.twitter.com; 3.351985454559326
+HTTP 1, 2, and 3; http://www.twitter.com; 1.858931541442871
+HTTP 1; http://www.youtube.com; 5.657559871673584
+HTTP 1 and 3; http://www.youtube.com; 5.139432668685913
+HTTP 1 and 2; http://www.youtube.com; 5.024207353591919
+HTTP 1, 2, and 3; http://www.youtube.com; 4.961949825286865
+HTTP 1; http://www.amazon.com; 3.1899478435516357
+HTTP 1 and 3; http://www.amazon.com; 2.757094621658325
+HTTP 1 and 2; http://www.amazon.com; 2.188019037246704
+HTTP 1, 2, and 3; http://www.amazon.com; 3.100132942199707
+HTTP 1; http://www.wikipedia.org; 0.737276554107666
+HTTP 1 and 3; http://www.wikipedia.org; 0.6644902229309082
+HTTP 1 and 2; http://www.wikipedia.org; 0.6339929103851318
+HTTP 1, 2, and 3; http://www.wikipedia.org; 0.6393258571624756
+HTTP 1; http://www.yahoo.com; 2.6232120990753174
+HTTP 1 and 3; http://www.yahoo.com; 6.101419925689697
+HTTP 1 and 2; http://www.yahoo.com; 3.1836752891540527
+HTTP 1, 2, and 3; http://www.yahoo.com; 2.0802454948425293
+HTTP 1; http://www.instagram.com; 1.181380271911621
+HTTP 1 and 3; http://www.instagram.com; 0.851154088973999
+HTTP 1 and 2; http://www.instagram.com; 1.128138780593872
+HTTP 1, 2, and 3; http://www.instagram.com; 1.0906572341918945
+HTTP 1; http://www.tiktok.com; 2.471832036972046
+HTTP 1 and 3; http://www.tiktok.com; 2.213289499282837
+HTTP 1 and 2; http://www.tiktok.com; 1.987189769744873
+HTTP 1, 2, and 3; http://www.tiktok.com; 2.3221778869628906
+HTTP 1; http://www.linkedin.com; 1.4092059135437012
+HTTP 1 and 3; http://www.linkedin.com; 1.4488599300384521
+HTTP 1 and 2; http://www.linkedin.com; 1.4471595287322998
+HTTP 1, 2, and 3; http://www.linkedin.com; 1.2433228492736816
+HTTP 1; http://www.imgur.com; 3.1606788635253906
+HTTP 1 and 3; http://www.imgur.com; 3.0395567417144775
+HTTP 1 and 2; http://www.imgur.com; 3.273489475250244
+HTTP 1, 2, and 3; http://www.imgur.com; 3.3909060955047607
+HTTP 1; http://www.office.com; 3.352560520172119
+HTTP 1 and 3; http://www.office.com; 1.8068807125091553
+HTTP 1 and 2; http://www.office.com; 7.257973670959473
+HTTP 1, 2, and 3; http://www.office.com; 1.5071706771850586
+HTTP 1; http://www.netflix.com; 2.8301124572753906
+HTTP 1 and 3; http://www.netflix.com; 1.8690340518951416
+HTTP 1 and 2; http://www.netflix.com; 1.446964979171753
+HTTP 1, 2, and 3; http://www.netflix.com; 1.7127697467803955
+HTTP 1; http://www.bing.com; 0.4743485450744629
+HTTP 1 and 3; http://www.bing.com; 0.4167447090148926
+HTTP 1 and 2; http://www.bing.com; 0.4865901470184326
+HTTP 1, 2, and 3; http://www.bing.com; 1.293250560760498
+HTTP 1; http://www.samsung.com; 2.8002736568450928
+HTTP 1 and 3; http://www.samsung.com; 3.2606890201568604
+HTTP 1 and 2; http://www.samsung.com; 2.934642791748047
+HTTP 1, 2, and 3; http://www.samsung.com; 3.1019303798675537
+HTTP 1; http://www.pinterest.com; 1.0383553504943848
+HTTP 1 and 3; http://www.pinterest.com; 0.8689405918121338
+HTTP 1 and 2; http://www.pinterest.com; 0.7371125221252441
+HTTP 1, 2, and 3; http://www.pinterest.com; 0.7861318588256836
+HTTP 1; http://www.microsoft.com; 2.660675525665283
+HTTP 1 and 3; http://www.microsoft.com; 3.212219476699829
+HTTP 1 and 2; http://www.microsoft.com; 3.7948856353759766
+HTTP 1, 2, and 3; http://www.microsoft.com; 3.1789097785949707
+HTTP 1; http://www.discord.com; 1.6423463821411133
+HTTP 1 and 3; http://www.discord.com; 1.0971291065216064
+HTTP 1 and 2; http://www.discord.com; 2.639230966567993
+HTTP 1, 2, and 3; http://www.discord.com; 1.3303442001342773
+HTTP 1; http://www.weather.com; 1.6776680946350098
+HTTP 1 and 3; http://www.weather.com; 1.5777206420898438
+HTTP 1 and 2; http://www.weather.com; 1.8309342861175537
+HTTP 1, 2, and 3; http://www.weather.com; 1.4632837772369385
+HTTP 1; http://www.twitch.tv; 3.2902936935424805
+HTTP 1 and 3; http://www.twitch.tv; 12.400198936462402
+HTTP 1 and 2; http://www.twitch.tv; 7.395249366760254
+HTTP 1, 2, and 3; http://www.twitch.tv; 7.394960641860962
+HTTP 1; http://www.zoom.us; 2.119126081466675
+HTTP 1 and 3; http://www.zoom.us; 2.5259997844696045
+HTTP 1 and 2; http://www.zoom.us; 1.9555323123931885
+HTTP 1, 2, and 3; http://www.zoom.us; 1.952559471130371
+HTTP 1; http://www.duckduckgo.com; 1.2447924613952637
+HTTP 1 and 3; http://www.duckduckgo.com; 1.4639532566070557
+HTTP 1 and 2; http://www.duckduckgo.com; 1.092545747756958
+HTTP 1, 2, and 3; http://www.duckduckgo.com; 1.6986675262451172
+HTTP 1; http://www.quora.com; 1.2988429069519043
+HTTP 1 and 3; http://www.quora.com; 1.151137113571167
+HTTP 1 and 2; http://www.quora.com; 1.2810020446777344
+HTTP 1, 2, and 3; http://www.quora.com; 1.0144612789154053
+HTTP 1; http://www.sharepoint.com; 4.016806125640869
+HTTP 1 and 3; http://www.sharepoint.com; 3.5892791748046875
+HTTP 1 and 2; http://www.sharepoint.com; 2.6349284648895264
+HTTP 1, 2, and 3; http://www.sharepoint.com; 4.856908559799194
+HTTP 1; http://www.fandom.com; 2.9861807823181152
+HTTP 1 and 3; http://www.fandom.com; 2.9192771911621094
+HTTP 1 and 2; http://www.fandom.com; 2.4769222736358643
+HTTP 1, 2, and 3; http://www.fandom.com; 1.9911139011383057
+HTTP 1; http://www.cnn.com; 4.259862184524536
+HTTP 1 and 3; http://www.cnn.com; 6.683818101882935
+HTTP 1 and 2; http://www.cnn.com; 4.663691520690918
+HTTP 1, 2, and 3; http://www.cnn.com; 5.6824681758880615
+HTTP 1; http://www.foxnews.com; 4.559304475784302
+HTTP 1 and 3; http://www.foxnews.com; 6.792256832122803
+HTTP 1 and 2; http://www.foxnews.com; 4.168508291244507
+HTTP 1, 2, and 3; http://www.foxnews.com; 3.830559492111206
+HTTP 1; http://www.nytimes.com; 4.297754764556885
+HTTP 1 and 3; http://www.nytimes.com; 4.304654121398926
+HTTP 1 and 2; http://www.nytimes.com; 3.5912106037139893
+HTTP 1, 2, and 3; http://www.nytimes.com; 4.726219654083252
+HTTP 1; http://www.ebay.com; 1.6455225944519043
+HTTP 1 and 3; http://www.ebay.com; 1.7194023132324219
+HTTP 1 and 2; http://www.ebay.com; 1.7432446479797363
+HTTP 1, 2, and 3; http://www.ebay.com; 1.6263716220855713
+HTTP 1; http://www.imdb.com; 3.195199489593506
+HTTP 1 and 3; http://www.imdb.com; 3.208510637283325
+HTTP 1 and 2; http://www.imdb.com; 4.375303506851196
+HTTP 1, 2, and 3; http://www.imdb.com; 3.549201488494873
+HTTP 1; http://www.walmart.com; 3.857273817062378
+HTTP 1 and 3; http://www.walmart.com; 2.231353521347046
+HTTP 1 and 2; http://www.walmart.com; 1.8304407596588135
+HTTP 1, 2, and 3; http://www.walmart.com; 2.3957293033599854
+HTTP 1; http://www.live.com; 2.6514673233032227
+HTTP 1 and 3; http://www.live.com; 2.2738699913024902
+HTTP 1 and 2; http://www.live.com; 2.783539295196533
+HTTP 1, 2, and 3; http://www.live.com; 3.2575559616088867
+HTTP 1; http://www.msn.com; 0.7777242660522461
+HTTP 1 and 3; http://www.msn.com; 0.764171838760376
+HTTP 1 and 2; http://www.msn.com; 0.904484748840332
+HTTP 1, 2, and 3; http://www.msn.com; 0.8216681480407715
+HTTP 1; http://www.instructure.com; 1.3785905838012695
+HTTP 1 and 3; http://www.instructure.com; 1.1979453563690186
+HTTP 1 and 2; http://www.instructure.com; 1.0139265060424805
+HTTP 1, 2, and 3; http://www.instructure.com; 2.441232442855835
+HTTP 1; http://www.spotify.com; 4.489433526992798
+HTTP 1 and 3; http://www.spotify.com; 3.1257243156433105
+HTTP 1 and 2; http://www.spotify.com; 2.249725580215454
+HTTP 1, 2, and 3; http://www.spotify.com; 2.4334969520568848
+HTTP 1; http://www.usps.com; 2.794421672821045
+HTTP 1 and 3; http://www.usps.com; 2.662574529647827
+HTTP 1 and 2; http://www.usps.com; 2.557309150695801
+HTTP 1, 2, and 3; http://www.usps.com; 3.4748942852020264
+HTTP 1; http://www.accuweather.com; 1.9487700462341309
+HTTP 1 and 3; http://www.accuweather.com; 1.9650332927703857
+HTTP 1 and 2; http://www.accuweather.com; 2.1342828273773193
+HTTP 1, 2, and 3; http://www.accuweather.com; 1.9240009784698486
+HTTP 1; http://www.bbc.com; 0.6859347820281982
+HTTP 1 and 3; http://www.bbc.com; 0.693688154220581
+HTTP 1 and 2; http://www.bbc.com; 2.054337739944458
+HTTP 1, 2, and 3; http://www.bbc.com; 1.967832088470459
+HTTP 1; http://www.indeed.com; 0.9109525680541992
+HTTP 1 and 3; http://www.indeed.com; 0.9648518562316895
+HTTP 1 and 2; http://www.indeed.com; 0.710679292678833
+HTTP 1, 2, and 3; http://www.indeed.com; 0.5445489883422852
+HTTP 1; http://www.ziprecruiter.com; 1.2250587940216064
+HTTP 1 and 3; http://www.ziprecruiter.com; 0.5578041076660156
+HTTP 1 and 2; http://www.ziprecruiter.com; 1.0965561866760254
+HTTP 1, 2, and 3; http://www.ziprecruiter.com; 0.5871734619140625
+HTTP 1; http://www.zillow.com; 3.245753765106201
+HTTP 1 and 3; http://www.zillow.com; 0.7940385341644287
+HTTP 1 and 2; http://www.zillow.com; 0.8134167194366455
+HTTP 1, 2, and 3; http://www.zillow.com; 0.9230537414550781
+HTTP 1; http://www.paypal.com; 1.5747981071472168
+HTTP 1 and 3; http://www.paypal.com; 1.5437037944793701
+HTTP 1 and 2; http://www.paypal.com; 1.7501821517944336
+HTTP 1, 2, and 3; http://www.paypal.com; 1.829317569732666
+HTTP 1; http://www.etsy.com; 2.6408984661102295
+HTTP 1 and 3; http://www.etsy.com; 2.2893550395965576
+HTTP 1 and 2; http://www.etsy.com; 2.247924566268921
+HTTP 1, 2, and 3; http://www.etsy.com; 2.1224172115325928
+HTTP 1; http://www.nypost.com; 4.004859209060669
+HTTP 1 and 3; http://www.nypost.com; 3.1307260990142822
+HTTP 1 and 2; http://www.nypost.com; 8.919048309326172
+HTTP 1, 2, and 3; http://www.nypost.com; 3.7998833656311035
+HTTP 1; http://www.apple.com; 3.662748336791992
+HTTP 1 and 3; http://www.apple.com; 1.2298955917358398
+HTTP 1 and 2; http://www.apple.com; 2.334702253341675
+HTTP 1, 2, and 3; http://www.apple.com; 2.013803243637085
+HTTP 1; http://www.ign.com; 1.558408260345459
+HTTP 1 and 3; http://www.ign.com; 5.020979404449463
+HTTP 1 and 2; http://www.ign.com; 1.5365536212921143
+HTTP 1, 2, and 3; http://www.ign.com; 3.664475202560425
+HTTP 1; http://www.max.com; 1.481510877609253
+HTTP 1 and 3; http://www.max.com; 1.9875373840332031
+HTTP 1 and 2; http://www.max.com; 1.6899008750915527
+HTTP 1, 2, and 3; http://www.max.com; 1.5870542526245117
+HTTP 1; http://www.usatoday.com; 4.863425016403198
+HTTP 1 and 3; http://www.usatoday.com; 3.347045660018921
+HTTP 1 and 2; http://www.usatoday.com; 4.594751596450806
+HTTP 1, 2, and 3; http://www.usatoday.com; 3.162625551223755

@@ -1,0 +1,10 @@
+url: rtt
+HTTP 1; https://youtube.com; 4.634456634521484
+HTTP 1 and 3; https://youtube.com; 5.079057216644287
+HTTP 1 and 2; https://youtube.com; 6.197457313537598
+HTTP 1, 2, and 3; https://youtube.com; 5.304043531417847
+url: rtt
+HTTP 1; https://youtube.com; 4.981401443481445
+HTTP 1 and 3; https://youtube.com; 5.685337543487549
+HTTP 1 and 2; https://youtube.com; 6.530681133270264
+HTTP 1, 2, and 3; https://youtube.com; 4.444603204727173

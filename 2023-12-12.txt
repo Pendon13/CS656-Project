@@ -1,0 +1,2 @@
+protocol; url; rtt - Optimum Internet - Home Internet - Wifi - 2023-12-12 23:08:52.684819
+protocol; url; rtt - Optimum Internet - Home Internet - Wifi - 2023-12-12 23:09:34.701791
